@@ -90,9 +90,26 @@ um iniciante a aprender com menos fricção.
 
 ### O que é (em português simples)
 
-É um pacote de benefícios para estudantes verificados no GitHub. Na prática,
-ele libera ferramentas profissionais e créditos educacionais que, fora disso,
-seriam pagos.
+É um pacote de benefícios gratuito para estudantes verificados no GitHub.
+
+Somando **todas as ferramentas e licenças**, o pacote ultrapassa **US$200 mil em valor educacional**.
+
+Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profissionais usam — sem pagar nada**.
+
+### 🚀 Como ativar o GitHub Student Developer Pack
+
+1. Crie uma conta no GitHub  
+   [Criar conta](https://github.com)
+
+2. Acesse a página do programa  
+   [GitHub Student Developer Pack](https://education.github.com/pack)
+
+3. Clique em **Get Student Benefits**
+
+4. Verifique seu status de estudante usando uma das opções:
+   - Email institucional da escola
+   - Carteirinha de estudante
+   - Documento acadêmico
 
 ### Como funciona (sem mistério)
 
