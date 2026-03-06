@@ -119,17 +119,7 @@ seriam pagos.
 | [Educative](https://education.github.com/pack) | Bom para quem aprende lendo e praticando direto no navegador. | ✅ Alta | Quando você quiser prática guiada. |
 | [Scrimba](https://education.github.com/pack) | Ótimo para acelerar front-end, desde que você use com objetivo claro. | ✅ Alta | Quando já estiver pronto para fazer projetos simples. |
 
-#### 2) 🤖 IDE com IA e apoio ao estudo
-
-| Recurso | Ajuda em quê | Prioridade | Quando usar |
-|---|---|---|---|
-| [GitHub Copilot Pro](https://education.github.com/pack) | Ajuda a destravar, explicar código e sugerir caminhos. | 🔥 Máxima | Assim que tiver o pack. |
-| [GitHub Codespaces](https://education.github.com/pack) | Reduz dor de instalação e ajuda quem está com setup local ruim ou PC fraco. | ✅ Alta | Quando o ambiente local estiver travando você. |
-
-> ⚠️ **Alerta importante:** IA é ótima para explicar e sugerir, mas atrapalha
-> quando faz tudo por você. Use primeiro para entender; só depois para acelerar.
-
-#### 3) 🚀 Colocar projeto no ar sem pagar no começo
+#### 2) 🚀 Colocar projeto no ar sem pagar no começo
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
@@ -144,28 +134,28 @@ seriam pagos.
 - [Netlify](https://www.netlify.com/pricing/)
 - [Vercel](https://vercel.com/docs/plans)
 
-#### 4) 🗂️ Organização e produtividade
+#### 3) 🗂️ Organização e produtividade
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
 | [Notion](https://education.github.com/pack) | Centraliza anotações, checklist de estudos e projetos. | ✅ Alta | No 1º mês. |
 | [Notion Template Collection](https://education.github.com/pack) | Evita começar do zero na organização. | 🟡 Média | Depois de decidir que vai usar Notion. |
 
-#### 5) 🛠️ Banco de dados e infraestrutura
+#### 4) 🛠️ Banco de dados e infraestrutura
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
 | [MongoDB Atlas](https://education.github.com/pack) | Faz sentido quando você já precisa de banco para uma API CRUD simples. | 🕒 Depois | Quando começar back-end de verdade. |
 | [1Password](https://education.github.com/pack) | Ajuda a guardar senhas, tokens e chaves com segurança. | ✅ Alta | Quando começar a usar APIs, deploy e cloud. |
 
-#### 6) 🌐 Domínio e cara profissional
+#### 5) 🌐 Domínio e cara profissional
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
 | [Namecheap (.me + SSL)](https://education.github.com/pack) | Dá um domínio profissional para portfólio, mas não é essencial no início. | 🕒 Depois | Quando o portfólio já estiver publicado. |
 | [.TECH domain](https://education.github.com/pack) | Também ajuda no branding do portfólio, mas só vale depois de ter conteúdo no ar. | 🕒 Depois | Depois de ter algo publicado. |
 
-#### 7) 🏅 Certificação
+#### 6) 🏅 Certificação
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
@@ -184,7 +174,7 @@ A lógica aqui é simples: escolha **1 para aprender**, **1 para praticar** e
 
 | Recurso | Melhor uso | Prioridade | Quando escolher |
 |---|---|---|---|
-| [Curso em Vídeo](https://www.cursoemvideo.com/cursos/) | Base didática e direta para perder medo e ganhar vocabulário técnico. | 🔥 Máxima | Se você aprende melhor por vídeo. |
+| [Curso em Vídeo](https://www.youtube.com/cursoemvideo) | O pai dos iniciantes, cursos grátis para os calouros que não sabem de nada. | 🔥 Máxima | Se você aprende melhor por vídeo. |
 | [FIAP Nano Courses](https://on.fiap.com.br/nano-courses/) | Reforço rápido com conteúdo prático e certificado. | ✅ Alta | Quando quiser fechar lacunas específicas. |
 
 ### Se você aprende melhor por...
@@ -221,7 +211,7 @@ funcionam como bússola, referência e apoio prático.
   Mapas por área para entender caminhos possíveis em front-end, back-end,
   dados e outras trilhas.
 
-> ⚠️ **Alerta:** use o `developer-roadmap` como mapa para entender o território,
+> ⚠️ **Alerta:** use o `developer-roadmap` como mapa para entender o território da sua área,
 > não como checklist de tudo que você precisa estudar agora.
 
 ### 🗃️ Curadoria complementar
@@ -257,7 +247,7 @@ você já consegue:
 Escolha:
 
 - **1 fonte principal para aprender**  
-  Ex.: Curso em Vídeo, Codédex ou Alura.
+  Ex.: Curso em Vídeo / YouTube, Codédex ou Alura.
 - **1 forma principal para praticar**  
   Ex.: exercícios da faculdade, mini projetos ou desafios simples no VS Code.
 - **1 jeito simples de se organizar**  
@@ -265,7 +255,7 @@ Escolha:
 
 Todo o resto é complemento.
 
-### 3) Heurística de decisão
+### 3) Facilite sua vida...
 
 - Se você **não entende quase nada**: comece por vídeo e mantenha o foco no
   conteúdo da faculdade.
@@ -273,8 +263,7 @@ Todo o resto é complemento.
   mini projetos.
 - Se a faculdade está difícil porque **falta base**: use Nivelamento antes de
   tentar acelerar.
-- Se você quer **resultado visível rápido**: publique algo simples primeiro e
-  deixe cloud avançada para depois.
+- Se você quer **resultado visível rápido**: foque na base, um engenheiro não constrói um prédio sem saber como ele fica em pé.
 - Se você quer **usar IA**: use para explicar, revisar e comparar soluções; não
   para terceirizar seu aprendizado.
 
@@ -314,4 +303,4 @@ menos ferramenta, mais base. O que muda seu jogo agora não é cloud, nem IA, ne
 domínio bonito. É conseguir estudar sem se perder, praticar com consistência e
 entender o suficiente para construir um projeto pequeno sozinho.
 
-> ✅ **Resumo final:** primeiro base, depois projeto, depois infraestrutura.
+> ✅ **Lembre-se:** Mar calmo não faz bom marinheiro.
