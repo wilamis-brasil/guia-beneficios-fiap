@@ -43,7 +43,7 @@ escrever programas simples com autonomia.
   - **Nivelamento + Nano Courses**
 - Escolha **1 caminho inicial de aprendizado**:
   - vídeo guiado (ex.: Curso em Vídeo)
-  - prática interativa (ex.: Codédex)
+  - aprenda jogando (ex.: Codédex - Incluso no Github Pack)
 
 > 💡 **Regra de ouro:** a melhor escolha no começo não é pegar tudo. É focar no
 > que ajuda você a acompanhar bem a faculdade.
