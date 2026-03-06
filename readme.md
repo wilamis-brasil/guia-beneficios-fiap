@@ -314,17 +314,4 @@ menos ferramenta, mais base. O que muda seu jogo agora não é cloud, nem IA, ne
 domínio bonito. É conseguir estudar sem se perder, praticar com consistência e
 entender o suficiente para construir um projeto pequeno sozinho.
 
----
-
-## Se eu estivesse começando hoje na FIAP sem saber nada, eu faria isso
-
-1. Organizaria meu GitHub pessoal e pediria o GitHub Student Developer Pack.
-2. Ativaria os benefícios FIAP de impacto imediato: Alura, Office 365 e
-   Nivelamento / Nano Courses.
-3. Escolheria um único caminho principal para aprender o básico.
-4. Praticaria até conseguir montar um projeto pequeno sem depender de copiar
-   tudo.
-5. Publicaria algo simples no GitHub Pages.
-6. Só depois pensaria em cloud, créditos, banco externo e domínio próprio.
-
 > ✅ **Resumo final:** primeiro base, depois projeto, depois infraestrutura.
