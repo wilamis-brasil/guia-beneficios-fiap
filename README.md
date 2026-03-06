@@ -42,9 +42,8 @@ A maioria dos benefícios e ferramentas vira distração antes de você consegui
 - Escolha **1 caminho de aprendizado inicial**:
   - Vídeo guiado (ex.: Curso em Vídeo)
   - Interativo gamificado (ex.: Codédex)
-  - Currículo com exercícios (ex.: freeCodeCamp)
 
-> **Regra de ouro anti-ansiedade:** no começo, “menos opções” vale mais do que “melhor opção”.
+> **Regra de ouro:** a “melhor opção” nunca é escolher um monte de coisas, é focar no conteúdo da faculdade.
 
 ### Glossário mínimo (para não travar em palavras)
 
@@ -168,23 +167,16 @@ A lógica aqui é simples: escolha **1 para aprender** + **1 para praticar** + *
 | Recurso | O que é | Por que importa | Nível de prioridade | Quando usar | Link oficial |
 |---|---|---|---|---|---|
 | Curso em Vídeo (Guanabara) | Cursos em vídeo para iniciantes. | Didático e direto, ótimo para perder medo e criar base. | **Prioridade máxima** | Se você aprende melhor por vídeo | https://www.cursoemvideo.com/cursos/ |
-| Codédex | Cursos interativos e gamificados. | Bom para quem trava com aula longa e precisa de pequenas vitórias. | Alta | Se você aprende melhor fazendo | https://www.codedex.io/ |
-| freeCodeCamp | Plataforma gratuita com exercícios e projetos. | Boa para prática consistente e portfólio. | Alta | Quando você quer treinar todos os dias | https://www.freecodecamp.org/ |
-| Eu Capacito | Cursos gratuitos e certificados. | Excelente para reforço, certificados e exploração. | Alta | Quando você precisa de reforço e certificado | https://www.eucapacito.com.br/ |
-| GitHub Skills | Tutoriais práticos dentro do GitHub. | Ajuda a aprender GitHub na prática. | Útil em seguida | Quando for publicar site ou portfólio | https://github.com/skills |
+| FIAP Nano Courses | Cursos bons. | Conteúdo prático, certificado e habilidades valorizadas pelo mercado. | Alta | Bom pro currículo
 
 ### Se você aprende melhor por…
 
 **Vídeo, explicação e ritmo humano**
 - Curso em Vídeo
 
-**Prática interativa (clicar, errar, tentar de novo)**
-- Codédex
-- freeCodeCamp
-
-**Pouco tempo e reforço pontual**
+**Reforço**
 - FIAP ON Nivelamento / Nano Courses
-- Eu Capacito
+- Alura
 
 ---
 
@@ -194,25 +186,26 @@ A ideia aqui não é “baixar o GitHub inteiro”. É ter poucos repositórios 
 
 ### Comece por estes (obrigatórios + essenciais)
 
-- **Biblioteca Dev** — curadoria BR útil para achar recursos sem ruído  
+- **Biblioteca Dev** — Uma biblioteca de Livros Caros de Graça
   https://github.com/KAYOKG/BibliotecaDev
 
-- **Developer Roadmap** — mapas por área para entender diferenças entre front-end, back-end, dados etc.  
+- **Developer Roadmap** — mapas por área para entender seu caminho como front-end, back-end, dados etc.  
   https://github.com/kamranahmedse/developer-roadmap
 
 > **Alerta:** use o developer-roadmap como mapa para entender o território, não como checklist de tudo para estudar.
 
 ### Curadoria complementar (poucos, com propósito claro)
 
-| Repositório | Para que serve | Use agora / depois |
+| Repositório | Para que serve | Periodo Necessidade |
 |---|---|---|
-| https://github.com/firstcontributions/first-contributions | Aprender a contribuir em open source com passo a passo. | Útil em seguida |
-| https://github.com/github/gitignore | Templates de `.gitignore`. | Use agora |
-| https://github.com/sindresorhus/awesome | Lista “awesome” muito grande. | Depois (consulta) |
 | https://github.com/public-apis/public-apis | Lista de APIs públicas para projetos. | Depois |
-| https://github.com/TheAlgorithms | Coleções de algoritmos por linguagem. | Depois |
-| https://github.com/donnemartin/system-design-primer | Sistema/arquitetura; excelente, mas avançado. | Ignore por enquanto |
-| https://github.com/danistefanovic/build-your-own-x | Projetos “construa seu próprio X”. | Ignore por enquanto |
+| https://github.com/ripienaar/free-for-dev | Lista enorme de serviços gratuitos para desenvolvedores (hosting, banco de dados, APIs, email, storage, etc.). Muito útil para lançar projetos sem pagar. | Depois |
+| https://github.com/markodenic/web-development-resources | Coleção de ferramentas, bibliotecas, APIs e recursos úteis para desenvolvimento web. | Depois |
+| https://github.com/bradtraversy/design-resources-for-developers | Recursos gratuitos de design para devs: ícones, imagens, fontes, mockups e UI kits. | Depois |
+| https://github.com/github/gitignore | Templates de `.gitignore` para evitar subir arquivos desnecessários para o repositório. | Agora |
+| https://github.com/dhamaniasad/awesome-postgres | Ferramentas, extensões e recursos úteis para quem trabalha com PostgreSQL. | Depois |
+| https://github.com/karan/Projects | Lista grande de ideias de projetos para programadores construírem e praticarem. | Depois |
+| https://github.com/practical-tutorials/project-based-learning | Tutoriais para aprender programação construindo projetos reais. | Depois |
 
 ---
 
@@ -233,18 +226,18 @@ Ferramentas como IDE com IA, cloud, banco e deploy só começam a render quando 
 Escolha:
 
 - **1 fonte principal para aprender** (Curso em Vídeo ou Codédex ou Alura)
-- **1 lugar para praticar** (freeCodeCamp, por exemplo)
+- **1 lugar para praticar** (VS Code raiz mn, por exemplo)
 - **1 jeito de organizar** (Notion, caderno ou Google Docs)
 
 Todo o resto é opcional.
 
 ### 3) Heurística de decisão (bem objetiva)
 
-- Se você **não entende nada e sente vergonha**: comece com vídeo (Curso em Vídeo / Alura) + exercícios leves.
-- Se você **entende explicação, mas não consegue fazer sozinho**: vá para prática guiada (freeCodeCamp / Codédex).
+- Se você **não entende nada e sente vergonha**: comece com vídeo (Curso em Vídeo) mas mantenha o foco na Faculdade.
+- Se você **entende explicação, mas não consegue fazer sozinho**: vá para prática jogando Codédex - Com o Github Developer Pack.
 - Se a faculdade está difícil porque **falta base**: use Nivelamento antes de se culpar.
-- Se você quer **resultado visível rápido**: faça um site simples e publique no GitHub Pages.
-- Se você quer **IA ajudando**: use Copilot com foco em explicação e revisão, não em “fazer por você”.
+- Se você quer **resultado visível rápido**: tenha calma, um engenheiro não constrói um prédio sem saber como ele fica em pé sem cair.
+- Se você quer **IA ajudando**: tente tirar essa ideia da sua cabeça kkkkk.
 
 ---
 
@@ -254,9 +247,7 @@ Todo o resto é opcional.
 
 - FIAP + Alura (se você tem acesso)
 - Nivelamento FIAP ON quando faltar base
-- GitHub Student Developer Pack
-- Copilot Pro como tutor
-- GitHub Pages para publicar algo simples
+- GitHub Student Developer Pack - Importante DMS!!!
 
 ### Útil em seguida
 
@@ -268,7 +259,7 @@ Todo o resto é opcional.
 
 - Azure / DigitalOcean / Heroku
 - MongoDB Atlas
-- Domínio (Namecheap / .TECH)
+- Domínio (Namecheap / .TECH) - VC CONSEGUE DE GRAÇA COM GITHUB PACK
 
 ### Legal, mas não essencial agora
 
@@ -277,20 +268,9 @@ Todo o resto é opcional.
 
 ---
 
-## Conclusão com direcionamento final para iniciantes
+## Minha dica
 
-Se você é iniciante na FIAP, o melhor uso do mundo de benefícios é este:
+Se você é iniciante, o melhor uso do mundo de benefícios é este:
 
-1. Ative o que reduz dor imediata: Alura, Nivelamento, Pack, Copilot e Pages.
 2. Foque em aprender e praticar até conseguir construir um projeto pequeno sozinho.
-3. Só então use cloud, hosting e créditos.
-
----
-
-## Se eu estivesse começando hoje na FIAP sem saber nada, eu faria isso
-
-1. Pediria o **GitHub Student Developer Pack** e ativaria **Copilot** + **GitHub Pages** primeiro.
-2. Abriria o **Nivelamento** e faria o que estiver faltando para acompanhar as aulas.
-3. Escolheria **um** caminho principal (Alura ou Curso em Vídeo ou Codédex) e ficaria nele até ver progresso real.
-4. Publicaria um portfólio simples no GitHub Pages, mesmo com 1 projeto pequeno.
-5. Se eu ficasse travado ou ansioso, marcaria o **Talent Lab** antes de pensar em desistir.
+3. Só então use cloud, hosting e créditos - ISSO VAI TE AJUDAR DMS CARA...
