@@ -4,13 +4,6 @@ Este guia é para quem está começando do zero na FIAP, ainda não domina o
 vocabulário técnico e quer aproveitar o que é gratuito sem cair na armadilha
 de virar colecionador de ferramentas.
 
-Ele não inventa um roadmap novo. Ele organiza o que já existe e separa o que
-faz sentido em três grupos: **use agora**, **guarde para depois** e
-**ignore por enquanto**.
-
-> 🧭 **Objetivo do guia:** reduzir confusão, não aumentar a sua lista de coisas
-> para instalar.
-
 ## Sumário
 
 - [Se você está perdido, leia isso primeiro](#se-você-está-perdido-leia-isso-primeiro)
