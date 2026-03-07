@@ -14,7 +14,6 @@ de virar colecionador de ferramentas.
 - [Como escolher sem se perder](#como-escolher-sem-se-perder)
 - [O que priorizar agora, o que deixar para depois](#o-que-priorizar-agora-o-que-deixar-para-depois)
 - [Conclusão com direcionamento final para iniciantes](#conclusão-com-direcionamento-final-para-iniciantes)
-- [Se eu estivesse começando hoje na FIAP sem saber nada, eu faria isso](#se-eu-estivesse-começando-hoje-na-fiap-sem-saber-nada-eu-faria-isso)
 
 ---
 
