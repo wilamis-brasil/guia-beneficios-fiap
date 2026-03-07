@@ -75,14 +75,13 @@ um iniciante a aprender com menos fricção.
 
 | Recurso | Vale a pena porque... | Prioridade | Quando usar |
 |---|---|---|---|
-| [Alura](https://www.fiap.com.br/fiap-alura/) | Para cursos elegíveis, libera o Plano Pro por 6 meses e funciona como uma biblioteca guiada para lógica, linguagem e projetos. | 🔥 Máxima | Assim que entrar. |
-| [Microsoft Office 365](https://www.fiap.com.br/parcerias/microsoft/alunos/) | Resolve rápido trabalhos, relatórios e apresentações da vida acadêmica. | ✅ Alta | No 1º mês. |
+| [Alura](https://www.fiap.com.br/fiap-alura/) | Para cursos elegíveis, libera o Plano Pro por 6 meses e funciona como uma biblioteca guiada para aprender inglês, lógica, linguagem e projetos. | 🔥 Máxima | Assim que entrar. |
+| [Microsoft Office 365](https://www.fiap.com.br/parcerias/microsoft/alunos/) | Resolve rápido trabalhos, relatórios e apresentações da vida acadêmica. | 🔥 Máxima | No 1º mês. |
 | [FIAP ON: Nivelamento](https://on.fiap.com.br/nivelamento/) | É o "botão de emergência" para recuperar base sem entrar em pânico. | 🔥 Máxima | Quando faltar base. |
-| [Nano Courses](https://on.fiap.com.br/nano-courses/) | Fecha lacunas pontuais com cursos curtos e sem custo extra. | ✅ Alta | Depois do básico ou para reforço específico. |
-| [Talent Lab](https://www.fiap.com.br/talent-lab/) | Ajuda com carreira, currículo, LinkedIn, entrevistas e apoio psicopedagógico. | ✅ Alta | Quando estiver sobrecarregado ou pensando em estágio. |
+| [Nano Courses](https://on.fiap.com.br/nano-courses/) | Microcursos práticos com certificado para complementar o currículo com habilidades específicas. | ✅ Alta | Depois do básico ou para adicionar competências ao currículo. |
+| [Talent Lab](https://www.fiap.com.br/talent-lab/) | Suporte de carreira da EXCLUSIVO: revisão de currículo, otimização de LinkedIn, preparação para entrevistas e orientação profissional. | 🔥 Máxima | Desde o início até a busca por estágio ou emprego. |
 | [FIAPP](https://play.google.com/store/apps/details?hl=pt&id=br.com.fiap.fiapp) | Centraliza materiais, calendário, avisos, notas e faltas. | 🟡 Média | Quando a rotina começar a ficar confusa. |
-| [Eu Capacito](https://www.eucapacito.com.br/) | Serve como reforço com certificado e exploração de temas sem custo. | ✅ Alta | Quando você quiser revisar conteúdo ou ganhar certificado. |
-| [SHIFT](https://www.fiap.com.br/shift/) | É aprofundamento com desconto, não prioridade para o começo. | 🕒 Depois | Quando o básico já estiver sólido. |
+| [SHIFT](https://www.fiap.com.br/shift/) | É aprofundamento com desconto, não prioridade para o começo. | 🕒 Depois | Vale quando o básico já estiver sólido. |
 
 ---
 
@@ -98,33 +97,37 @@ Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profi
 
 ### 🚀 Como ativar o GitHub Student Developer Pack
 
-1. Crie uma conta no GitHub  
+1. Crie uma conta no GitHub - 
    [Criar conta](https://github.com)
+   - Habilite autenticação de 2 fatores.
+   - Foto e nomes do Github reais.
 
-2. Acesse a página do programa  
+3. Acesse a página do programa  
    [GitHub Student Developer Pack](https://education.github.com/pack)
 
-3. Clique em **Get Student Benefits**
+4. Clique em **Get Student Benefits**
 
-4. Verifique seu status de estudante usando uma das opções:
+5. Verifique seu status de estudante:
    - Email institucional da escola
-   - Carteirinha de estudante
-   - Documento acadêmico
+   - Baixe a carteirinha de estudante e tire uma foto nítida
+
+> 🫵 [Veja Esse Vídeo Caso Tenha Dúvida](https://www.youtube.com/watch?v=LgAIf0TguAM)
 
 ### Como funciona (sem mistério)
 
-1. Você precisa ser estudante, ter uma conta pessoal no GitHub e comprovar
+1. Você precisa ser estudante universitário, ter uma conta pessoal no GitHub e comprovar
    vínculo.
 2. Depois de aprovado, entra no portal e ativa as ofertas que quiser.
 3. Cada oferta tem regra própria de tempo, valor e renovação.
 
 ### Por que isso vale tanto na prática
 
-- Evita gastar cedo demais com hospedagem, produtividade e ferramentas premium.
-- Dá acesso a recursos que deixam o começo menos sofrido.
+- **Economia brutal desde o dia 1:** você corta uma parte do custo de ferramentas que, fora do pack, facilmente virariam **centenas ou até milhares** ao longo da graduação.
+- **Atalho competitivo real:** em vez de começar no modo improviso, você já entra com stack, produtividade e estrutura de quem parece estar **2 passos na frente**.
+- **Menos fricção, mais execução:** quando as ferramentas já estão na sua mão, a chance de tirar projeto do papel sobe. E projeto no ar vale muito mais no currículo do que intenção.
+- **Currículo com mais peso:** acesso a ferramentas reconhecidas transforma estudo solto em **portfólio, entrega e sinal de mercado**.
 
-> 💡 **Uso inteligente:** não tente ativar tudo no mesmo dia. Ative o que você
-> vai usar neste semestre e deixe o resto para quando existir um projeto real.
+> 🟥 **Jogue com estratégia:** NÃO ATIVE tudo de uma vez!!! Ative o que vai gerar **projeto, portfólio ou resultado** neste semestre. O resto, você destrava quando virar necessidade real.
 
 ### Benefícios do GitHub Pack — curadoria orientada a iniciante
 
@@ -140,9 +143,9 @@ Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profi
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
-| [GitHub Pages](https://docs.github.com/pages) | Melhor forma de publicar portfólio estático simples e gratuito. | 🔥 Máxima | Assim que tiver 1 projeto simples. |
+| [GitHub Pages](https://education.github.com/pack) | Melhor forma de publicar portfólio estático simples e gratuito. | 🔥 Máxima | Assim que tiver 1 projeto simples. |
 | [Heroku](https://education.github.com/pack) | Ajuda quando você já tem um back-end básico pronto para subir. | 🕒 Depois | Quando já tiver uma API simples. |
-| [DigitalOcean](https://education.github.com/pack) | Entrega créditos úteis para projetos mais sérios, mas é excesso no início. | 🕒 Depois | Quando entender deploy e tiver projeto real. |
+| [DigitalOcean](https://education.github.com/pack) | Entrega 1000 reais em créditos úteis para projetos mais sérios, mas é excesso no início. | 🕒 Depois | Quando entender deploy e tiver projeto real. |
 | [Azure](https://education.github.com/pack) | Cloud valiosa, mas só faz sentido quando você já consegue construir algo com segurança. | 🕒 Depois | Quando o projeto realmente pedir serviço real. |
 
 **Alternativas gratuitas fora do pack**
@@ -155,8 +158,8 @@ Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profi
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
-| [Notion](https://education.github.com/pack) | Centraliza anotações, checklist de estudos e projetos. | ✅ Alta | No 1º mês. |
 | [Notion Template Collection](https://education.github.com/pack) | Evita começar do zero na organização. | 🟡 Média | Depois de decidir que vai usar Notion. |
+| [Pomodone](https://education.github.com/pack) | Timer Pomodoro integrado com tarefas (Notion, Trello, Todoist etc.) para manter foco real no estudo. | 🟢 Alta | Quando precisar estudar sem distrações e medir produtividade. |
 
 #### 4) 🛠️ Banco de dados e infraestrutura
 
