@@ -191,9 +191,9 @@ A lógica aqui é simples: escolha **1 para aprender**, **1 para praticar** e
 
 | Recurso | Melhor uso | Prioridade | Quando escolher |
 |---|---|---|---|
-| [Curso em Vídeo](https://www.youtube.com/cursoemvideo) | O pai dos iniciantes, cursos grátis para os calouros que não sabem de nada. | 🔥 Máxima | Se você aprende melhor por vídeo. |
-| [FIAP Nano Courses](https://on.fiap.com.br/nano-courses/) | Reforço rápido com conteúdo prático e certificado. | ✅ Alta | Quando quiser fechar lacunas específicas. |
-| [Codédex](https://www.codedex.io/) | Plataforma gamificada para aprender programação com desafios interativos. Incluso no **GitHub Student Developer Pack**. | 🚀 Alta | Para aprender programando na prática todos os dias. |
+| [Curso em Vídeo](https://www.youtube.com/cursoemvideo) | O pai dos iniciantes, cursos grátis para os calouros que não sabem de nada. | ✅ Alta | Se você aprende melhor por didática. |
+| [FIAP Nano Courses](https://on.fiap.com.br/nano-courses/) | Reforço rápido com conteúdo prático e certificado. | 🔥 Máxima | Ótimo para curriculo. |
+| [Codédex](https://www.codedex.io/) | Plataforma gamificada para aprender programação JOGANDO. Incluso no GitHub Student Developer Pack. | 🔥 Máxima | Para aprender e se desafiar programando na prática todos os dias. |
 
 ### Se você aprende melhor por...
 
