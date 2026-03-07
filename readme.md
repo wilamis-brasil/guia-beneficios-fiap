@@ -135,9 +135,9 @@ Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profi
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
-| [Frontend Masters](https://education.github.com/pack) | Conteúdo excelente para aprofundar, mas costuma ser intenso para quem ainda está no zero. | ✅ Alta | Depois de lógica + HTML/CSS/JS básicos. |
-| [Educative](https://education.github.com/pack) | Bom para quem aprende lendo e praticando direto no navegador. | ✅ Alta | Quando você quiser prática guiada. |
-| [Scrimba](https://education.github.com/pack) | Ótimo para acelerar front-end, desde que você use com objetivo claro. | ✅ Alta | Quando já estiver pronto para fazer projetos simples. |
+| [Codédex](https://education.github.com/pack) | O mais fácil de começar: aprenda jogando, lições curtas, gamificação e sensação de progresso rápida. Você entra, pratica e não trava. | 🔥 Máxima | Quando estiver no zero e precisar ganhar ritmo sem sofrer. |
+| [Scrimba](https://education.github.com/pack) | Aula e código no mesmo lugar. Menos teoria passiva, mais mão no teclado desde o minuto 1. | 🔥 Máxima | Quando quiser aprender JavaScript na prática, sem setup chato. |
+| [Educative](https://education.github.com/pack) | Tipo um Duolingo do código, no navegador, com prática guiada. Ideal para aprender sem enrolação. | 🟢 Alta | Quando você aprende melhor lendo, testando e avançando rápido. |
 
 #### 2) 🚀 Colocar projeto no ar sem pagar no começo
 
@@ -285,9 +285,10 @@ Todo o resto é complemento.
 
 ### 🔥 Prioridade máxima (iniciante absoluto)
 
+- ⚠️ GitHub Student Developer Pack.
 - Alura, se você tiver acesso.
 - FIAP ON Nivelamento, quando faltar base.
-- GitHub Student Developer Pack.
+
 
 ### ✅ Útil em seguida
 
