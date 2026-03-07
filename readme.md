@@ -127,7 +127,7 @@ Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profi
 - **Menos fricção, mais execução:** quando as ferramentas já estão na sua mão, a chance de tirar projeto do papel sobe. E projeto no ar vale muito mais no currículo do que intenção.
 - **Currículo com mais peso:** acesso a ferramentas reconhecidas transforma estudo solto em **portfólio, entrega e sinal de mercado**.
 
-> 🟥 **Jogue com estratégia:** NÃO ATIVE tudo de uma vez!!! Ative o que vai gerar **projeto, portfólio ou resultado** neste semestre. O resto, você destrava quando virar necessidade real.
+> 🟥 **ATENÇÃO:** NÃO ATIVE tudo de uma vez!!! Ative o que vai gerar **projeto, portfólio ou resultado** neste semestre. O resto, você destrava quando virar necessidade real.
 
 ### Benefícios do GitHub Pack — curadoria orientada a iniciante
 
