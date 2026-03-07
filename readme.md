@@ -1,5 +1,7 @@
 # Guia definitivo de benefícios e recursos gratuitos (FIAP + GitHub Student Pack) para iniciantes absolutos em programação
 
+> ⚠️ Guarde o Link desse diretório, ele pode ser MUITO útil futuramente
+
 Este guia é para quem está começando do zero na FIAP, ainda não domina o
 vocabulário técnico e quer aproveitar o que é gratuito sem cair na armadilha
 de virar colecionador de ferramentas.
@@ -143,9 +145,9 @@ Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profi
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
 | [GitHub Pages](https://education.github.com/pack) | Melhor forma de publicar portfólio estático simples e gratuito. | 🔥 Máxima | Assim que tiver 1 projeto simples. |
-| [Heroku](https://education.github.com/pack) | Ajuda quando você já tem um back-end básico pronto para subir. | 🕒 Depois | Quando já tiver uma API simples. |
+| [Heroku](https://education.github.com/pack) | Quase 2k de créditos, ajuda quando você já tem um back-end básico pronto para subir. | 🕒 Depois | Quando já tiver uma API simples. |
 | [DigitalOcean](https://education.github.com/pack) | Entrega 1000 reais em créditos úteis para projetos mais sérios, mas é excesso no início. | 🕒 Depois | Quando entender deploy e tiver projeto real. |
-| [Azure](https://education.github.com/pack) | Cloud valiosa, mas só faz sentido quando você já consegue construir algo com segurança. | 🕒 Depois | Quando o projeto realmente pedir serviço real. |
+| [Azure](https://education.github.com/pack) | +500 reais em créditos por ano, cloud valiosa, mas só faz sentido quando você já consegue construir algo com segurança. | 🕒 Depois | Quando o projeto realmente pedir serviço real. |
 
 **Alternativas gratuitas fora do pack**
 
