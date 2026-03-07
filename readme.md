@@ -193,24 +193,16 @@ A lógica aqui é simples: escolha **1 para aprender**, **1 para praticar** e
 |---|---|---|---|
 | [Curso em Vídeo](https://www.youtube.com/cursoemvideo) | O pai dos iniciantes, cursos grátis para os calouros que não sabem de nada. | 🔥 Máxima | Se você aprende melhor por vídeo. |
 | [FIAP Nano Courses](https://on.fiap.com.br/nano-courses/) | Reforço rápido com conteúdo prático e certificado. | ✅ Alta | Quando quiser fechar lacunas específicas. |
+| [Codédex](https://www.codedex.io/) | Plataforma gamificada para aprender programação com desafios interativos. Incluso no **GitHub Student Developer Pack**. | 🚀 Alta | Para aprender programando na prática todos os dias. |
 
 ### Se você aprende melhor por...
-
-**🎥 Vídeo, explicação e ritmo humano**
-
-- Curso em Vídeo
 
 **🧱 Reforço de base**
 
 - FIAP ON Nivelamento
 - Nano Courses
 - Alura
-
-**🕹️ Prática guiada**
-
-- Codédex
-- exercícios da faculdade
-- mini projetos no VS Code
+- Codedéx (Aprenda Jogando)
 
 ---
 
