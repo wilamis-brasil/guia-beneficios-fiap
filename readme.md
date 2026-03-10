@@ -134,8 +134,8 @@ Isso permite usar **o mesmo ecossistema de ferramentas que desenvolvedores profi
 
 | Recurso | Ajuda em quê | Prioridade | Quando usar |
 |---|---|---|---|
-| [Codédex](https://education.github.com/pack) | O mais fácil de começar: aprenda jogando, lições curtas, gamificação e sensação de progresso rápida. Você entra, pratica e não trava. | 🔥 Máxima | Quando estiver no zero e precisar ganhar ritmo sem sofrer. |
-| [Scrimba](https://education.github.com/pack) | Aula e código no mesmo lugar. Menos teoria passiva, mais mão no teclado desde o minuto 1. | 🔥 Máxima | Quando quiser aprender JavaScript na prática, sem setup chato. |
+| [Codédex](https://education.github.com/pack) | O mais fácil de começar: aprenda jogando, lições curtas, gamificação e sensação de progresso rápida. Você entra, pratica e não trava. | 🔥 Máxima | Muito útil pra quem está no zero e precisar ganhar ritmo sem sofrer. |
+| [Scrimba](https://education.github.com/pack) | Aula e código no mesmo lugar. Menos teoria passiva, mais mão no teclado desde o minuto 1. | 🟢 Alta | Quando quiser aprender JavaScript na prática, sem setup chato. |
 | [Educative](https://education.github.com/pack) | Tipo um Duolingo do código, no navegador, com prática guiada. Ideal para aprender sem enrolação. | 🟢 Alta | Quando você aprende melhor lendo, testando e avançando rápido. |
 
 #### 2) 🚀 Colocar projeto no ar sem pagar no começo
