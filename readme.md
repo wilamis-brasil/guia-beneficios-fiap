@@ -18,7 +18,6 @@ de virar colecionador de ferramentas.
 - [Recursos gratuitos e acessíveis para aprender programação do zero](#recursos-gratuitos-e-acessíveis-para-aprender-programação-do-zero)
 - [Repositórios essenciais para iniciantes](#repositórios-essenciais-para-iniciantes)
 - [Como escolher sem se perder](#como-escolher-sem-se-perder)
-- [Iniciacao cientifica: quando faz sentido para calouro](#iniciacao-cientifica-quando-faz-sentido-para-calouro)
 - [Como usar IA sem sabotar seu aprendizado](#como-usar-ia-sem-sabotar-seu-aprendizado)
 - [O que priorizar agora, o que deixar para depois](#o-que-priorizar-agora-o-que-deixar-para-depois)
 - [FAQ real de calouros FIAP (sem romantizacao)](#faq-real-de-calouros-fiap-sem-romantizacao)
@@ -319,30 +318,6 @@ Todo o resto é complemento.
 - Se você quer **resultado visível rápido**: foque na base, um engenheiro não constrói um prédio sem saber como ele fica em pé.
 - Se você quer **usar IA**: use para explicar, revisar e comparar soluções; não
   para terceirizar seu aprendizado.
-
----
-
-## Iniciacao cientifica: quando faz sentido para calouro
-
-Essa dúvida é muito comum. Em português direto:
-
-- **Iniciação científica (IC)** não é corrida de velocidade.
-- IC é para quem quer aprofundar investigação, método, escrita e raciocínio científico.
-- Se você ainda está travando no básico de programação, **não tem problema nenhum** em adiar IC para um momento mais estável.
-
-### Quando faz sentido considerar IC
-
-- Você já está acompanhando as disciplinas sem colapso.
-- Você consegue manter rotina semanal sem apagar incêndio todo dia.
-- Você tem curiosidade real por pesquisa (não só por "ficar bonito no currículo").
-
-### Quando é melhor esperar
-
-- Você ainda está tentando entender lógica/programação básica.
-- Suas entregas da faculdade estão sempre atrasadas.
-- Você está com ansiedade alta por comparação com colegas.
-
-> Estratégia madura: primeiro estabilidade acadêmica, depois aceleração.
 
 ---
 
