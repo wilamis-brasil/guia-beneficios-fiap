@@ -1,4 +1,4 @@
-# Guia definitivo de benefícios e recursos gratuitos (FIAP + GitHub Student Pack) para iniciantes absolutos em programação
+# Guia de Benefícios FIAP Para Iniciantes em Programação
 
 > ⚠️ Guarde o Link desse repositório, ele pode ser MUITO útil futuramente - E DÁ LIKE KKK
 
