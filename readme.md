@@ -407,6 +407,23 @@ Pode, mas com função clara:
 
 Desde cedo, mas sem roubar tempo da base técnica. Use Talent Lab para direcionar, não para substituir estudo.
 
+## Dúvidas clássicas de quem acabou de entrar
+
+### 7) "Preciso já montar grupo para NEXT / Global / projetos grandes?"
+
+Não.
+
+Esses projetos **sempre são explicados pela própria FIAP quando chega a hora**.  
+A faculdade divulga regras, prazos, formato e como formar grupo.
+
+Tentar organizar tudo no primeiro mês normalmente gera só confusão porque:
+
+- você ainda nem conhece a turma direito
+- ainda não entende o escopo dos projetos
+- o regulamento pode mudar
+
+Primeiro semestre é mais sobre **entender a faculdade e criar rotina de estudo**.
+
 ---
 
 ## Checklist semanal anti-dispersao (15 minutos)
@@ -417,7 +434,6 @@ Faça esse check todo domingo ou segunda cedo:
 - [ ] Escolhi 1 objetivo técnico principal (não 5).
 - [ ] Reservei horário de revisão de base (nivelamento/nano/alura).
 - [ ] Reservei horário de prática real (exercício/projeto).
-- [ ] Atualizei meu repositório com progresso mínimo da semana.
 - [ ] Tenho 1 dúvida clara para tirar com professor/colega/mentor.
 
 Se marcou menos de 4 itens, sua semana tende a descarrilar. Corrija antes que vire bola de neve.
@@ -426,9 +442,36 @@ Se marcou menos de 4 itens, sua semana tende a descarrilar. Corrija antes que vi
 ## Conclusão com direcionamento final para iniciantes
 
 Se você está no começo, o melhor uso desse universo de benefícios é simples:
-menos ferramenta, mais base. O que muda seu jogo agora não é cloud, nem IA, nem
-domínio bonito. É conseguir estudar sem se perder, praticar com consistência e
-entender o suficiente para construir um projeto pequeno sozinho.
+menos ferramenta, mais base. 
+
+Mas não, qual o erro mais besta que os iniciantes fazem?
+
+**1. Ignorar fundamentos - Clássico**
+
+Todo mundo quer aprender:
+
+- Programar logo na prática
+- Virar um hacker da Nasa
+- Construir o "Sistema Complexo" pra Farmar Aura
+
+Mas tropeça em:
+
+- Ignora Matemática
+- Falta Lógica de Programação
+- Ignora Estruturas Fundamentais
+- Falta Leitura de Código
+- Ignora Modelagem de problemas
+- Debugging
+
+**1. Querer fazer tudo ao mesmo tempo**
+
+- cursos
+- eventos
+- projetos
+- carreira
+- networking
+
+Resultado: nada aprofunda.
 
 > ✅ **Lembre-se:** Mar calmo não faz bom marinheiro.
 ---
