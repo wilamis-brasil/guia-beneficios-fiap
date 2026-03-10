@@ -21,7 +21,6 @@ de virar colecionador de ferramentas.
 - [Como usar IA sem sabotar seu aprendizado](#como-usar-ia-sem-sabotar-seu-aprendizado)
 - [O que priorizar agora, o que deixar para depois](#o-que-priorizar-agora-o-que-deixar-para-depois)
 - [FAQ real de calouros FIAP (sem romantizacao)](#faq-real-de-calouros-fiap-sem-romantizacao)
-- [Checklist semanal anti-dispersao (15 minutos)](#checklist-semanal-anti-dispersao-15-minutos)
 - [Conclusão com direcionamento final para iniciantes](#conclusão-com-direcionamento-final-para-iniciantes)
 - [Fontes oficiais (validacao sem chute)](#fontes-oficiais-validacao-sem-chute)
 
@@ -426,19 +425,6 @@ Primeiro semestre é mais sobre **entender a faculdade e criar rotina de estudo*
 
 ---
 
-## Checklist semanal anti-dispersao (15 minutos)
-
-Faça esse check todo domingo ou segunda cedo:
-
-- [ ] Sei quais são minhas entregas da semana.
-- [ ] Escolhi 1 objetivo técnico principal (não 5).
-- [ ] Reservei horário de revisão de base (nivelamento/nano/alura).
-- [ ] Reservei horário de prática real (exercício/projeto).
-- [ ] Tenho 1 dúvida clara para tirar com professor/colega/mentor.
-
-Se marcou menos de 4 itens, sua semana tende a descarrilar. Corrija antes que vire bola de neve.
-
----
 ## Conclusão com direcionamento final para iniciantes
 
 Se você está no começo, o melhor uso desse universo de benefícios é simples:
