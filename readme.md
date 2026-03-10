@@ -442,12 +442,12 @@ Todo mundo quer aprender:
 
 Mas tropeça em:
 
-- Ignora Matemática
-- Falta Lógica de Programação
-- Ignora Estruturas Fundamentais
-- Falta Leitura de Código
-- Ignora Modelagem de problemas
-- Debugging
+- Ignorar Matemática
+- Precisa de Lógica de Programação
+- Precisa de Estruturas Fundamentais
+- Precisa de Leitura de Código
+- Ignorar Modelagem de problemas
+- Cagar pra Debugging
 
 **1. Querer fazer tudo ao mesmo tempo**
 
