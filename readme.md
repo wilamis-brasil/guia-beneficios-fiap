@@ -126,7 +126,7 @@ um iniciante a aprender com menos fricção.
 
 ### O que é (em português simples)
 
-É um pacote avaliado em +200 MIL REAIS EM BENEFÍCIOS GRATUITOS para estudantes verificados no GitHub.
+É um pacote avaliado em **+200 MIL REAIS EM BENEFÍCIOS GRATUITOS** para estudantes verificados no GitHub.
 
 O catálogo é grande, mas ele muda com o tempo: ofertas entram, saem, variam por país e têm regras próprias.
 
