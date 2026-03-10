@@ -65,8 +65,7 @@ escrever programas simples com autonomia.
 A ideia desta seção é simples: destacar o que reduz atrito acadêmico e ajuda
 um iniciante a aprender com menos fricção.
 
-> ℹ️ **Observação IMPORTANTE:** a prioridade de alguns benefícios variam de acordo
-> com o seu nível de conhecimento e o roadmap da sua área.
+> ℹ️ **Observação IMPORTANTE:** a prioridade de alguns benefícios variam de acordo com o seu nível de conhecimento e o roadmap da sua área.
 >
 > 🔥 **Máxima** = ative cedo • ✅ **Alta** = vale usar logo depois •
 > 🕒 **Depois** = guarde para quando o básico estiver mais firme
