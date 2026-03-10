@@ -1,8 +1,10 @@
-# Guia de Benefícios FIAP + Github Para Iniciantes em Programação
+# Guia de Beneficios FIAP no GitHub: Student Pack e recursos gratis para iniciantes
+
+Guia de Beneficios fiap github para quem quer ativar os beneficios certos da FIAP e do GitHub Student Developer Pack sem perder tempo.
 
 > ⚠️ Guarde o Link desse repositório, ele pode ser MUITO útil futuramente - E DÁ LIKE KKK
 
-Este guia guia de benefícios Fiap + Github é para quem está começando do zero na FIAP, ainda não domina o
+Este guia é para quem está começando do zero na FIAP, ainda não domina o
 vocabulário técnico e quer aproveitar o que é gratuito sem cair na armadilha
 de virar colecionador de ferramentas.
 
@@ -316,3 +318,5 @@ domínio bonito. É conseguir estudar sem se perder, praticar com consistência 
 entender o suficiente para construir um projeto pequeno sozinho.
 
 > ✅ **Lembre-se:** Mar calmo não faz bom marinheiro.
+
+
