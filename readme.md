@@ -122,7 +122,7 @@ um iniciante a aprender com menos fricção.
 
 ## GitHub Student Developer Pack: os benefícios que mais valem a pena para iniciantes
 
-### O que é (em português simples)
+### 🤑 O que é (em português simples)
 
 É um pacote avaliado em **+200 MIL REAIS EM BENEFÍCIOS GRATUITOS** para estudantes verificados no GitHub.
 
