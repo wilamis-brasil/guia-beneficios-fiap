@@ -25,8 +25,9 @@
   <li>O que fazer primeiro se você está começando do zero;</li>
   <li>Os benefícios FIAP que mais ajudam no início;</li>
   <li>Como conseguir o GitHub Student Developer Pack;</li>
-  <li>Melhores Beneficios Github Student Developer Pack;</li>
-  <li>E o catálogo completo para consultar depois com calma.</li>
+  <li>O que realmente vale ativar primeiro no GitHub Pack;</li>
+  <li>O catálogo completo para consultar depois com calma;</li>
+  <li>E um acervo bônus com repositórios, sites e referências úteis para seguir estudando melhor.</li>
 </ul>
 
 ---
@@ -44,6 +45,9 @@ Para entender o que é o Pack, como conseguir e o que vale ativar agora.
 
 ### 4. <a href="./docs/catalogo-github-pack.md"><strong>Catálogo do GitHub Pack</strong></a>
 Para consultar o resto dos benefícios com calma, sem sair ativando tudo de uma vez.
+
+### 5. <a href="./docs/repositorios-e-sites-uteis.md"><strong>Repositórios, sites e referências úteis</strong></a>
+Para guardar um acervo bom de estudo, prática, front-end, projeto, roadmap e aprofundamento.
 
 ---
 

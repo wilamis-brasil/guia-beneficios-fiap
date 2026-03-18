@@ -1,196 +1,288 @@
-# 05. Catálogo consultivo do GitHub Student Developer Pack
+# 📚 Catálogo do GitHub Student Developer Pack
 
 [Voltar ao hub](../README.md)
 
-> Leitura conservadora: este catálogo usa como base a listagem pública oficial da GitHub Education para o Pack e a consolidação de pesquisa oficial feita para este projeto. Como o Pack muda com frequência, toda informação específica abaixo deve ser tratada como snapshot, nao como garantia permanente.
+> ⚠️ **Leia este capítulo junto com o anterior:** [GitHub Pack](github-pack.md)
+>
+> O capítulo 3 te mostra o que é o Pack, como pegar e o que vale ativar primeiro.
+> Este aqui te mostra o tamanho real do que você ganhou acesso como estudante.
 
-Fontes-base:
-- [GitHub Student Developer Pack](https://education.github.com/pack)
-- [Are you a student?](https://education.github.com/pack/join)
-- [Student Developer Pack Current Partners & FAQ](https://github.com/github-education-resources/Student-Developer-Pack-Current-Partners-FAQ)
+Se você abrir este catálogo do jeito errado, vai se perder.
 
-Como ler:
-- `Oferta`: nome curto do benefício.
-- `Para que serve`: uso prático, sem enfeite.
-- `Quando`: momento em que costuma fazer sentido.
-- `Por que nao e antes`: motivo conservador para adiar.
-- `Cautela`: restrição, incerteza ou condição que merece conferência.
+Se abrir do jeito certo, ele vira uma vantagem absurda.
 
-Regra de uso:
-- Se a oferta ainda nao resolve uma dor real, adie.
-- Se a oferta depende de país, idade, conta, prazo ou região, confirme antes.
-- Se o benefício estiver marcado como removido ou ausente do snapshot atual, trate como histórico, nao como ativo.
+Porque aqui não tem só "ferramenta grátis".
+
+Tem:
+
+- curso;
+- IDE profissional;
+- deploy;
+- domínio;
+- banco;
+- produtividade;
+- analytics;
+- segurança;
+- e um monte de recurso que muita gente só vai usar depois de entrar em empresa ou pagar caro por fora.
+
+---
+
+## 🧭 Sumário
+
+- [🚦 O que olhar primeiro?](#o-que-olhar-primeiro-se-voce-esta-comecando)
+- [📦 Catálogo completo](#catalogo-completo)
+- [📌 Continue assim](#continue-assim)
+
+---
+
+<a id="o-que-olhar-primeiro-se-voce-esta-comecando"></a>
+## 🚦 O que olhar primeiro?
+
+Comece por estas partes:
+
+| Se você quer... | Olhe primeiro |
+|---|---|
+| aprender e praticar melhor | `Aprender e praticar` |
+| ter ferramenta boa para codar | `Ferramentas de desenvolvimento` |
+| criar rotina e focar mais | `Produtividade, organização e foco` |
+| guardar senha, token e acesso do jeito certo | `Segurança, segredos e observabilidade` |
+
+Se você ainda está no começo mesmo, o grosso do que importa está aí.
+
+Cloud, domínio, deploy, dados, analytics e nichos existem, mas normalmente rendem mais depois.
+
+---
+
+<a id="catalogo-completo"></a>
+## 📦 Catálogo completo
 
 <details>
-<summary>Aprender e praticar</summary>
+<summary><strong>🎓 Aprender e praticar</strong></summary>
 
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| AlgoExpert | Treino de entrevistas e revisão de algoritmos. | Quando a base já estiver minimamente firme. | No começo, a prioridade costuma ser entender lógica e linguagem. | Conteúdo, duração e escopo podem mudar. |
-| Codedex | Aprendizado guiado com pegada mais prática e leve. | Quando você quer ganhar ritmo no início da jornada. | Se a base ainda está muito fraca, qualquer plataforma vira só consumo de conteúdo. | Verifique duração e o que está incluso no plano atual. |
-| DataCamp | Prática para dados, Python e SQL em ritmo curto. | Quando você começar a mexer com análise de dados. | Se ainda nao existe necessidade de dados, pode ser dispersão. | Plano, trilhas e limite temporal podem variar. |
-| Educative | Cursos interativos com leitura e execução no navegador. | Quando você aprende melhor com mão na massa. | Se você ainda está escolhendo trilha, há risco de abrir demais o foco. | Confirme cursos e tempo de acesso no snapshot atual. |
-| Frontend Masters | Curso mais aprofundado para front-end e web. | Quando você já domina o básico e quer mais profundidade. | No início, pode ser excesso de densidade. | Escopo do catálogo e duração do acesso podem mudar. |
-| GoRails | Acesso a aulas para quem está na trilha Ruby on Rails. | Quando Rails já for a escolha do projeto ou estágio. | Antes de escolher stack, o benefício fica subutilizado. | O foco do catálogo é específico para Rails. |
-| Interview Cake | Preparação concentrada para entrevistas técnicas. | Quando você já começou a treinar entrevista. | Sem base, ele vira só mais um curso de exercícios. | Duração de acesso é limitada e pode mudar. |
-| One Month | Sprint curta para iniciar uma trilha prática. | Quando você quer um empurrão inicial com prazo definido. | Se não houver rotina, um curso curto não sustenta progresso. | Conteúdo e janela de acesso devem ser conferidos. |
-| Scrimba | Aprendizado com vídeo e código no mesmo fluxo. | Quando você quer praticar enquanto aprende. | No começo, a tentação de saltar entre cursos é grande. | O catálogo e o período gratuito podem variar. |
-| SymfonyCasts | Formação para PHP e Symfony com foco prático. | Quando PHP/Symfony já for parte da sua trilha. | Se o stack ainda nao foi decidido, nao há ganho imediato. | O benefício é muito dependente da stack escolhida. |
-| Thinkful | Curso curto para iniciar web development. | Quando você precisa de um empurrão inicial bem objetivo. | Se a sua base já existe, talvez haja opções mais profundas. | Verifique a duração exata do acesso no snapshot. |
-| GitHub Foundations Certification | Certificação de base para Git e GitHub. | Quando Git e GitHub já deixaram de ser novidade. | Certificação não substitui prática nem entrega de projeto. | O benefício citado no guia-base pode nao estar no snapshot atual do Pack. |
+<p>
+  Essa é uma das categorias mais importantes para iniciante.
+  <br>
+  Ela entra quando você precisa reforçar base, ganhar prática, testar trilhas e parar de depender só de aula ou conteúdo solto.
+</p>
+
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| AlgoExpert | Treino de entrevista e algoritmos. | Quando sua base já estiver minimamente firme. | Não é o melhor ponto de partida para quem ainda está travando no básico. |
+| Codedex | Aprendizado guiado, prático e mais leve. | Quando você quer ganhar ritmo no começo. | Se a base estiver muito fraca, até plataforma boa vira só consumo de conteúdo. |
+| DataCamp | Prática de dados, Python e SQL. | Quando você começar a olhar mais para dados. | Se dados ainda não é sua dor, pode dispersar. |
+| Educative | Curso interativo com leitura + prática no navegador. | Quando você aprende melhor fazendo enquanto lê. | Fácil abrir foco demais se você ainda está escolhendo trilha. |
+| Frontend Masters | Conteúdo mais denso de front-end e web. | Quando você já domina o básico e quer aprofundar. | Muito forte, mas cedo demais pode cansar. |
+| GoRails | Formação para quem quer seguir com Rails. | Quando Ruby on Rails já fizer sentido para você. | Não vale ativar só porque está grátis. |
+| Interview Cake | Treino técnico para entrevista. | Quando você já começou a se preparar para vaga. | Sem base, vira só exercício difícil sem contexto. |
+| One Month | Trilha curta com foco em começar rápido. | Quando você quer um empurrão com começo e fim bem definidos. | Curso curto não resolve falta de rotina. |
+| Scrimba | Aula e código no mesmo fluxo. | Quando você quer aprender praticando. | Se abrir junto com várias outras plataformas, vira bagunça. |
+| SymfonyCasts | Formação em PHP e Symfony. | Quando essa stack já fizer parte da sua jornada. | Benefício muito dependente da stack escolhida. |
+| Thinkful | Formação curta para web. | Quando você quer um começo mais objetivo. | Pode não ser a melhor escolha se sua base já estiver mais avançada. |
+| GitHub Foundations Certification | Certificação de Git e GitHub. | Quando Git e GitHub já não forem novidade para você. | Certificação não substitui prática nem projeto. |
 
 </details>
 
 <details>
-<summary>Ferramentas de desenvolvimento</summary>
+<summary><strong>💻 Ferramentas de desenvolvimento</strong></summary>
 
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| GitHub Copilot | Sugestão de código, revisão e aceleração do fluxo local. | Quando você já sabe o que quer construir. | Antes disso, a ferramenta tende a mascarar lacunas de entendimento. | Confirme o escopo do plano estudante e as políticas de uso. |
-| JetBrains | IDEs completas para desenvolvimento local. | Quando o stack já pede uma IDE mais forte. | Se você ainda está explorando linguagem, o ganho pode ser pequeno. | Verifique quais produtos estão cobertos no plano atual. |
-| GitKraken | Cliente Git visual para branches, merges e histórico. | Quando o fluxo com terminal começar a atrapalhar. | No começo, aprender Git no terminal costuma ensinar melhor. | GitKraken e GitLens podem ter regras ligadas no Pack. |
-| GitLens | Extensão para enxergar melhor autoria e histórico no Git. | Quando você já trabalha no VS Code e quer mais contexto. | Se ainda nao domina Git básico, a extensão vira enfeite. | Pode estar vinculado ao mesmo benefício educacional do GitKraken. |
-| Tower | Cliente Git com interface visual. | Quando você quer um fluxo Git menos bruto. | Se o problema ainda é entender Git, nao vale pular direto para ferramenta. | O benefício é de cliente Git, nao de aprendizado de Git. |
-| Working Copy | Git em dispositivo móvel. | Quando você precisa tocar repositório fora do notebook. | Se tudo acontece no desktop, nao há urgência. | A utilidade depende bastante do seu ecossistema mobile. |
-| CodeScene | Análise de saúde e hotspots do código. | Quando o repositório já é grande o suficiente para justificar análise. | Em projeto pequeno, o retorno tende a ser baixo. | O valor real depende da maturidade do repositório. |
-| DeepScan | Análise estática para encontrar problemas comuns. | Quando você quer checagem adicional no código. | Se ainda nao existe projeto estável, o ruído pode ser maior que o benefício. | O escopo de suporte ao stack precisa ser conferido. |
-| Deepsource | Qualidade e checagens automáticas de código. | Quando você já tem um repositório minimamente estável. | Sem pipeline ou rotina de revisão, o benefício fica ocioso. | As regras do plano educacional podem mudar. |
-| Restyled | Automatização de formatação e estilo em repositórios. | Quando a equipe já sofre com consistência de formatação. | Se você ainda está sozinho e com projeto pequeno, pode ser exagero. | Regras de execução em repositórios privados devem ser conferidas. |
-| Travis CI | Builds privadas automatizadas. | Quando você já quer validar projeto por pipeline. | Sem projeto ou testes, o CI nao gera valor. | O comportamento do plano gratuito/educacional pode mudar. |
-| BrowserStack | Testes em browsers e dispositivos reais. | Quando a interface já está pronta e precisa de compatibilidade. | Antes de ter UI, testar navegador nao faz sentido. | Limites de sessão, paralelo e duração podem variar. |
-| Blackfire.io | Profiler para performance. | Quando existe gargalo medido e você quer investigar. | Sem problema real, é otimização prematura. | Confirme o tipo de plano gratuito atualmente disponível. |
-| LambdaTest | Teste cross-browser e cross-device. | Quando a UI já precisa ser validada em vários ambientes. | Se o produto ainda nao está pronto, o uso é cedo demais. | A cobertura do plano estudantil pode variar. |
-| Polypane | Navegador voltado para validação de front-end. | Quando você quer inspecionar layout e responsividade com mais precisão. | Se você ainda está montando a primeira versão da UI, a prioridade é outra. | Ferramenta de nicho; confirme suporte ao seu sistema. |
-| Imgbot | Otimização de imagens em projetos públicos e privados. | Quando imagens já fazem parte do produto. | Se o projeto ainda nao tem assets, nao há o que otimizar. | Verifique limites e suporte ao fluxo do repositório. |
+<p>
+  Aqui entram ferramentas que melhoram sua produção de código.
+  <br>
+  Para iniciante, isso importa muito quando você começa a programar com mais frequência e quer menos atrito.
+</p>
 
-</details>
-
-<details>
-<summary>Cloud, deploy e backend</summary>
-
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| Appwrite | Backend como serviço para auth, banco e storage. | Quando você quer acelerar um MVP com backend pronto. | Se o projeto ainda é só estudo de base, há complexidade demais. | O plano educacional e os limites por recurso podem mudar. |
-| Digital Ocean | Créditos para hospedar serviços e servidores. | Quando você já sabe subir e manter um serviço. | Servidor próprio cedo demais vira custo e manutenção. | Benefício de crédito depende do período e da elegibilidade. |
-| GitHub Pages | Hospedagem estática simples para site e portfólio. | Quando você já tem algo estático para publicar. | Sem conteúdo pronto, o benefício nao muda o jogo. | Item citado no guia-base; confirme se ainda aparece como benefício ativo no snapshot atual. |
-| Heroku | Deploy simples de aplicações e APIs. | Quando você já tem app pronto e quer publicar rápido. | Sem aplicação funcional, nao há o que implantar. | O crédito e a forma de acesso podem mudar com o tempo. |
-| LocalStack | Emulação local de serviços AWS. | Quando o projeto usa integrações cloud e você quer testar sem custo de nuvem. | Se ainda nao há dependências cloud, é peso extra. | Confirme os serviços cobertos pelo plano atual. |
-| Microsoft Azure | Cloud com crédito e serviços para estudante. | Quando o projeto pede infraestrutura gerenciada de verdade. | Antes de validar a aplicação, cloud costuma aumentar a complexidade. | Idade, região e catálogo de serviços podem alterar a elegibilidade. |
-| MongoDB | Banco NoSQL e ferramentas associadas. | Quando você já precisa persistir dados no projeto. | Se nao existe dado para guardar, o benefício fica parado. | Créditos, certificação e escopo do plano podem variar. |
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| GitHub Copilot | Acelera escrita, revisão e repetição de código. | Quando você já entende o que está fazendo. | Se virar muleta, atrapalha mais do que ajuda. |
+| JetBrains | IDEs profissionais, fortes e muito usadas no mercado. | Quando você começa a produzir código de forma mais séria. | Ferramenta boa não substitui base. |
+| GitKraken | Fluxo visual para Git. | Quando branch, merge e histórico começarem a atrapalhar no terminal. | Antes de entender Git básico, pode mascarar o aprendizado. |
+| GitLens | Mais contexto de Git dentro do editor. | Quando você já usa VS Code e quer mais visibilidade. | Se você ainda não entende Git, vira enfeite. |
+| Tower | Cliente Git com interface visual. | Quando você quer um fluxo Git menos bruto. | Não pule para ferramenta sem entender o básico. |
+| Working Copy | Git no celular/tablet. | Quando faz sentido mexer em repositório fora do notebook. | Para muita gente isso não é prioridade. |
+| CodeScene | Analisa saúde e pontos críticos do código. | Quando o repositório já ficou grande o bastante para isso. | Projeto pequeno normalmente não precisa disso. |
+| DeepScan | Checagem estática de código. | Quando você quer ajuda extra para encontrar problema comum. | Sem projeto minimamente estável, o ruído pode ser maior que o valor. |
+| DeepSource | Automação de qualidade de código. | Quando já existe repositório estável e fluxo mínimo de revisão. | Sem rotina de projeto, fica subutilizado. |
+| Restyled | Automatiza estilo e formatação. | Quando consistência de código já começou a ser dor real. | Sozinho, no começo, pode ser exagero. |
+| Travis CI | CI para builds e validação automática. | Quando seu projeto já merece pipeline. | Sem teste ou build relevante, não agrega. |
+| BrowserStack | Teste em navegadores e dispositivos reais. | Quando sua interface já precisa rodar bem em vários ambientes. | Cedo demais, isso só aumenta complexidade. |
+| Blackfire.io | Profiler para performance. | Quando existe gargalo real para investigar. | Sem problema medido, é otimização prematura. |
+| LambdaTest | Teste cross-browser e cross-device. | Quando a UI já está pronta para esse tipo de validação. | Não faz sentido antes de ter interface estável. |
+| Polypane | Navegador focado em responsividade e front-end. | Quando você quer validar layout com mais precisão. | Ferramenta útil, mas nichada. |
+| Imgbot | Otimiza imagens no projeto. | Quando seu projeto já tem bastante asset. | Sem imagem relevante, não muda nada. |
 
 </details>
 
 <details>
-<summary>Dados, APIs e integrações</summary>
+<summary><strong>☁️ Cloud, deploy e backend</strong></summary>
 
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| Appfigures | Analytics e ASO para apps publicados. | Quando você já publica app e quer medir desempenho. | Sem app publicado, o valor é limitado. | A cobertura exata de recursos pode mudar. |
-| Blockchair | Acesso a dados e consultas de blockchain. | Quando o projeto realmente usa dados on-chain. | Se o produto nao tem relação com blockchain, nao compensa. | Limites de requisição e suporte por rede podem variar. |
-| Carto | Geodados, mapas e camadas de localização. | Quando localização e mapa sao parte do produto. | Se o problema nao é espacial, a plataforma vira excesso. | Créditos e recursos podem variar por região. |
-| CryptoLens | Ferramenta relacionada a dados de blockchain. | Quando você trabalha com crypto ou dados on-chain. | Se nao existe esse caso de uso, nao vale antecipar. | A descrição pública do benefício pode mudar; confirme a página do parceiro. |
-| Deepnote | Ambiente para notebooks e trabalho exploratório com dados. | Quando você já tem dado para explorar e compartilhar. | Sem dataset ou análise, o uso fica vazio. | O plano Team e os limites de máquina/histórico podem mudar. |
-| Mailgun | API para envio e validação de e-mails. | Quando seu app já envia e-mail transacional. | Se nao há fluxo de e-mail, o benefício nao é prioridade. | Quotas mensais e validade do plano podem variar. |
-| Pageclip | Captura de formulários em sites estáticos. | Quando você quer publicar um formulário sem backend completo. | Se você já tem backend próprio, talvez seja redundante. | Limites do plano grátis/educacional podem mudar. |
-| POEditor | Gestão de traduções e localização. | Quando seu produto já exige textos em mais de um idioma. | Se o app ainda é monolíngue, nao há urgência. | O nível do plano gratuito precisa ser conferido no momento do uso. |
-| PopSQL | SQL colaborativo e consulta de banco. | Quando você já trabalha com queries e análise de dados. | Se você quase nao consulta banco, a ferramenta fica subutilizada. | Verifique limites de colaboração e conexão. |
-| Requestly | Reescrita e inspeção de requests no navegador. | Quando você precisa depurar front-end, API ou fluxos de rede. | Sem problema de rede ou API, é ferramenta a mais. | A cobertura do plano profissional pode mudar. |
-| Stripe | Cobrança e processamento de pagamentos. | Quando o produto já precisa monetizar de forma real. | Se ainda nao existe venda, nao há motivo para integrar. | As condições do waiver e taxas podem mudar. |
-| Testmail.app | Caixas de e-mail de teste para QA. | Quando você testa cadastro, convite ou recuperação de senha. | Sem fluxo de e-mail, nao acrescenta nada. | Limites de uso e retenção devem ser conferidos. |
-| Zyte | Coleta e scraping em escala. | Quando o projeto depende de scraping ou extração web. | Se o dado nao vem da web, nao faz sentido antecipar. | Regras de uso, volume e retenção podem variar. |
-| ConfigCat | Feature flags para liberar funcionalidades com controle. | Quando você precisa de rollout gradual. | Em projeto sem usuários, flag demais vira complexidade. | Limites de flags, usuários e ambientes podem mudar. |
-| DevCycle | Feature flags e gestão de rollout. | Quando você quer liberar recurso por etapas. | Se nao existe risco operacional, talvez seja cedo. | Confirme o plano Starter educacional atual. |
+<p>
+  Essa categoria costuma chamar atenção cedo demais.
+  <br>
+  Ela é útil, mas rende mais quando você já tem projeto, necessidade de deploy ou backend de verdade.
+</p>
+
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| Appwrite | Backend pronto com auth, banco e storage. | Quando você quer acelerar um MVP. | Se ainda está aprendendo base, pode complicar demais. |
+| DigitalOcean | Créditos para hospedar serviço e servidor. | Quando você já sabe subir e manter um serviço. | Servidor cedo demais vira custo e manutenção mental. |
+| GitHub Pages | Publicar site estático, portfólio e documentação. | Quando você já tem algo simples para mostrar. | Ótimo para site estático, mas não resolve backend complexo. |
+| Heroku | Deploy rápido de app e API. | Quando você já tem aplicação funcionando. | Sem app pronto, não há o que publicar. |
+| LocalStack | Simula serviços AWS localmente. | Quando seu projeto já conversa com cloud de verdade. | Se você ainda não usa cloud, vira peso extra. |
+| Microsoft Azure | Cloud com crédito e serviços para estudante. | Quando o projeto realmente pede infraestrutura. | Antes disso, pode só te distrair. |
+| MongoDB | Banco e ecossistema associados. | Quando você já precisa persistir dados no projeto. | Se ainda não existe dado real para guardar, não é prioridade. |
 
 </details>
 
 <details>
-<summary>Observabilidade, segurança e segredos</summary>
+<summary><strong>🗃️ Dados, APIs e integrações</strong></summary>
 
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| 1Password | Cofre para senhas, tokens e chaves. | Quando você começa a trabalhar com várias credenciais. | Se nao há segredo para proteger, o ganho é pequeno. | Confirme renovação, dispositivos cobertos e escopo do plano. |
-| AstraSecurity | Firewall e scanner de malware para site. | Quando seu site já está público. | Antes de publicar, a proteção fica sem alvo real. | Verifique se o benefício continua válido para o seu país/conta. |
-| Dashlane | Gerenciador de senhas. | Quando você quer separar segredos pessoais e de trabalho. | Se você já usa outro cofre bem, pode ser duplicado. | Compare o plano com o que já usa para nao criar redundância. |
-| Doppler | Gestão de segredos e variáveis sensíveis. | Quando há env vars e credenciais para separar por ambiente. | Em projeto muito pequeno, talvez seja excesso. | Confira suporte ao fluxo e ao número de ambientes. |
-| DataDog | Observabilidade para app, logs e infra. | Quando o sistema já tem tráfego e sinais úteis. | Sem carga real, a plataforma vira ruído. | O plano estudantil e seus limites podem variar. |
-| Honeybadger | Rastreamento de erros e incidentes. | Quando você quer visibilidade simples de falhas. | Se nao há app em uso, os alertas nao ajudam muito. | Planos e limites podem mudar. |
-| New Relic | Observabilidade e métricas de aplicação. | Quando o serviço já está em produção ou pré-produção. | Antes disso, a telemetria pode ser mais pesada que útil. | O valor e os limites do benefício podem mudar. |
-| Sentry | Captura de erros, performance e replays. | Quando você quer ver falhas reais em produção. | Sem usuários e sem evento, nao há sinal relevante. | Limites de eventos, retenção e replays podem variar. |
-| Termius | Cliente SSH para acesso a servidores. | Quando você administra servidores ou instâncias remotas. | Se você ainda nao opera infra própria, não precisa agora. | Confirme plataformas e recursos do plano Premium. |
+<p>
+  Essa parte começa a fazer mais sentido quando você já tem projeto com fluxo real, dado real ou integração real.
+</p>
 
-</details>
-
-<details>
-<summary>Produto, organização e foco</summary>
-
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| Camber | Pesquisa e colaboração voltadas ao contexto estudantil. | Quando seu fluxo realmente tem pesquisa e trabalho compartilhado. | Se você nao usa esse formato, o benefício nao se sustenta. | O benefício é menos conhecido; confirme a página do parceiro. |
-| DailyBot | Automação de rotina e alinhamento de equipe. | Quando você trabalha com time ou projeto recorrente. | Em uso solo, o ganho tende a ser baixo. | Limites de usuários e duração podem mudar. |
-| Freshpaint | Análise de eventos e comportamento para produto. | Quando você já precisa medir funil ou uso real. | Sem eventos bem definidos, vira ruído analítico. | Pode exigir atenção extra a privacidade e conformidade. |
-| Haze Over | App de foco e redução de distração visual. | Quando você precisa de ambiente mais controlado para estudar. | Se a distração nao é visual, talvez nao seja a alavanca certa. | Confirme plataforma e suporte do aplicativo. |
-| Notion | Organização, documentação e colaboração. | Quando você precisa centralizar notas, tarefas e materiais. | Se um caderno simples já resolve, nao complica. | O benefício educacional pode incluir recursos extras; valide o que está ativo. |
-| Notion Template Collection | Modelos prontos para começar mais rápido no Notion. | Quando você já decidiu usar Notion como base. | Template nao substitui processo nem disciplina. | Item citado no guia-base; confirme se ainda aparece no snapshot atual. |
-| OpenSauced | Presença e crescimento em open source. | Quando você participa ativamente de repositórios públicos. | Se nao há atividade em OSS, a utilidade é menor. | Benefício mais comunitário; o escopo pode mudar. |
-| Pomodone | Timer Pomodoro com tarefas. | Quando você precisa de foco e rotina de estudo. | Se seu problema ainda é escolher prioridade, o timer nao resolve. | Item citado no guia-base; confirme se ainda está elegível no snapshot atual. |
-| Simple Analytics | Métricas simples e com foco em privacidade. | Quando seu site já está no ar e você quer tráfego básico. | Sem público ou sem site, o benefício fica parado. | Limites de pageviews e escopo podem mudar. |
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| Appfigures | Analytics e ASO para apps. | Quando você já publica app. | Sem app publicado, não rende. |
+| Blockchair | Acesso a dados de blockchain. | Quando seu projeto realmente usa isso. | Fora desse caso, não vale a energia. |
+| Carto | Geodados e mapas. | Quando localização é parte do produto. | Se mapa não é central, pode ser excesso. |
+| CryptoLens | Dados relacionados a blockchain. | Quando você trabalha com esse tipo de dado. | Muito dependente do caso de uso. |
+| Deepnote | Ambiente para notebooks e análise colaborativa. | Quando você já tem dado para explorar. | Sem dado ou análise, fica vazio. |
+| Mailgun | Envio e validação de e-mail. | Quando seu sistema já envia e-mail transacional. | Se ainda não existe esse fluxo, deixa quieto. |
+| Pageclip | Captura de formulário em site estático. | Quando você quer formulário sem backend completo. | Pode ser redundante se você já tem backend. |
+| POEditor | Gestão de tradução e localização. | Quando seu produto precisa de mais de um idioma. | Antes disso, não é urgência. |
+| PopSQL | SQL colaborativo e consulta em banco. | Quando você já trabalha com query de verdade. | Se ainda quase não mexe com banco, não compensa. |
+| Requestly | Debug e reescrita de requests. | Quando front-end, API ou rede viraram dor real. | Ferramenta boa, mas muito específica. |
+| Stripe | Pagamento e cobrança. | Quando monetização deixou de ser teoria. | Se não existe venda real, não adianta integrar. |
+| Testmail.app | E-mail de teste para fluxo de cadastro e recuperação. | Quando você já testa fluxo com e-mail. | Sem esse tipo de fluxo, não agrega. |
+| Zyte | Scraping e coleta web em escala. | Quando seu produto depende disso. | Fora desse contexto, não faz sentido. |
+| ConfigCat | Feature flags. | Quando você precisa liberar funcionalidade por etapas. | Em projeto muito inicial, é complexidade a mais. |
+| DevCycle | Feature flags e rollout gradual. | Quando isso já virou necessidade real. | Sem risco operacional, talvez seja cedo. |
 
 </details>
 
 <details>
-<summary>UI, design e publicação</summary>
+<summary><strong>🔐 Segurança, segredos e observabilidade</strong></summary>
 
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| Bootstrap Studio | Construção visual de páginas e landing pages. | Quando você quer acelerar um site simples. | Se você ainda nao entende HTML/CSS, a ferramenta pode virar muleta. | Nao substitui domínio de front-end. |
-| Icons8 | Biblioteca de ícones, imagens e outros assets. | Quando você já precisa de material visual consistente. | Se o projeto ainda nao tem identidade, é cedo. | O pacote e o prazo do acesso podem variar. |
-| IconScout | Ícones e assets visuais adicionais. | Quando o produto já pede um kit visual maior. | Sem necessidade clara, vira acúmulo de biblioteca. | Limites mensais e cobertura de assets podem mudar. |
-| Neve | Tema WordPress para acelerar site institucional. | Quando o site será feito em WordPress. | Se o stack nao é WordPress, nao faz sentido. | O uso depende do ecossistema WordPress. |
-| Visme | Apresentações, infográficos e peças visuais. | Quando você precisa comunicar ideias visualmente. | Se um documento simples resolve, nao force uma suíte visual. | Exportação e limites do plano devem ser confirmados. |
+<p>
+  Essa categoria costuma crescer em importância quando você sai do exercício simples e começa a lidar com token, deploy, erro real e uso real.
+</p>
 
-</details>
-
-<details>
-<summary>Domínio e presença</summary>
-
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| Name.com | Domínio e segurança adicional. | Quando o projeto já merece um endereço próprio. | Comprar domínio antes de ter conteúdo é a ordem errada. | Regras de registro, renovação e elegibilidade podem mudar. |
-| Namecheap | Domínio `.me` e SSL por período promocional. | Quando você já publicou portfólio ou site pessoal. | Se ainda nao há site, o domínio vira custo ocioso. | Confirme cobertura, renovação e disponibilidade por país. |
-| Tech Domains | Domínio `.TECH` para presença profissional. | Quando a marca já está definida e o site existe. | Domínio nao resolve falta de conteúdo. | O benefício oficial pode variar entre snapshots. |
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| 1Password | Guardar senhas, tokens e chaves do jeito certo. | Quando você começa a lidar com várias credenciais. | Muito útil, mas não precisa virar obsessão cedo demais. |
+| AstraSecurity | Proteção e scanner para site. | Quando seu site já está público. | Antes de publicar, não há alvo real. |
+| Dashlane | Gerenciador de senhas. | Quando você quer organizar segredos pessoais e profissionais. | Pode ser redundante se você já usa outro bom. |
+| Doppler | Gestão de segredos por ambiente. | Quando seu projeto já tem env vars e credenciais de verdade. | Em projeto minúsculo, pode ser excesso. |
+| Datadog | Observabilidade de app, logs e infra. | Quando o sistema já tem uso real. | Sem tráfego e sem sinal real, vira barulho. |
+| Honeybadger | Rastreamento de erro e incidente. | Quando você quer enxergar falha de forma mais clara. | Sem app em uso, não faz tanta diferença. |
+| New Relic | Observabilidade e métricas. | Quando o serviço já está no ar. | Telemetria antes da hora só pesa. |
+| Sentry | Erro, performance e replay. | Quando você quer ver falha real em produção. | Sem uso real, o retorno é menor. |
+| Termius | SSH em servidor remoto. | Quando você opera infra ou instância remota. | Se ainda não lida com servidor, não precisa agora. |
 
 </details>
 
 <details>
-<summary>Maker e apps multiplataforma</summary>
+<summary><strong>🧩 Produtividade, organização e foco</strong></summary>
 
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| Adafruit | Prototipagem de hardware e IoT. | Quando você já tem ideia para sensor, placa ou automação. | Se seu foco ainda é software básico, o ganho é baixo. | Hardware, estoque e descontos podem variar por região. |
-| Arduino | Ecossistema para prototipagem física e hardware maker. | Quando o projeto envolve eletrônica ou IoT. | Sem necessidade de hardware, nao há prioridade. | O benefício do plano e descontos em hardware podem mudar. |
-| Kodika | Prototipagem de app mobile com pouco atrito. | Quando você quer validar uma ideia de aplicativo rápido. | Se você precisa de controle total do código, o no-code pode limitar. | Exportação, plataformas e planos devem ser conferidos. |
-| Xojo | Licença para criar apps desktop. | Quando você realmente vai construir software desktop. | Se seu foco é web ou mobile, nao vale antecipar. | A licença educacional e as plataformas suportadas podem variar. |
+<p>
+  Essa categoria é forte para quem já entendeu que o problema não é só aprender código, mas conseguir estudar com consistência.
+</p>
+
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| Camber | Pesquisa e colaboração em contexto acadêmico. | Quando isso realmente faz parte do seu fluxo. | Se você não usa esse tipo de rotina, não sustenta. |
+| DailyBot | Rotina e alinhamento de equipe. | Quando você trabalha com time ou projeto recorrente. | Em uso solo, pode render pouco. |
+| Freshpaint | Análise de eventos e comportamento. | Quando você já mede produto de verdade. | Sem evento e sem produto real, vira ruído. |
+| HazeOver | Redução de distração visual. | Quando o seu problema é ambiente visual poluído. | Se sua distração não é visual, talvez não seja isso. |
+| Notion | Organização, documentação e centralização de estudo. | Quando você quer um lugar único para material e rotina. | Se caderno ou Docs já resolvem, não inventa sistema demais. |
+| Notion Template Collection | Modelos prontos para começar no Notion. | Quando você já decidiu usar Notion. | Template não substitui disciplina. |
+| OpenSauced | Crescimento e presença em open source. | Quando você já participa de repositórios públicos. | Se ainda nem começou no OSS, pode esperar. |
+| Pomodone | Foco e rotina com Pomodoro. | Quando o problema é distração e consistência. | Se você ainda nem sabe o que estudar, o timer não resolve. |
+| Simple Analytics | Métrica simples com foco em privacidade. | Quando seu site já está no ar. | Sem site ou público, não muda o jogo. |
 
 </details>
 
 <details>
-<summary>Itens removidos ou fora do snapshot atual</summary>
+<summary><strong>🎨 UI, design e publicação</strong></summary>
 
-| Oferta | Para que serve | Quando | Por que nao e antes | Cautela |
-|---|---|---|---|---|
-| Bump.sh | Documentação de APIs. | Apenas se a oferta ainda estiver ativa no seu momento de verificação. | O próprio GitHub marcou como removida do Pack em snapshot público recente. | Trate como histórico, nao como benefício garantido. |
-| Netwise | Colocation e infraestrutura. | Apenas se houver reativação oficial. | A listagem pública indica que saiu do Pack. | Nao assuma disponibilidade atual. |
-| Typeform | Formulários e pesquisas. | Apenas se houver nova inclusão oficial. | A listagem pública indica que saiu do Pack. | Nao trate como ativo sem confirmar no portal atual. |
+<p>
+  Não é a categoria mais urgente para todo mundo, mas pode ajudar muito quando você já tem projeto visual e precisa deixar aquilo apresentável.
+</p>
+
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| Bootstrap Studio | Construção visual de página e landing. | Quando você quer acelerar site simples. | Não substitui entender HTML e CSS. |
+| Icons8 | Ícones, imagens e assets. | Quando seu projeto já pede material visual consistente. | Sem projeto visual, vira acúmulo de biblioteca. |
+| IconScout | Mais assets visuais. | Quando a interface já está mais séria. | Sem necessidade clara, não compensa. |
+| Neve | Tema WordPress. | Quando o site vai ser em WordPress. | Fora desse ecossistema, não faz sentido. |
+| Visme | Apresentação e peça visual. | Quando você precisa comunicar melhor projeto ou ideia. | Se texto simples resolve, não complica. |
 
 </details>
 
-## Fechamento conservador
+<details>
+<summary><strong>🌍 Domínio e presença profissional</strong></summary>
 
-- Este catálogo prioriza uso prático, nao “ativar tudo”.
-- Se a oferta nao ajuda no seu projeto atual, deixe para depois.
-- Se houver conflito entre este arquivo e a página oficial do Pack, a página oficial vence.
+<p>
+  Muita gente quer começar por aqui. Quase sempre é cedo.
+  <br>
+  Domínio rende mais quando você já tem algo no ar que merece um endereço próprio.
+</p>
 
-## Próximo passo natural
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| Name.com | Domínio e recursos associados. | Quando o projeto já merece endereço próprio. | Domínio não resolve falta de conteúdo. |
+| Namecheap | `.me` e SSL promocional. | Quando você já publicou portfólio ou site pessoal. | Se ainda não há site, vira custo ocioso depois. |
+| Tech Domains | Domínio `.TECH`. | Quando sua marca e seu site já existem. | Branding sem conteúdo não sustenta nada. |
 
-- Para escolher só o essencial do começo: [GitHub Pack: como conseguir e o que vale ativar agora](github-pack.md)
-- Para voltar à trilha principal: [hub](../README.MD%20(2))
+</details>
+
+<details>
+<summary><strong>🔧 Maker e apps multiplataforma</strong></summary>
+
+<p>
+  Essa parte é ótima para nicho certo.
+  <br>
+  Mas, para quem está começando do zero em programação, normalmente não é prioridade agora.
+</p>
+
+| Oferta | Por que usaria isso | Quando faz sentido | Cuidado |
+|---|---|---|---|
+| Adafruit | Hardware, maker e IoT. | Quando seu projeto já envolve sensor, placa ou automação. | Se seu foco ainda é software básico, pode esperar. |
+| Arduino | Protótipo físico e hardware maker. | Quando eletrônica ou IoT fizerem parte da jornada. | Sem necessidade de hardware, não é prioridade. |
+| Kodika | Protótipo de app mobile com menos atrito. | Quando você quer validar uma ideia de app rápido. | Se precisa de controle total do código, pode limitar. |
+| Xojo | Licença para app desktop. | Quando software desktop é realmente seu caso. | Se seu foco é web ou mobile, não é agora. |
+
+</details>
+
+<details>
+<summary><strong>🗑️ Itens removidos ou fora do snapshot atual</strong></summary>
+
+<p>
+  Isso aqui existe para evitar confusão.
+  <br>
+  Às vezes você vê alguém citando uma oferta antiga. Nem tudo continua ativo.
+</p>
+
+| Oferta | O que era | Como tratar |
+|---|---|---|
+| Bump.sh | Documentação de API. | Trate como histórico até confirmar no portal atual. |
+| Netwise | Infraestrutura / colocation. | Trate como histórico até confirmação oficial. |
+| Typeform | Formulário e pesquisa. | Não assuma como ativo sem validar no Pack atual. |
+
+</details>
+
+---
+
+<a id="continue-assim"></a>
+## 📌 Continue assim
+
+- Para ver só o que vale ativar no começo: [GitHub Pack](github-pack.md)
+- Para guardar referências boas de estudo e prática: [Repositórios, sites e referências úteis](repositorios-e-sites-uteis.md)
+- Para voltar ao começo do guia: [Hub principal](../README.md)
+
+Se você está no início da jornada, o certo é:
+
+1. entender o capítulo 3;
+2. usar este catálogo como consulta;
+3. ativar só o que faz sentido para a sua fase;
+4. guardar o próximo capítulo como acervo para quando surgir necessidade real.
