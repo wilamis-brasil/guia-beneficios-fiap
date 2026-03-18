@@ -38,29 +38,47 @@ Em vez de procurar livro aleatório, começa por aqui.
 <a id="canais-do-youtube"></a>
 ## 📺 Canais do Youtube
 
-- [Curso em Vídeo](https://www.youtube.com/cursoemvideo)
-  - Melhor para começar do zero com trilhas organizadas de lógica, Python, HTML/CSS e Java.
+# Canais de YouTube BR para quem está começando em programação
 
-- [Dev Aprender](https://www.youtube.com/@devaprender)
-  - Muito bom para iniciantes em Python, lógica de programação, automação e projetos práticos.
+📘 **Curso em Vídeo**  
+<https://www.youtube.com/cursoemvideo>  
+Muita gente vê esse canal como o mais confiável para começar do zero.  
+Os iniciantes costumam usar para aprender lógica, Python, HTML e CSS com calma e em ordem.
 
-- [Código Fonte TV](https://www.youtube.com/@codigofontetv)
-  - Ótimo para aprender fundamentos, entender a área e acompanhar conteúdo introdutório de forma leve.
+🐍 **Dev Aprender**  
+<https://www.youtube.com/@devaprender>  
+O pessoal costuma gostar porque ele explica de um jeito direto e prático.  
+Quem está começando usa bastante para treinar Python e entender como aplicar o que aprende.
 
-- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
-  - Excelente para desenvolver raciocínio, base de computação e visão de longo prazo na carreira.
+💻 **Código Fonte TV**  
+<https://www.youtube.com/@codigofontetv>  
+É um canal que muita gente acha leve e fácil de acompanhar.  
+Os iniciantes usam para entender melhor a área de programação e ir pegando familiaridade com os temas.
 
-- [Dev em Dobro](https://www.youtube.com/c/DevemDobro)
-  - Indicado para quem quer começar em desenvolvimento web e ver projetos guiados.
+🧠 **Filipe Deschamps**  
+<https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw>  
+Muita gente gosta porque ele faz a pessoa pensar e entender o “porquê” das coisas.  
+Iniciantes costumam usar para criar base, ampliar a visão sobre tecnologia e ganhar curiosidade pela área.
 
-- [Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
-  - Forte em Python, JavaScript, SQL e ciência de dados com abordagem prática.
+🌐 **Dev em Dobro**  
+<https://www.youtube.com/c/DevemDobro>  
+O canal é bem lembrado por quem quer aprender de forma visual e guiada.  
+Quem está começando costuma usar para entrar no desenvolvimento web e acompanhar projetos passo a passo.
 
-- [Joviano Silveira](https://www.youtube.com/@jovianosilveira)
-  - Boa opção para lógica de programação com Python e aulas focadas em base.
+📊 **Hashtag Programação**  
+<https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg>  
+Muita gente comenta que o canal é bom para aprender coisas úteis para estudo e trabalho.  
+Os iniciantes usam bastante para Python, automação, SQL e exercícios mais práticos.
 
-- [Programação Dinâmica](https://www.youtube.com/@programacaodinamica)
-  - Canal bom para quem quer aprender com explicações claras e evoluir depois do básico.
+✨ **Programação Dinâmica**  
+<https://www.youtube.com/@programacaodinamica>  
+O pessoal costuma elogiar a clareza das explicações.  
+É um canal que iniciantes usam para reforçar a base e ir entendendo programação de forma mais tranquila.
+
+📝 **Joviano Silveira**  
+<https://www.youtube.com/@jovianosilveira>  
+Muita gente acha o conteúdo simples e bom para estudo.  
+Os iniciantes usam para aprender lógica de programação e começar em Python sem pressa.
 
 ---
 
