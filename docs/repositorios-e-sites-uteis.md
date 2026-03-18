@@ -21,8 +21,6 @@ Aqui você vai encontrar coisas como:
 
 - [📚 Biblioteca de livros](#biblioteca-de-livros)
 - [🗺️ Roadmap da área](#roadmap-da-area)
-- [🧪 APIs para projeto](#apis-para-projeto)
-- [🖼️ Recursos visuais](#recursos-visuais)
 
 ---
 
@@ -66,38 +64,6 @@ Se você ainda está no começo, foque em:
 - `HTML`
 - `CSS`
 - `JavaScript`
-
----
-
-<a id="apis-para-projeto"></a>
-## 🧪 APIs para projeto
-
-Essas APIs ajudam você a praticar e também a montar projetos.
-
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-- [DummyJSON](https://dummyjson.com/)
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
-- [BrasilAPI](https://brasilapi.com.br/)
-- [ViaCEP](https://viacep.com.br/)
-
-- **JSONPlaceholder / DummyJSON**: para treino (dados prontos, sem backend)  
-- **BrasilAPI / ViaCEP**: para projetos mais reais (dados do Brasil)  
-- **public-api-lists**: para encontrar APIs quando já tiver uma ideia  
-
-Use isso para aprender a buscar dados e mostrar na tela — isso é base de praticamente qualquer aplicação.
-
----
-
-<a id="recursos-visuais"></a>
-## 🖼️ Recursos visuais
-
-- [Pexels](https://www.pexels.com/)
-- [unDraw](https://undraw.co/)
-- [Lucide](https://lucide.dev/)
-
-- **Pexels**: fotos reais  
-- **unDraw**: ilustrações  
-- **Lucide**: ícones  
 
 ---
 
