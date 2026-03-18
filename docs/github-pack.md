@@ -1,8 +1,8 @@
 # 🎁 GitHub Student Developer Pack: como conseguir e o que vale ativar agora
 
-[Voltar ao hub](../README.MD%20(2))
+[Voltar ao hub](../README.md)
 
-> ⚠️ **Este capítulo anda junto com o catálogo completo:** [Catálogo do GitHub Pack](05-catalogo-github-pack.md)
+> ⚠️ **Este capítulo anda junto com o catálogo completo:** [Catálogo do GitHub Pack](catalogo-github-pack.md)
 >
 > Este aqui te mostra o que é o Pack, como pegar e o que vale ativar primeiro.
 > O catálogo te mostra o resto.
@@ -10,7 +10,7 @@
 
 Antes de sair clicando em tudo, guarda esta regra:
 
-> **não ativa tudo de uma vez.**
+> **Não ativa tudo de uma vez. Ative só que for REALMENTE usar!**
 
 Pega 1 ou 2 ferramentas que resolvem um problema real do seu momento e usa direito.
 
@@ -137,9 +137,7 @@ O que derruba muita gente é desorganização.
 Se precisar provar vínculo manualmente, o melhor é mandar algo atual e fácil de ler, por exemplo:
 
 - comprovante de matrícula;
-- grade/horário de aulas;
-- histórico;
-- declaração da instituição.
+- fazer o download da [carterinha fiap](https://on.fiap.com.br/local/perfil/meu-perfil.php?aba=carteirinha) e tirar uma foto.
 
 O importante é aparecer de forma clara:
 
@@ -170,7 +168,7 @@ Passa por isso rapidinho antes de clicar:
 - [ ] `2FA` ativado;
 - [ ] nome reconhecível no perfil;
 - [ ] foto ou avatar decente;
-- [ ] email institucional adicionado, se você tiver;
+- [ ] email institucional adicionado;
 - [ ] documento atual separado, se precisar;
 - [ ] tudo legível e sem pressa.
 
@@ -188,11 +186,13 @@ De novo:
 O Pack é gigante.
 
 Este capítulo é só para o que vale mais a pena no começo.
-O resto você consulta no [catálogo completo](05-catalogo-github-pack.md).
+O resto você consulta no [catálogo completo](catalogo-github-pack.md).
 
 ### 🍅 PomoDone
 
 Se você é distraído e vive abrindo aba demais, o `PomoDone` pode ser uma das coisas mais úteis daqui.
+
+Com ele você consegue definir o tempo que permanecerá focado estudando na Fiap, quando ativado, não poderá fazer nada além de acessar o site da Fiap enquanto o tempo não acabar.
 
 Ele entra muito bem para quem:
 
@@ -203,11 +203,9 @@ Ele entra muito bem para quem:
 Por que vale agora:
 
 - ajuda a montar hábito;
-- ajuda a criar rotina;
+- ajuda a criar rotina de estudo;
 - ajuda a forçar bloco de foco;
 - e é ótimo para quem estuda melhor quando existe uma regra clara de tempo.
-
-**Resumo direto:** para gente distraída, isso aqui pode valer mais do que muita ferramenta “bonita”.
 
 ### 🐙 GitHub Pro
 
@@ -291,12 +289,7 @@ Arruma o que faltou e faz direito.
 <a id="continue-daqui"></a>
 ## 📌 Continue daqui
 
-A sequência boa é esta:
-
-1. [Catálogo do GitHub Pack](05-catalogo-github-pack.md)
-2. [FAQ do guia](06-faq-e-fontes.md)
+1. [Catálogo do GitHub Pack](catalogo-github-pack.md)
 
 Lê o catálogo logo depois deste capítulo.
-
-Este aqui te mostra só o começo.
 O catálogo te mostra o tamanho real do que você ganhou acesso como estudante. 🚀

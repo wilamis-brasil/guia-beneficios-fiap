@@ -1,6 +1,6 @@
 # 🧭 Comece por aqui se você está perdidasso na programação
 
-[Voltar ao hub](../README.MD%20(2))
+[Voltar ao hub](../README.md)
 
 Se você entrou agora, não sabe quase nada de programação, está cheio de dúvidas, com ansiedade, se comparando com os outros e com medo de já estar para trás, calma.
 
@@ -184,7 +184,7 @@ Então, em vez de se cobrar por “saber tudo”, faça o que funciona:
 
 Se matemática e lógica forem uma dor real para você, não empurra isso com a barriga. É exatamente por isso que o **Nivelamento** existe e o arquivo de benefícios da FIAP explica isso melhor:
 
-👉 [Ler benefícios FIAP](02-beneficios-fiap.md)
+👉 [Ler benefícios FIAP](beneficios-fiap.md)
 
 ---
 
@@ -238,8 +238,8 @@ O foco é não deixar passar o que realmente ajuda no começo.
 
 Então leia com atenção:
 
-- [Benefícios FIAP](02-beneficios-fiap.md)
-- [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
+- [Benefícios FIAP](beneficios-fiap.md)
+- [GitHub Pack: como conseguir e o que vale ativar agora](github-pack.md)
 
 ---
 
@@ -277,7 +277,7 @@ Principalmente:
 
 Tudo isso está aqui:
 
-👉 [Benefícios FIAP](02-beneficios-fiap.md)
+👉 [Benefícios FIAP](beneficios-fiap.md)
 
 ### 5. Entenda o que realmente vale ativar do GitHub Pack agora
 
@@ -285,7 +285,7 @@ Sem abrir o catálogo inteiro e se perder.
 
 Leia isto:
 
-👉 [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
+👉 [GitHub Pack: como conseguir e o que vale ativar agora](github-pack.md)
 
 ### 6. Entenda o que vale ativar com calma
 
@@ -293,7 +293,7 @@ Isso é muito importante porque impede você de gastar energia cedo no lugar err
 
 Leia isto:
 
-👉 [Catálogo do GitHub Pack](05-catalogo-github-pack.md)
+👉 [Catálogo do GitHub Pack](catalogo-github-pack.md)
 
 ---
 
@@ -348,7 +348,6 @@ Se você está perdido em programação, faça isto:
 
 Se você quiser continuar do jeito mais seguro, a sequência é esta:
 
-1. [Benefícios FIAP](02-beneficios-fiap.md)
-2. [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
-3. [Catálogo do GitHub Pack](05-catalogo-github-pack.md)
-4. [FAQ e fontes](06-faq-e-fontes.md)
+1. [Benefícios FIAP](beneficios-fiap.md)
+2. [GitHub Pack: como conseguir e o que vale ativar agora](github-pack.md)
+3. [Catálogo do GitHub Pack](catalogo-github-pack.md)

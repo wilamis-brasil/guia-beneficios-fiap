@@ -1,6 +1,6 @@
 # 🎓 Benefícios FIAP para quem está começando programação
 
-[Voltar ao hub](../README.MD%20(2))
+[Voltar ao hub](../README.md)
 
 Se você entrou em programação agora, não precisa decorar tudo que a FIAP oferece.
 
@@ -10,7 +10,7 @@ Precisa entender só 3 coisas:
 - o que acelera seu aprendizado de verdade;
 - e o que realmente agrega no seu currículo depois.
 
-⚠️ **Lê este capítulo junto com o próximo:** [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
+⚠️ **Lê este capítulo junto com o próximo:** [GitHub Pack: como conseguir e o que vale ativar agora](github-pack.md)
 
 Falo sério: não deixa para "depois eu vejo".
 
@@ -339,9 +339,8 @@ Resumo da ordem:
 
 Lê na sequência:
 
-1. [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
-2. [Catálogo do GitHub Pack](05-catalogo-github-pack.md)
-3. [FAQ do guia](06-faq-e-fontes.md)
+1. [GitHub Pack: como conseguir e o que vale ativar agora](github-pack.md)
+2. [Catálogo do GitHub Pack](catalogo-github-pack.md)
 
 O capítulo do `GitHub Pack` não é extra.
 

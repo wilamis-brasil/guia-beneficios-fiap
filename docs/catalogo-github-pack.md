@@ -1,6 +1,6 @@
 # 05. Catálogo consultivo do GitHub Student Developer Pack
 
-[Voltar ao hub](../README.MD%20(2))
+[Voltar ao hub](../README.md)
 
 > Leitura conservadora: este catálogo usa como base a listagem pública oficial da GitHub Education para o Pack e a consolidação de pesquisa oficial feita para este projeto. Como o Pack muda com frequência, toda informação específica abaixo deve ser tratada como snapshot, nao como garantia permanente.
 
@@ -192,5 +192,5 @@ Regra de uso:
 
 ## Próximo passo natural
 
-- Para escolher só o essencial do começo: [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
+- Para escolher só o essencial do começo: [GitHub Pack: como conseguir e o que vale ativar agora](github-pack.md)
 - Para voltar à trilha principal: [hub](../README.MD%20(2))
