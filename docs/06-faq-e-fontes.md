@@ -54,4 +54,4 @@ Sim. A FIAP informa acesso completo por 6 meses no plano Pro para Graduação, M
 
 - Para sair da confusão da primeira semana: [01-comecar-aqui.md](01-comecar-aqui.md)
 - Para entender os benefícios da FIAP: [02-beneficios-fiap.md](02-beneficios-fiap.md)
-- Para ver o Pack sem exagero: [03-github-pack-agora.md](03-github-pack-agora.md)
+- Para ver o Pack sem exagero: [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)

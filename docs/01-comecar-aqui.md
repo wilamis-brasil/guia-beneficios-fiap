@@ -1,129 +1,354 @@
-# Começar aqui: primeiros 7 dias com baixa carga mental
+# 🧭 Comece por aqui se você está perdidasso na programação
 
 [Voltar ao hub](../README.MD%20(2))
 
-Este guia é para a sua primeira semana na FIAP.
+Se você entrou agora, não sabe quase nada de programação, está cheio de dúvidas, com ansiedade, se comparando com os outros e com medo de já estar para trás, calma.
 
-Objetivo simples: entender onde ficam as coisas, reduzir ruído e deixar a rotina mínima funcionando.
+Você não precisa chegar sabendo tudo.
 
-Regra de esforço:
-- não tente “aprender tudo” na primeira semana;
-- faça o básico bem feito;
-- se algo travar, pare no ponto seguro e continue no dia seguinte.
+Muita gente entra sem entender:
 
-## Dia 1 - Entrar no ambiente certo
+- como o computador funciona;
+- o que é hardware;
+- o que é linguagem de programação;
+- por que existe matemática no meio disso;
+- por onde começar a estudar;
+- quais benefícios da FIAP e do GitHub realmente importam no começo.
 
-Faça só o essencial:
-- confirme seu acesso institucional;
-- abra o app ou portal da FIAP que você vai usar no dia a dia;
-- anote em um lugar único onde ficam seus dados de aluno, calendário e materiais.
+Isso é normal.
 
-O foco hoje não é explorar recursos. É saber onde começar sem perder tempo procurando.
+O erro não é não saber. O erro é se desesperar, abrir vinte coisas ao mesmo tempo e transformar o começo em bagunça.
 
-## Dia 2 - Entender a semana
+Este arquivo existe para evitar isso.
 
-Agora olhe a sua rotina acadêmica:
-- veja calendário de aulas, provas, atividades e avisos;
-- copie os horários principais para sua agenda;
-- identifique quais disciplinas parecem mais pesadas.
+---
 
-Se houver muita informação, reduza para três coisas:
-- horário da próxima aula;
-- próxima entrega;
-- próximo aviso importante.
+## ✅ Antes de qualquer coisa: entenda isso
 
-## Dia 3 - Garantir a escrita
+### 1. Você não precisa saber tudo agora
 
-Ative e teste o Office 365 da FIAP.
+Você não precisa chegar dominando matemática, lógica, hardware, Git, inglês técnico ou linguagem de programação.
 
-Use este dia para:
-- abrir Word e PowerPoint;
-- criar sua pasta de trabalhos;
-- salvar um arquivo simples com seu nome e curso.
+Tudo isso vai ser ensinado no tempo certo.
 
-Isso evita correr atrás de ferramenta no meio da primeira entrega.
+O que você precisa agora é:
 
-## Dia 4 - Arrumar o GitHub cedo
+- manter a calma;
+- criar rotina;
+- aprender em ordem;
+- não pular fundamento;
+- não sair caçando ferramenta aleatória.
 
-Crie ou revise sua conta pessoal no GitHub.
+### 2. Você provavelmente não está atrasado
 
-Faça o básico:
-- confirme o e-mail;
-- ative 2FA;
-- deixe a conta pronta para pedir o GitHub Education.
+No começo, quase todo mundo acha que o outro sabe mais.
 
-O objetivo aqui não é explorar o Pack inteiro. É deixar a porta aberta para usar os benefícios certos sem correria depois.
+Só que muita gente parece segura porque fala com confiança, não porque realmente entende.
 
-## Dia 5 - Ver a base do curso
+Então não use a aparência dos outros como régua.
 
-Abra a FIAP ON e entenda onde estão os conteúdos do curso.
+Sua régua agora tem que ser esta:
 
-Se você sentir que falta base em algum tema:
-- entre no Nivelamento;
-- faça isso com calma;
-- trate como apoio, não como prova de valor.
+- eu estou entendendo melhor do que semana passada?
+- eu estou estudando com mais constância?
+- eu estou ficando menos perdido?
 
-Se a base já estiver boa, não invente demanda. Siga o curso normal.
+Se a resposta começar a ser “sim”, você está andando.
 
-## Dia 6 - Aprender sem exagero
+### 3. Você precisa guardar este guia
 
-Escolha apenas um item para estudar por 20 a 30 minutos:
-- um conteúdo da FIAP ON;
-- um pedido do GitHub Education, se ainda não fez;
-- um Nano Course;
-- uma revisão curta da matéria da semana.
+Guarda este material.
 
-Critério simples:
-- se ajudou na aula de hoje, vale;
-- se virou maratona, você exagerou.
+Sério.
 
-## Dia 7 - Olhar carreira sem pressão
+Não lê uma vez e some.
 
-Abra o Talent Lab e veja o que ele oferece para carreira e organização pessoal.
+Esse guia foi pensado para te acompanhar ao longo da trajetória inicial e ele pode conter informações que vão fazer falta depois, principalmente sobre:
 
-Neste dia, faça só uma ação:
-- revisar currículo;
-- revisar LinkedIn;
-- ou entender como pedir orientação.
+- benefícios da FIAP;
+- benefícios do GitHub Pack;
+- o que ativar cedo;
+- o que deixar para depois;
+- e como não perder oportunidade por desorganização.
 
-Você não precisa resolver estágio agora. Precisa só não deixar essa parte virar um susto depois.
+Então salva isso e volta quando bater dúvida.
 
-Feche a semana revisando:
+---
 
-- o que você realmente usou;
-- o que só gerou distração;
-- o que precisa ficar para a próxima semana.
+## 🧠 O que um iniciante realmente precisa entender agora
 
-Saia da primeira semana com quatro hábitos:
+Antes de pensar em “virar programador”, você precisa entender o terreno.
 
-- olhar calendário todos os dias;
-- abrir seus materiais no mesmo lugar;
-- manter o GitHub pronto;
-- estudar um pouco por vez.
+No começo, as dúvidas mais comuns são estas:
 
-## Ordem prática da semana
+- “o que exatamente é um computador?”
+- “o que é hardware e o que é software?”
+- “como uma linguagem de programação conversa com a máquina?”
+- “por que eu travo em lógica?”
+- “eu preciso saber matemática?”
+- “como estudar sem me perder?”
 
-Se quiser resumir tudo em uma linha:
+Se essas dúvidas não forem organizadas, a pessoa começa a estudar código sem entender o básico do ecossistema. Aí tudo parece mais difícil do que realmente é.
 
-1. entrar no ambiente;
-2. entender a agenda;
-3. garantir Office 365;
-4. arrumar GitHub e pedir o Pack;
-5. localizar FIAP ON e Nivelamento;
-6. escolher um estudo leve;
-7. olhar Talent Lab sem pressão e simplificar a rotina.
+Por isso, a sua primeira missão não é correr.
 
-## Próximo passo natural
+A sua primeira missão é **entender o básico do básico e criar rotina**.
 
-Depois deste arquivo, a ordem mais segura é:
+---
+
+## 🎥 Se você está confuso, veja estes materiais nesta ordem
+
+Esses materiais entram aqui porque ajudam a tirar a névoa da cabeça do iniciante.
+
+Não é para assistir tudo de qualquer jeito.
+
+É para usar na ordem certa.
+
+### 1. Primeiro: entenda de onde vêm os computadores e como o hardware funciona
+
+👉 [Assistir vídeo](https://www.youtube.com/watch?v=BbnDmeNojFA&t=3833s)
+
+Esse vídeo é bom para quem está boiando e quer entender:
+
+- um pouco da história dos computadores;
+- como a máquina evoluiu;
+- o que é hardware;
+- como esse universo começou a ser construído.
+
+Ele ajuda muito porque tira aquela sensação de estar estudando “coisas soltas”.
+
+Se você não entende nem o terreno, programação parece uma magia estranha.
+
+### 2. Depois: entenda o que são linguagens de programação
+
+👉 [Assistir vídeo](https://www.youtube.com/watch?v=22nd99SLgNA)
+
+Depois do vídeo anterior, esse aqui entra bem porque explica:
+
+- por que existem linguagens de programação;
+- como elas funcionam;
+- por que existe mais de uma;
+- e qual é a ponte entre a linguagem e a máquina.
+
+Esse vídeo ajuda a organizar a cabeça antes de você mergulhar em sintaxe.
+
+### 3. Depois disso: veja o guia prático de algoritmos em C
+
+👉 [Abrir vídeo local](video-guia-basico-algoritmos.mp4)
+
+Esse material entra na hora certa porque faz a transição da teoria para a prática.
+
+Ou seja:
+
+- primeiro você entende o terreno;
+- depois entende o papel das linguagens;
+- depois vê programação acontecendo de forma prática.
+
+Essa ordem faz muito mais sentido para iniciante perdido do que começar direto em código sem contexto.
+
+---
+
+## 📚 Sobre matemática, lógica e ansiedade
+
+Muita gente chega na programação com vergonha de admitir que está fraca em matemática ou lógica.
+
+Não precisa ter vergonha disso.
+
+Isso é comum.
+
+O ponto importante é entender o seguinte:
+
+- matemática fraca não significa que você “não serve” para programação;
+- lógica fraca não significa que você não vai aprender;
+- ansiedade no começo não significa que você está atrasado;
+- confusão inicial não significa incapacidade.
+
+O que significa, na prática, é só isto:
+
+> você precisa de base, calma e repetição.
+
+Programação cobra:
+
+- leitura com atenção;
+- interpretação;
+- sequência de raciocínio;
+- treino;
+- e paciência para errar e corrigir.
+
+Então, em vez de se cobrar por “saber tudo”, faça o que funciona:
+
+1. aceite que no começo vai existir dúvida;
+2. fortaleça a base;
+3. mantenha constância;
+4. não pule etapa.
+
+Se matemática e lógica forem uma dor real para você, não empurra isso com a barriga. É exatamente por isso que o **Nivelamento** existe e o arquivo de benefícios da FIAP explica isso melhor:
+
+👉 [Ler benefícios FIAP](02-beneficios-fiap.md)
+
+---
+
+## ⏳ Sua prioridade inicial não é ser brilhante. É ser constante.
+
+No começo, a pessoa quer duas coisas ao mesmo tempo:
+
+- aprender rápido;
+- e parar de se sentir perdida.
+
+Só que acelerar sem base piora os dois problemas.
+
+Então sua prioridade agora tem que ser esta:
+
+### Prioridade 1: criar rotina
+
+Você precisa de um horário mínimo de estudo.
+
+Não precisa ser perfeito.
+
+Precisa existir.
+
+Exemplo simples:
+
+- 30 a 60 minutos por dia;
+- ou 1 bloco bem feito em dias fixos da semana;
+- sempre no mesmo horário, se possível.
+
+### Prioridade 2: entender o que está estudando
+
+Não adianta copiar código sem entender nada.
+
+Também não adianta assistir 5 horas de vídeo e não praticar.
+
+Você precisa alternar:
+
+- explicação;
+- entendimento;
+- prática curta;
+- revisão.
+
+### Prioridade 3: usar os benefícios certos
+
+Você precisa olhar os benefícios com atenção porque, no começo, eles realmente podem facilitar sua trajetória.
+
+Mas também precisa olhar com cabeça.
+
+O foco não é ativar tudo.
+
+O foco é não deixar passar o que realmente ajuda no começo.
+
+Então leia com atenção:
+
+- [Benefícios FIAP](02-beneficios-fiap.md)
+- [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
+
+---
+
+## ✅ O que fazer na prática a partir de agora
+
+Se você quer uma ordem simples e humana, siga esta:
+
+### 1. Leia este arquivo inteiro
+
+Sem pular.
+
+### 2. Se estiver muito confuso, veja os vídeos na ordem
+
+1. história dos computadores e hardware;
+2. linguagens de programação;
+3. guia prático de algoritmos em C.
+
+### 3. Organize uma rotina mínima de estudo
+
+Mesmo que seja simples.
+
+O importante é parar de estudar no improviso.
+
+### 4. Entenda os benefícios da FIAP
+
+Principalmente:
+
+- FIAP ON;
+- FIAPP;
+- Nivelamento;
+- Nano Courses;
+- FIAP + Alura;
+- Talent Lab;
+- Office 365.
+
+Tudo isso está aqui:
+
+👉 [Benefícios FIAP](02-beneficios-fiap.md)
+
+### 5. Entenda o que realmente vale ativar do GitHub Pack agora
+
+Sem abrir o catálogo inteiro e se perder.
+
+Leia isto:
+
+👉 [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
+
+### 6. Entenda o que vale ativar com calma
+
+Isso é muito importante porque impede você de gastar energia cedo no lugar errado.
+
+Leia isto:
+
+👉 [Catálogo do GitHub Pack](05-catalogo-github-pack.md)
+
+---
+
+## ❌ O que você não precisa fazer agora
+
+Você não precisa:
+
+- escolher stack avançada;
+- comprar domínio;
+- montar cloud;
+- inventar projeto gigante;
+- se cobrar por não saber tudo;
+- tentar consumir todos os benefícios ao mesmo tempo;
+- copiar rotina de quem já programa há mais tempo.
+
+Isso tudo pesa, mas não ajuda.
+
+---
+
+## 💬 Se você estiver com medo de estar para trás
+
+Leia isso com calma:
+
+Você não está obrigado a começar sabendo.
+
+Você está começando para aprender.
+
+O seu trabalho agora não é impressionar ninguém.
+
+O seu trabalho agora é:
+
+- entender o básico;
+- manter o estudo vivo;
+- fortalecer a base;
+- e não abandonar o processo por ansiedade.
+
+Se você fizer isso, já está na frente de muita gente que só corre, se enrola e desiste.
+
+---
+
+## 📌 Resumo final, sem enrolação
+
+Se você está perdido em programação, faça isto:
+
+1. acalme a cabeça;
+2. entenda que dúvida e base fraca são normais no começo;
+3. veja os vídeos na ordem certa se estiver confuso;
+4. crie rotina de estudo;
+5. leia os benefícios com atenção;
+6. guarde este guia;
+7. volte nele sempre que bater dúvida.
+
+Se você quiser continuar do jeito mais seguro, a sequência é esta:
 
 1. [Benefícios FIAP](02-beneficios-fiap.md)
-2. [GitHub Pack: o que vale ativar agora](03-github-pack-agora.md)
-3. [O que deixar para depois](04-o-que-deixar-para-depois.md)
-
-## Fontes oficiais usadas
-
-- [Graduação FIAP e plataforma FIAP ON](https://www.fiap.com.br/online/graduacao/)
-- [Cursos de Nivelamento](https://on.fiap.com.br/nivelamento/)
-- [Talent Lab](https://www.fiap.com.br/talent-lab/)
-- [Office 365 para alunos](https://www.fiap.com.br/parcerias/microsoft/alunos/)
+2. [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
+3. [Catálogo do GitHub Pack](05-catalogo-github-pack.md)
+4. [FAQ e fontes](06-faq-e-fontes.md)

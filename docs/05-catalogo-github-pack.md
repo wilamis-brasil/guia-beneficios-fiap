@@ -192,6 +192,5 @@ Regra de uso:
 
 ## Próximo passo natural
 
-- Para escolher só o essencial do começo: [03-github-pack-agora.md](03-github-pack-agora.md)
-- Para entender “depois quando?”: [04-o-que-deixar-para-depois.md](04-o-que-deixar-para-depois.md)
+- Para escolher só o essencial do começo: [GitHub Pack: como conseguir e o que vale ativar agora](03-github-pack-como-conseguir-e-o-que-ativar-agora.md)
 - Para voltar à trilha principal: [hub](../README.MD%20(2))
