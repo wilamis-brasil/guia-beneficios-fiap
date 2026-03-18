@@ -2,19 +2,18 @@
 
 [Voltar ao hub](../README.md)
 
-Esse capítulo é só um ponto de apoio.
+Este capítulo é um **bônus**.
 
-Nada de curso, nada de enrolação.  
-É um lugar pra você voltar quando precisar de alguma coisa rápida.
+Não é algo que você precisa estudar agora, nem seguir em ordem.  
+É só um conjunto de links úteis para quando você precisar.
 
-Aqui você vai encontrar:
+Aqui você vai encontrar coisas como:
 
-- documentação;
-- APIs para projeto;
-- livros;
+- documentação pra consultar;
+- APIs pra usar em projetos;
+- livros pra se aprofundar;
 - recursos visuais;
-- direção do que estudar;
-- conteúdos para acompanhar no dia a dia.
+- referências de o que estudar.
 
 ---
 
@@ -24,7 +23,6 @@ Aqui você vai encontrar:
 - [🗺️ Roadmap da área](#roadmap-da-area)
 - [📘 Documentações](#documentacoes)
 - [🧪 APIs para projeto](#apis-para-projeto)
-- [📺 Canais no YouTube](#canais-no-youtube)
 - [🖼️ Recursos visuais](#recursos-visuais)
 
 ---
@@ -101,34 +99,6 @@ Essas APIs ajudam você a praticar e também a montar projetos.
 - **public-api-lists**: para encontrar APIs quando já tiver uma ideia  
 
 Use isso para aprender a buscar dados e mostrar na tela — isso é base de praticamente qualquer aplicação.
-
----
-
-<a id="canais-no-youtube"></a>
-## 📺 Canais no YouTube
-
-Se bem usados, esses canais ajudam a aprender, se atualizar e entender melhor o mercado.
-
-### Para aprender e evoluir na carreira
-
-- [Renato Augusto](https://www.youtube.com/@RenatoAugustoTech/videos)  
-- [Fábio Akita](https://www.youtube.com/@Akitando)  
-- [Código Fonte TV](https://www.youtube.com/@codigofontetv)  
-- Curso em Vídeo  
-
-Conteúdo mais voltado para aprendizado, carreira e visão de longo prazo.
-
-### Para acompanhar e não ficar por fora
-
-- [Lucas Montano](https://www.youtube.com/@LucasMontano)  
-- [Fireship](https://www.youtube.com/@Fireship)  
-- [Mano Deyvin](https://www.youtube.com/@manodeyvin)  
-- [The Prime Time](https://www.youtube.com/@ThePrimeTimeagen)  
-- [The Serious CTO](https://www.youtube.com/@theseriouscto)  
-
-Aqui entra conteúdo mais rápido, notícias, opiniões e tendências.
-
-Use como complemento — não substitui prática nem estudo.
 
 ---
 
