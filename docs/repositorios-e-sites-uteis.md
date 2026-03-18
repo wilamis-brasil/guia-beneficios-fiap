@@ -21,7 +21,6 @@ Aqui você vai encontrar coisas como:
 
 - [📚 Biblioteca de livros](#biblioteca-de-livros)
 - [🗺️ Roadmap da área](#roadmap-da-area)
-- [📘 Documentações](#documentacoes)
 - [🧪 APIs para projeto](#apis-para-projeto)
 - [🖼️ Recursos visuais](#recursos-visuais)
 
@@ -67,19 +66,6 @@ Se você ainda está no começo, foque em:
 - `HTML`
 - `CSS`
 - `JavaScript`
-
----
-
-<a id="documentacoes"></a>
-## 📘 Documentações
-
-- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-- [DevDocs](https://devdocs.io/)
-- [Can I use](https://caniuse.com/)
-
-- **MDN**: melhor ponto de partida para aprender HTML, CSS e JavaScript  
-- **DevDocs**: bom para buscar várias documentações em um só lugar  
-- **Can I use**: mostra se um recurso funciona nos navegadores  
 
 ---
 
