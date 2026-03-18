@@ -27,7 +27,7 @@
   <li>Como conseguir o GitHub Student Developer Pack;</li>
   <li>O que realmente vale ativar primeiro no GitHub Pack;</li>
   <li>O catálogo completo para consultar depois com calma;</li>
-  <li>E um acervo bônus com repositórios, sites e referências úteis para seguir estudando melhor.</li>
+  <li>E um bônus prático com documentações, APIs e sites úteis para a jornada de programação.</li>
 </ul>
 
 ---
@@ -46,8 +46,8 @@ Para entender o que é o Pack, como conseguir e o que vale ativar agora.
 ### 4. <a href="./docs/catalogo-github-pack.md"><strong>Catálogo do GitHub Pack</strong></a>
 Para consultar o resto dos benefícios com calma, sem sair ativando tudo de uma vez.
 
-### 5. <a href="./docs/repositorios-e-sites-uteis.md"><strong>Repositórios, sites e referências úteis</strong></a>
-Para guardar um acervo bom de estudo, prática, front-end, projeto, roadmap e aprofundamento.
+### 5. <a href="./docs/repositorios-e-sites-uteis.md"><strong>Bônus prático: documentações, APIs e sites úteis</strong></a>
+Para guardar coisas que ajudam de verdade enquanto você estiver construindo projeto, pesquisando API, consultando documentação e tentando não se perder.
 
 ---
 

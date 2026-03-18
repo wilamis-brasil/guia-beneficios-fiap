@@ -254,23 +254,6 @@ Cloud, domínio, deploy, dados, analytics e nichos existem, mas normalmente rend
 
 </details>
 
-<details>
-<summary><strong>🗑️ Itens removidos ou fora do snapshot atual</strong></summary>
-
-<p>
-  Isso aqui existe para evitar confusão.
-  <br>
-  Às vezes você vê alguém citando uma oferta antiga. Nem tudo continua ativo.
-</p>
-
-| Oferta | O que era | Como tratar |
-|---|---|---|
-| Bump.sh | Documentação de API. | Trate como histórico até confirmar no portal atual. |
-| Netwise | Infraestrutura / colocation. | Trate como histórico até confirmação oficial. |
-| Typeform | Formulário e pesquisa. | Não assuma como ativo sem validar no Pack atual. |
-
-</details>
-
 ---
 
 <a id="continue-assim"></a>
