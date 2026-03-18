@@ -2,18 +2,19 @@
 
 [Voltar ao hub](../README.md)
 
-Este capítulo é só um acervo de links úteis.
+Esse capítulo é só um ponto de apoio.
 
-Sem curso, sem benefício da FIAP, sem GitHub Pack, sem enrolação.
+Nada de curso, nada de enrolação.  
+É um lugar pra você voltar quando precisar de alguma coisa rápida.
 
-É para quando você precisar de:
+Aqui você vai encontrar:
 
 - documentação;
-- API para projeto;
-- biblioteca de livros;
-- recurso visual;
-- roadmap da área;
-- ferramenta rápida para destravar.
+- APIs para projeto;
+- livros;
+- recursos visuais;
+- direção do que estudar;
+- conteúdos para acompanhar no dia a dia.
 
 ---
 
@@ -23,8 +24,8 @@ Sem curso, sem benefício da FIAP, sem GitHub Pack, sem enrolação.
 - [🗺️ Roadmap da área](#roadmap-da-area)
 - [📘 Documentações](#documentacoes)
 - [🧪 APIs para projeto](#apis-para-projeto)
+- [📺 Canais no YouTube](#canais-no-youtube)
 - [🖼️ Recursos visuais](#recursos-visuais)
-- [🛠️ Ferramentas rápidas](#ferramentas-rapidas)
 
 ---
 
@@ -34,30 +35,37 @@ Sem curso, sem benefício da FIAP, sem GitHub Pack, sem enrolação.
 - [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-Guarda isso para quando você quiser achar leitura boa sem sair caçando tudo sozinho.
+Use quando quiser estudar com mais calma ou aprofundar algum tema.  
+Em vez de procurar livro aleatório, começa por aqui.
 
 ---
 
 <a id="roadmap-da-area"></a>
 ## 🗺️ Roadmap da área
 
+No começo, é normal não saber o que estudar primeiro.
+
+O roadmap.sh ajuda justamente nisso:
+
 - [roadmap.sh](https://roadmap.sh/)
 
-O jeito certo de usar é simples:
+Ele mostra o caminho, mas não é uma lista obrigatória.
 
-1. escolhe uma área;
-2. abre o roadmap dessa área;
-3. vê o que faz sentido para o seu momento;
-4. pega só `1 ou 2` tópicos;
-5. fecha e vai estudar.
+### Como usar
 
-Não é para zerar roadmap.
+1. Escolha uma área (frontend, backend, etc);
+2. Olhe o roadmap por cima;
+3. Pegue 1 ou 2 assuntos que façam sentido agora;
+4. Vá estudar;
+5. Depois volte e repita.
 
-É só para se localizar.
+Não tente aprender tudo de uma vez.
 
-Se você ainda está perdido, começa pelo básico:
+Use o roadmap só para se orientar.
 
-- `Git and GitHub`
+Se você ainda está no começo, foque em:
+
+- `Git e GitHub`
 - `HTML`
 - `CSS`
 - `JavaScript`
@@ -71,14 +79,16 @@ Se você ainda está perdido, começa pelo básico:
 - [DevDocs](https://devdocs.io/)
 - [Can I use](https://caniuse.com/)
 
-`MDN` é ótima para HTML, CSS e JavaScript.  
-`DevDocs` ajuda quando você quer pesquisar várias documentações rápido.  
-`Can I use` serve para ver se um recurso web funciona bem nos navegadores.
+- **MDN**: melhor ponto de partida para aprender HTML, CSS e JavaScript  
+- **DevDocs**: bom para buscar várias documentações em um só lugar  
+- **Can I use**: mostra se um recurso funciona nos navegadores  
 
 ---
 
 <a id="apis-para-projeto"></a>
 ## 🧪 APIs para projeto
+
+Essas APIs ajudam você a praticar e também a montar projetos.
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 - [DummyJSON](https://dummyjson.com/)
@@ -86,9 +96,39 @@ Se você ainda está perdido, começa pelo básico:
 - [BrasilAPI](https://brasilapi.com.br/)
 - [ViaCEP](https://viacep.com.br/)
 
-`JSONPlaceholder` e `DummyJSON` são boas para treino.  
-`BrasilAPI` e `ViaCEP` ajudam bastante em projeto mais perto da realidade daqui.  
-O repositório `public-api-lists` é bom para procurar API quando você já souber o que quer construir.
+- **JSONPlaceholder / DummyJSON**: para treino (dados prontos, sem backend)  
+- **BrasilAPI / ViaCEP**: para projetos mais reais (dados do Brasil)  
+- **public-api-lists**: para encontrar APIs quando já tiver uma ideia  
+
+Use isso para aprender a buscar dados e mostrar na tela — isso é base de praticamente qualquer aplicação.
+
+---
+
+<a id="canais-no-youtube"></a>
+## 📺 Canais no YouTube
+
+Se bem usados, esses canais ajudam a aprender, se atualizar e entender melhor o mercado.
+
+### Para aprender e evoluir na carreira
+
+- [Renato Augusto](https://www.youtube.com/@RenatoAugustoTech/videos)  
+- [Fábio Akita](https://www.youtube.com/@Akitando)  
+- [Código Fonte TV](https://www.youtube.com/@codigofontetv)  
+- Curso em Vídeo  
+
+Conteúdo mais voltado para aprendizado, carreira e visão de longo prazo.
+
+### Para acompanhar e não ficar por fora
+
+- [Lucas Montano](https://www.youtube.com/@LucasMontano)  
+- [Fireship](https://www.youtube.com/@Fireship)  
+- [Mano Deyvin](https://www.youtube.com/@manodeyvin)  
+- [The Prime Time](https://www.youtube.com/@ThePrimeTimeagen)  
+- [The Serious CTO](https://www.youtube.com/@theseriouscto)  
+
+Aqui entra conteúdo mais rápido, notícias, opiniões e tendências.
+
+Use como complemento — não substitui prática nem estudo.
 
 ---
 
@@ -99,23 +139,12 @@ O repositório `public-api-lists` é bom para procurar API quando você já soub
 - [unDraw](https://undraw.co/)
 - [Lucide](https://lucide.dev/)
 
-`Pexels` ajuda com imagem real.  
-`unDraw` ajuda com ilustração.  
-`Lucide` ajuda com ícone.
+- **Pexels**: fotos reais  
+- **unDraw**: ilustrações  
+- **Lucide**: ícones  
 
 ---
 
-<a id="ferramentas-rapidas"></a>
-## 🛠️ Ferramentas rápidas
+Use esse bônus como um atalho, não como mais uma coisa pra estudar.
 
-- [CodePen](https://codepen.io/)
-- [Excalidraw](https://excalidraw.com/)
-
-`CodePen` é bom para testar coisa rápida de HTML, CSS e JavaScript.  
-`Excalidraw` é bom para rabiscar fluxo, tela e ideia antes de codar.
-
----
-
-Se esse bônus for usado do jeito certo, ele não vira bagunça.
-
-Ele vira um lugar rápido para achar o que você precisa quando precisar.
+Quando travar ou precisar de algo específico, volta aqui, pega o que precisa e segue.
