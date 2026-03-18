@@ -1,220 +1,121 @@
-# 🧰 Bônus prático: documentações, APIs e sites úteis na jornada de programação
+# 🧰 Bônus prático: links úteis na jornada de programação
 
 [Voltar ao hub](../README.md)
 
-> Este capítulo não é sobre benefício da FIAP.
->
-> Não é sobre GitHub Pack.
-> Não é sobre curso, certificado ou trilha bonitinha.
->
-> É sobre coisa que ajuda na prática enquanto você estiver estudando, construindo projeto, travando em documentação, procurando API, buscando asset ou tentando entender para onde ir.
+Este capítulo é só um acervo de links úteis.
 
-Então usa este arquivo como uma caixa de ferramentas.
+Sem curso, sem benefício da FIAP, sem GitHub Pack, sem enrolação.
 
-Não como mais uma lista para decorar.
+É para quando você precisar de:
+
+- documentação;
+- API para projeto;
+- biblioteca de livros;
+- recurso visual;
+- roadmap da área;
+- ferramenta rápida para destravar.
 
 ---
 
 ## 🧭 Sumário
 
-- [🚀 Se você está perdido, começa aqui](#se-voce-esta-perdido)
-- [🗺️ Como mexer no roadmap sem viajar](#como-mexer-no-roadmap)
-- [📚 Biblioteca](#biblioteca)
-- [📘 Documentações que você realmente vai consultar](#documentacoes)
-- [🧪 APIs e dados para construir projeto](#apis-e-dados)
-- [🖼️ Recursos visuais que ajudam de verdade](#recursos-visuais)
-- [🛠️ Ferramentas rápidas que destravam](#ferramentas-rapidas)
-- [📌 Regra final de uso](#regra-final)
+- [📚 Biblioteca de livros](#biblioteca-de-livros)
+- [🗺️ Roadmap da área](#roadmap-da-area)
+- [📘 Documentações](#documentacoes)
+- [🧪 APIs para projeto](#apis-para-projeto)
+- [🖼️ Recursos visuais](#recursos-visuais)
+- [🛠️ Ferramentas rápidas](#ferramentas-rapidas)
 
 ---
 
-<a id="se-voce-esta-perdido"></a>
-## 🚀 Se você está perdido, começa aqui
+<a id="biblioteca-de-livros"></a>
+## 📚 Biblioteca de livros
 
-| Se você precisa de... | Abra isso primeiro | Uso real |
-|---|---|---|
-| entender o que estudar depois | `roadmap.sh` | te dá direção sem deixar seu estudo solto |
-| achar leitura boa | `BibliotecaDev` | ajuda a descobrir livros e temas sem sair caçando tudo |
-| consultar HTML, CSS e JavaScript direito | `MDN` | resolve dúvida real com documentação séria |
-| procurar várias documentações rápido | `DevDocs` | centraliza busca e economiza tempo |
-| montar projeto com API fake | `JSONPlaceholder` ou `DummyJSON` | deixa você praticar front sem depender de backend |
-| achar API real para projeto | `public-api-lists`, `BrasilAPI` e `ViaCEP` | te ajuda a sair do projeto morto |
-| pegar imagem, ilustração ou ícone | `Pexels`, `unDraw` e `Lucide` | melhora o visual sem perder tempo à toa |
-| desenhar fluxo ou tela antes de codar | `Excalidraw` | evita sair programando no escuro |
+- [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+Guarda isso para quando você quiser achar leitura boa sem sair caçando tudo sozinho.
 
 ---
 
-<a id="como-mexer-no-roadmap"></a>
-## 🗺️ Como mexer no roadmap sem viajar
+<a id="roadmap-da-area"></a>
+## 🗺️ Roadmap da área
 
-`roadmap.sh` é útil.
+- [roadmap.sh](https://roadmap.sh/)
 
-Mas muita gente usa errado.
+O jeito certo de usar é simples:
 
-Roadmap não é:
+1. escolhe uma área;
+2. abre o roadmap dessa área;
+3. vê o que faz sentido para o seu momento;
+4. pega só `1 ou 2` tópicos;
+5. fecha e vai estudar.
 
-- lista para zerar;
-- disputa com os outros;
-- prova de que você está atrasado.
+Não é para zerar roadmap.
 
-Roadmap é mapa.
+É só para se localizar.
 
-Só isso.
+Se você ainda está perdido, começa pelo básico:
 
-<details open>
-<summary><strong>🧭 Como usar do jeito certo</strong></summary>
-
-1. escolha `uma área` por vez;
-2. abra o roadmap dessa área;
-3. veja o que você já ouviu falar ou já começou a ver;
-4. escolha só `1 ou 2 blocos` para estudar agora;
-5. ignore o resto por enquanto;
-6. volte no roadmap depois de algumas semanas, não todo dia.
-
-</details>
-
-<details>
-<summary><strong>🎯 Qual roadmap abrir primeiro?</strong></summary>
-
-| Se você curte mais... | Começa por... |
-|---|---|
-| interface, site, layout e visual | `Frontend`, `HTML`, `CSS` e `JavaScript` |
-| lógica, API, servidor e banco | `Backend`, `Git and GitHub`, `HTTP` e `SQL` |
-| ainda está perdido | `Git and GitHub`, `HTML`, `CSS` e `JavaScript` |
-
-</details>
-
-<details>
-<summary><strong>⚠️ Erro mais comum</strong></summary>
-
-Abrir o roadmap e achar que precisa aprender tudo antes de fazer projeto.
-
-Não precisa.
-
-O roadmap serve para te orientar.
-
-Não para te paralisar.
-
-</details>
-
----
-
-<a id="biblioteca"></a>
-## 📚 Biblioteca
-
-<details open>
-<summary><strong>📖 Onde achar leitura útil sem virar bagunça</strong></summary>
-
-| Recurso | Para que serve | Quando usar | Cuidado |
-|---|---|---|---|
-| [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) | catálogo em português com livros e temas de programação | quando você quiser descobrir material, não ficar preso em vídeo | use como acervo de consulta, não como checklist |
-| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | coleção grande de livros e recursos livres | quando você já sabe o assunto que quer aprofundar | se abrir sem objetivo, você se perde fácil |
-
-</details>
-
-📌 Regra boa de biblioteca:
-
-- escolha `um tema`;
-- pegue `uma referência`;
-- aplique isso no seu projeto ou estudo;
-- e só depois vá para a próxima.
+- `Git and GitHub`
+- `HTML`
+- `CSS`
+- `JavaScript`
 
 ---
 
 <a id="documentacoes"></a>
-## 📘 Documentações que você realmente vai consultar
+## 📘 Documentações
 
-<details open>
-<summary><strong>📚 Documentação boa economiza muito tempo</strong></summary>
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [DevDocs](https://devdocs.io/)
+- [Can I use](https://caniuse.com/)
 
-| Recurso | Para que serve na prática | Quando usar | Cuidado |
-|---|---|---|---|
-| [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) | aprender e consultar HTML, CSS e JavaScript com base séria | desde o começo, principalmente em web | não tenta ler tudo de uma vez; usa por dúvida e por assunto |
-| [DevDocs](https://devdocs.io/) | pesquisar várias documentações em um lugar só | quando você já estiver consultando mais de uma tecnologia | continua valendo mais a doc oficial da stack quando existir boa |
-| [Can I use](https://caniuse.com/) | checar suporte de recurso web nos navegadores | quando algo parece moderno demais ou estranho demais | não precisa abrir para cada linha de código |
-
-</details>
-
-📌 Regra prática:
-
-se a tecnologia tem documentação oficial boa, ela vence vídeo aleatório.
+`MDN` é ótima para HTML, CSS e JavaScript.  
+`DevDocs` ajuda quando você quer pesquisar várias documentações rápido.  
+`Can I use` serve para ver se um recurso web funciona bem nos navegadores.
 
 ---
 
-<a id="apis-e-dados"></a>
-## 🧪 APIs e dados para construir projeto
+<a id="apis-para-projeto"></a>
+## 🧪 APIs para projeto
 
-<details open>
-<summary><strong>🔌 Para quando você quiser sair do projeto vazio</strong></summary>
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- [DummyJSON](https://dummyjson.com/)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
+- [BrasilAPI](https://brasilapi.com.br/)
+- [ViaCEP](https://viacep.com.br/)
 
-| Recurso | Para que serve | Quando usar | Cuidado |
-|---|---|---|---|
-| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | API fake para treinar `fetch`, lista, detalhe, card e CRUD simulado | quando você está começando a consumir API | é fake, então não representa todos os cenários de uma API real |
-| [DummyJSON](https://dummyjson.com/) | API fake com dados mais variados para testes e protótipos | quando você quiser testar e montar interface mais viva | também é API de treino, não de produção |
-| [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | repositório com APIs públicas para vários tipos de projeto | quando você já souber consumir API e quiser buscar ideia útil | leia a documentação da API escolhida antes de sair usando |
-| [BrasilAPI](https://brasilapi.com.br/) | APIs úteis no contexto brasileiro | quando você quiser projeto mais perto da realidade daqui | confira limites e comportamento antes de depender dela |
-| [ViaCEP](https://viacep.com.br/) | consulta de CEP simples e clássica | quando você quiser montar formulário, endereço ou automação simples | é boa para casos específicos, não para tudo |
-
-</details>
-
-💡 Se você estiver começando agora, a ordem mais segura costuma ser:
-
-1. `JSONPlaceholder`
-2. `DummyJSON`
-3. `BrasilAPI` ou `ViaCEP`
-4. `public-api-lists` para procurar algo mais específico
+`JSONPlaceholder` e `DummyJSON` são boas para treino.  
+`BrasilAPI` e `ViaCEP` ajudam bastante em projeto mais perto da realidade daqui.  
+O repositório `public-api-lists` é bom para procurar API quando você já souber o que quer construir.
 
 ---
 
 <a id="recursos-visuais"></a>
-## 🖼️ Recursos visuais que ajudam de verdade
+## 🖼️ Recursos visuais
 
-<details open>
-<summary><strong>🎨 Para o projeto não ficar com cara de vazio</strong></summary>
+- [Pexels](https://www.pexels.com/)
+- [unDraw](https://undraw.co/)
+- [Lucide](https://lucide.dev/)
 
-| Recurso | Para que serve | Quando usar | Cuidado |
-|---|---|---|---|
-| [Pexels](https://www.pexels.com/) | fotos e vídeos gratuitos | quando seu projeto precisa de imagem real | não enche a tela de imagem sem propósito |
-| [unDraw](https://undraw.co/) | ilustrações SVG prontas | quando você quiser visual mais leve e didático | se usar demais, tudo fica com cara parecida |
-| [Lucide](https://lucide.dev/) | ícones SVG limpos e consistentes | quando faltar ícone bom para interface | escolha um set e mantenha padrão |
-
-</details>
-
-Isso aqui parece detalhe, mas não é.
-
-Projeto vazio, sem dado, sem imagem e sem ícone decente passa sensação de coisa mal acabada mesmo quando o código está bom.
+`Pexels` ajuda com imagem real.  
+`unDraw` ajuda com ilustração.  
+`Lucide` ajuda com ícone.
 
 ---
 
 <a id="ferramentas-rapidas"></a>
-## 🛠️ Ferramentas rápidas que destravam
+## 🛠️ Ferramentas rápidas
 
-<details open>
-<summary><strong>⚙️ Coisa simples que ajuda bastante</strong></summary>
+- [CodePen](https://codepen.io/)
+- [Excalidraw](https://excalidraw.com/)
 
-| Recurso | Para que serve | Quando usar | Cuidado |
-|---|---|---|---|
-| [CodePen](https://codepen.io/) | testar HTML, CSS e JavaScript rápido no navegador | quando você quiser experimentar sem montar projeto inteiro | é ótimo para teste rápido, não para virar sua casa principal |
-| [Excalidraw](https://excalidraw.com/) | rabiscar fluxo, ideia de tela e estrutura antes de codar | quando sua cabeça estiver confusa e você não souber por onde começar | não precisa desenhar tudo bonito; é para pensar melhor |
-
-</details>
+`CodePen` é bom para testar coisa rápida de HTML, CSS e JavaScript.  
+`Excalidraw` é bom para rabiscar fluxo, tela e ideia antes de codar.
 
 ---
 
-<a id="regra-final"></a>
-## 📌 Regra final de uso
+Se esse bônus for usado do jeito certo, ele não vira bagunça.
 
-Se eu tivesse que resumir esse bônus em uma rotina boa, seria esta:
-
-1. usa o `roadmap` para escolher direção;
-2. usa `documentação` para aprender e consultar;
-3. usa `API fake` para praticar;
-4. usa `API real` para dar vida ao projeto;
-5. usa `recurso visual` para não deixar a interface morta;
-6. usa `CodePen` ou `Excalidraw` quando precisar destravar rápido.
-
-Resumo sincero:
-
-> esse bônus não existe para te dar mais coisa para consumir.
->
-> ele existe para te dar ferramentas úteis quando a jornada começar a apertar.
+Ele vira um lugar rápido para achar o que você precisa quando precisar.
