@@ -38,7 +38,29 @@ Em vez de procurar livro aleatório, começa por aqui.
 <a id="canais-do-youtube"></a>
 ## 📺 Canais do Youtube
 
+- [Curso em Vídeo](https://www.youtube.com/cursoemvideo)
+  - Melhor para começar do zero com trilhas organizadas de lógica, Python, HTML/CSS e Java.
 
+- [Dev Aprender](https://www.youtube.com/@devaprender)
+  - Muito bom para iniciantes em Python, lógica de programação, automação e projetos práticos.
+
+- [Código Fonte TV](https://www.youtube.com/@codigofontetv)
+  - Ótimo para aprender fundamentos, entender a área e acompanhar conteúdo introdutório de forma leve.
+
+- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+  - Excelente para desenvolver raciocínio, base de computação e visão de longo prazo na carreira.
+
+- [Dev em Dobro](https://www.youtube.com/c/DevemDobro)
+  - Indicado para quem quer começar em desenvolvimento web e ver projetos guiados.
+
+- [Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
+  - Forte em Python, JavaScript, SQL e ciência de dados com abordagem prática.
+
+- [Joviano Silveira](https://www.youtube.com/@jovianosilveira)
+  - Boa opção para lógica de programação com Python e aulas focadas em base.
+
+- [Programação Dinâmica](https://www.youtube.com/@programacaodinamica)
+  - Canal bom para quem quer aprender com explicações claras e evoluir depois do básico.
 
 ---
 
