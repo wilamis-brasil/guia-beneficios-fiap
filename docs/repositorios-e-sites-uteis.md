@@ -38,7 +38,7 @@ Em vez de procurar livro aleatório, começa por aqui.
 <a id="canais-do-youtube"></a>
 ## 📺 Canais do Youtube
 
-# Canais de YouTube BR para quem está começando em programação
+Canais de YouTube BR para quem está começando em programação
 
 📘 **Curso em Vídeo**  
 <https://www.youtube.com/cursoemvideo>  
