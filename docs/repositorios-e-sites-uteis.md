@@ -1,4 +1,4 @@
-# 🧰 Bônus prático: links úteis na jornada de programação
+# 🧰 Bônus: links úteis na jornada de programação
 
 [Voltar ao hub](../README.md)
 
