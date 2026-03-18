@@ -20,7 +20,8 @@ Aqui você vai encontrar coisas como:
 ## 🧭 Sumário
 
 - [📚 Biblioteca de livros](#biblioteca-de-livros)
-- [🗺️ Roadmap da área](#roadmap-da-area)
+- [📺 Canais do Youtube](#canais-do-youtube)
+- [📍 Roadmap da área](#roadmap-da-area)
 
 ---
 
@@ -34,9 +35,15 @@ Use quando quiser estudar com mais calma ou aprofundar algum tema.
 Em vez de procurar livro aleatório, começa por aqui.
 
 ---
+<a id="canais-do-youtube"></a>
+## 📺 Canais do Youtube
+
+
+
+---
 
 <a id="roadmap-da-area"></a>
-## 🗺️ Roadmap da área
+## 📍 Roadmap da área
 
 No começo, é normal não saber o que estudar primeiro.
 
