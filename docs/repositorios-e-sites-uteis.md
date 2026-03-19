@@ -78,17 +78,34 @@ O navegador passa a ler o conteúdo para você.
 <a id="roadmap-da-area"></a>
 ## 🗺️ Roadmap da área
 
+Um **roadmap** é um guia de estudos.  
+Ele mostra, de forma visual, **quais assuntos existem em uma área** e **uma ordem possível para aprender**.
+
+Pense nele como um **mapa**:  
+você não precisa aprender tudo de uma vez e nem deve usar ele como checklist, mas ele ajuda a entender **onde você está** e **qual pode ser o próximo passo**.
+
+Um site muito usado para isso é:
+
 - [roadmap.sh](https://roadmap.sh/)
 
-Como usar sem se perder:
+### Como usar sem se perder
 
-1. Escolha uma área.
-2. Veja o roadmap por cima.
-3. Pegue 1 ou 2 assuntos que fazem sentido agora.
-4. Estude.
-5. Depois volte e repita.
+1. Escolha a área que você quer estudar.
+2. Olhe o roadmap por cima para entender os principais assuntos.
+3. Não tente aprender tudo de uma vez.
+4. Escolha **1 ou 2 tópicos** que façam sentido para o seu nível agora.
+5. Estude esses tópicos com calma.
+6. Depois volte no roadmap e veja o próximo passo.
 
-Se você estiver no começo, foque primeiro em:
+### Importante
+
+O roadmap **não é uma lista obrigatória** e você **não precisa seguir tudo em ordem exata**.  
+Ele serve para te dar direção e evitar estudar sem saber para onde está indo.
+
+### Se você está começando agora
+
+Foquem primeiro em:
+
 - `Git and GitHub`
 - `HTML`
 - `CSS`
