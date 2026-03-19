@@ -41,7 +41,9 @@ Link:
 ### ✅ Como usar
 
 <img width="1919" height="989" alt="exemplo" src="https://github.com/user-attachments/assets/c0d9ec4a-a99f-418e-be45-f12f730235a3" />
-<br>
+
+
+
 1. Abra o arquivo [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js).
 2. Copie tudo.
 3. No navegador, crie um favorito novo.
