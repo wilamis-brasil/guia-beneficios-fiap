@@ -49,9 +49,11 @@ Link:
 3. No navegador, crie um favorito novo.
 4. No campo do link desse favorito, cole o conteúdo copiado.
 5. Salve com um nome simples, tipo `🔊 Ouvir FIAP`.
-6. Depois, abra uma página da FIAP com texto.
+6. Depois, abra qualquer página da FIAP.
 7. Clique nesse favorito.
-8. Use o botão `Ler`.
+8. Ecreva / Cole algum texto e clique no botão `Ler`.
+
+<img width="386" height="405" alt="recorte-exemplo" src="https://github.com/user-attachments/assets/12ddd63f-2196-4c73-83ff-7d776c469465" />
 
 Pronto.
 
