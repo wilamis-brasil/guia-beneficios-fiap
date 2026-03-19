@@ -3,27 +3,16 @@
 [Voltar ao hub](../README.md)
 
 Este capitulo e um bonus.
-
-Nao e algo que voce precisa estudar agora, nem seguir em ordem.  
-E so um conjunto de links uteis para quando voce precisar.
-
-Aqui voce encontra:
-
-- documentacao para consultar;
-- APIs para usar em projetos;
-- livros para aprofundar;
-- recursos visuais;
-- referencias de estudo;
-- ferramentas praticas para destravar.
+Nao e para estudar tudo agora, e sim para usar quando precisar.
 
 ---
 
 ## Sumario
 
 - [Biblioteca de livros](#biblioteca-de-livros)
+- [Ouvir conteudo da FIAP com TTS](#ouvir-conteudo-da-fiap-com-tts)
 - [Canais do Youtube](#canais-do-youtube)
 - [Roadmap da area](#roadmap-da-area)
-- [Ferramentas rapidas](#ferramentas-rapidas)
 
 ---
 
@@ -33,7 +22,27 @@ Aqui voce encontra:
 - [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-Use quando quiser estudar com calma ou aprofundar algum tema.
+Use quando quiser aprofundar algum tema com leitura de qualidade.
+
+---
+
+<a id="ouvir-conteudo-da-fiap-com-tts"></a>
+## Ouvir conteudo da FIAP com TTS
+
+Para alunos da FIAP (principalmente no modelo online), existe muito conteudo em texto.
+Em vez de apenas ler, voce pode ouvir o conteudo digitado e estudar enquanto organiza outras tarefas.
+
+- [Leitor TTS (Bookmarklet)](./tts-bookmarklet-refatorado.js)
+
+Por que ajuda no dia a dia:
+- reduz cansaco visual em blocos longos de texto;
+- facilita revisao de conteudo teorico;
+- permite consumir material de forma mais flexivel.
+
+Fluxo simples de uso:
+1. abra a pagina com o conteudo;
+2. ative o bookmarklet;
+3. cole o texto e clique em `Ler`.
 
 ---
 
@@ -56,7 +65,7 @@ Use quando quiser estudar com calma ou aprofundar algum tema.
 
 - [roadmap.sh](https://roadmap.sh/)
 
-Como usar:
+Como usar sem se perder:
 
 1. escolha uma area;
 2. veja o roadmap por cima;
@@ -64,26 +73,11 @@ Como usar:
 4. estude;
 5. depois volte e repita.
 
-Se voce ainda esta no comeco, foque em:
-
+Se voce estiver no comeco, foque primeiro em:
 - `Git and GitHub`
 - `HTML`
 - `CSS`
 - `JavaScript`
-
----
-
-<a id="ferramentas-rapidas"></a>
-## Ferramentas rapidas
-
-- [CodePen](https://codepen.io/)
-- [Excalidraw](https://excalidraw.com/)
-- [Leitor TTS (Bookmarklet)](./tts-bookmarklet-refatorado.js)
-
-Beneficios praticos do script TTS:
-- Leitura em voz para textos longos sem sair da pagina.
-- Modo nativo por padrao e opcao de ElevenLabs quando necessario.
-- Janela minimizavel e arrastavel para nao atrapalhar o layout.
 
 ---
 
