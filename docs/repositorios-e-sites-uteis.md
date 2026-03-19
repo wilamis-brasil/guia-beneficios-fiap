@@ -38,7 +38,7 @@ Em vez de ficar preso só na leitura, você pode fazer o navegador ler o conteú
 Link:
 - [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js)
 
-> ⚠️ **DICA IMPORTANTE:** a voz fica muito melhor no navegador Edge, parece muito mais humano.
+> ⚠️ **DICA IMPORTANTE:** a voz fica muito melhor no navegador Edge, parece muito mais humano. Você pode usar o nativo (do seu navegador) ou usar a sua [API Eleven LABS](https://elevenlabs.io/app/developers/api-keys).
 
 ### ✅ Como usar
 
