@@ -1,6 +1,6 @@
 # 🎁 FIAP + GitHub Student Developer Pack: +R$ 100 mil em benefícios grátis para quem está começando programação
 
-> 🕜 Atualizado 17/03/2026
+> 🕜 Atualizado 18/03/2026
 
 > ⭐ Ei, ajude o coleguinha, dá uma estrela no repositório!
 <p>
