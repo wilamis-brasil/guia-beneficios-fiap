@@ -29,35 +29,35 @@ Use quando quiser aprofundar algum tema com leitura de qualidade.
 <a id="ouvir-conteudo-da-fiap-em-voz"></a>
 ## 🔊 Ouvir conteúdo da FIAP em voz
 
-`TTS` significa **texto para fala**.
-Na prática: em vez de só ler, você também pode **ouvir** o conteúdo.
+Ler alguns textos longos da FIAP é bem chato.
 
-Link do script:
-- [Leitor TTS (Bookmarklet)](./tts-bookmarklet-refatorado.js)
+Por isso criamos esse bônus.
 
-### 💡 Valor real (sem papo técnico)
+Em vez de ficar preso só na leitura, você pode fazer o navegador ler o conteúdo para você.
 
-- Cansa menos a vista em textos longos.
-- Ajuda a revisar matéria enquanto você organiza outras tarefas.
-- Funciona bem para revisão, resumo e leitura repetida de conteúdo teórico.
+Link:
+- [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js)
 
-### ✅ Como adicionar em 1 minuto (modo mais fácil)
+Isso ajuda quando você:
 
-1. Abra o arquivo [Leitor TTS (Bookmarklet)](./tts-bookmarklet-refatorado.js).
-2. Copie todo o conteúdo (começa com `javascript:`).
+- cansou de ficar lendo bloco enorme de texto;
+- quer revisar conteúdo de um jeito mais leve;
+- quer ouvir enquanto acompanha a página.
+
+### ✅ Como usar
+
+1. Abra o arquivo [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js).
+2. Copie tudo.
 3. No navegador, crie um favorito novo.
-4. No campo `URL` do favorito, cole esse conteúdo.
-5. Salve com um nome tipo `🔊 Leitor FIAP`.
+4. No campo do link desse favorito, cole o conteúdo copiado.
+5. Salve com um nome simples, tipo `🔊 Ouvir FIAP`.
+6. Depois, abra uma página da FIAP com texto.
+7. Clique nesse favorito.
+8. Use o botão `Ler`.
 
-Depois, quando estiver em uma página com texto, clique no favorito e use o botão `Ler`.
+Pronto.
 
-### 🧪 Teste rápido pelo console (sem instalar favorito)
-
-1. Abra a página do conteúdo.
-2. Pressione `F12` e entre na aba `Console`.
-3. Cole o código do arquivo e pressione `Enter`.
-
-Pronto: o leitor aparece na tela.
+O navegador passa a ler o conteúdo para você.
 
 ---
 
