@@ -31,9 +31,9 @@ Use quando quiser aprofundar algum tema com leitura de qualidade.
 
 Ler alguns textos longos da FIAP é bem chato.
 
-Por isso criamos esse bônus.
+Por isso criei um script que lê em voz alta o que está escrito.
 
-Em vez de ficar preso só na leitura, você pode fazer o navegador ler o conteúdo para você.
+Em vez de ficar preso só na leitura, você pode fazer o navegador ler o conteúdo por você.
 
 Link:
 - [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js)
