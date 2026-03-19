@@ -1,23 +1,23 @@
-# Bonus: links uteis na jornada de programacao
+# 🎁 Bônus: links úteis na jornada de programação
 
 [Voltar ao hub](../README.md)
 
-Este capitulo e um bonus.
-Nao e para estudar tudo agora, e sim para usar quando precisar.
+Este capítulo é para te destravar rápido no dia a dia.
+Não é para consumir tudo de uma vez.
 
 ---
 
-## Sumario
+## 🧭 Sumário
 
-- [Biblioteca de livros](#biblioteca-de-livros)
-- [Ouvir conteudo da FIAP com TTS](#ouvir-conteudo-da-fiap-com-tts)
-- [Canais do Youtube](#canais-do-youtube)
-- [Roadmap da area](#roadmap-da-area)
+- [📚 Biblioteca de livros](#biblioteca-de-livros)
+- [🔊 Ouvir conteúdo da FIAP em voz](#ouvir-conteudo-da-fiap-em-voz)
+- [📺 Canais do YouTube](#canais-do-youtube)
+- [🗺️ Roadmap da área](#roadmap-da-area)
 
 ---
 
 <a id="biblioteca-de-livros"></a>
-## Biblioteca de livros
+## 📚 Biblioteca de livros
 
 - [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
@@ -26,28 +26,43 @@ Use quando quiser aprofundar algum tema com leitura de qualidade.
 
 ---
 
-<a id="ouvir-conteudo-da-fiap-com-tts"></a>
-## Ouvir conteudo da FIAP com TTS
+<a id="ouvir-conteudo-da-fiap-em-voz"></a>
+## 🔊 Ouvir conteúdo da FIAP em voz
 
-Para alunos da FIAP (principalmente no modelo online), existe muito conteudo em texto.
-Em vez de apenas ler, voce pode ouvir o conteudo digitado e estudar enquanto organiza outras tarefas.
+`TTS` significa **texto para fala**.
+Na prática: em vez de só ler, você também pode **ouvir** o conteúdo.
 
+Link do script:
 - [Leitor TTS (Bookmarklet)](./tts-bookmarklet-refatorado.js)
 
-Por que ajuda no dia a dia:
-- reduz cansaco visual em blocos longos de texto;
-- facilita revisao de conteudo teorico;
-- permite consumir material de forma mais flexivel.
+### 💡 Valor real (sem papo técnico)
 
-Fluxo simples de uso:
-1. abra a pagina com o conteudo;
-2. ative o bookmarklet;
-3. cole o texto e clique em `Ler`.
+- Cansa menos a vista em textos longos.
+- Ajuda a revisar matéria enquanto você organiza outras tarefas.
+- Funciona bem para revisão, resumo e leitura repetida de conteúdo teórico.
+
+### ✅ Como adicionar em 1 minuto (modo mais fácil)
+
+1. Abra o arquivo [Leitor TTS (Bookmarklet)](./tts-bookmarklet-refatorado.js).
+2. Copie todo o conteúdo (começa com `javascript:`).
+3. No navegador, crie um favorito novo.
+4. No campo `URL` do favorito, cole esse conteúdo.
+5. Salve com um nome tipo `🔊 Leitor FIAP`.
+
+Depois, quando estiver em uma página com texto, clique no favorito e use o botão `Ler`.
+
+### 🧪 Teste rápido pelo console (sem instalar favorito)
+
+1. Abra a página do conteúdo.
+2. Pressione `F12` e entre na aba `Console`.
+3. Cole o código do arquivo e pressione `Enter`.
+
+Pronto: o leitor aparece na tela.
 
 ---
 
 <a id="canais-do-youtube"></a>
-## Canais do Youtube
+## 📺 Canais do YouTube
 
 - [Curso em Video](https://www.youtube.com/cursoemvideo)
 - [Dev Aprender](https://www.youtube.com/@devaprender)
@@ -61,19 +76,19 @@ Fluxo simples de uso:
 ---
 
 <a id="roadmap-da-area"></a>
-## Roadmap da area
+## 🗺️ Roadmap da área
 
 - [roadmap.sh](https://roadmap.sh/)
 
 Como usar sem se perder:
 
-1. escolha uma area;
-2. veja o roadmap por cima;
-3. pegue 1 ou 2 assuntos que fazem sentido agora;
-4. estude;
-5. depois volte e repita.
+1. Escolha uma área.
+2. Veja o roadmap por cima.
+3. Pegue 1 ou 2 assuntos que fazem sentido agora.
+4. Estude.
+5. Depois volte e repita.
 
-Se voce estiver no comeco, foque primeiro em:
+Se você estiver no começo, foque primeiro em:
 - `Git and GitHub`
 - `HTML`
 - `CSS`
@@ -81,4 +96,4 @@ Se voce estiver no comeco, foque primeiro em:
 
 ---
 
-Use este bonus como atalho: quando travar, volte aqui, pegue o que precisa e siga.
+Use este bônus como atalho: quando travar, volte aqui, pegue o que precisa e siga.
