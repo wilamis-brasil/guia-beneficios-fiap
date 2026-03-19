@@ -80,7 +80,7 @@ O navegador passa a ler o conteúdo para você.
 <a id="roadmap-da-area"></a>
 ## 🗺️ Roadmap da área
 
-Um **roadmap** é um guia de estudos.  
+Um **roadmap** é como um guia de estudos.  
 Ele mostra, de forma visual, **quais assuntos existem em uma área** e **uma ordem possível para aprender**.
 
 Pense nele como um **mapa**:  
