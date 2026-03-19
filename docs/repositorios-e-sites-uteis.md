@@ -38,12 +38,6 @@ Em vez de ficar preso só na leitura, você pode fazer o navegador ler o conteú
 Link:
 - [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js)
 
-Isso ajuda quando você:
-
-- cansou de ficar lendo bloco enorme de texto;
-- quer revisar conteúdo de um jeito mais leve;
-- quer ouvir enquanto acompanha a página.
-
 ### ✅ Como usar
 
 1. Abra o arquivo [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js).
