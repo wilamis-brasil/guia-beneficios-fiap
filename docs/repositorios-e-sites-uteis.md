@@ -2,8 +2,8 @@
 
 [Voltar ao hub](../README.md)
 
-Este capítulo é para te destravar rápido no dia a dia.
-Não é para consumir tudo de uma vez.
+Como o nome já diz, este capítulo é um **conteúdo extra**  para apoiar sua jornada de programação.  
+Você **não precisa ver tudo de uma vez**. Use quando precisar.
 
 ---
 
