@@ -46,7 +46,7 @@ Para entender o que é o Pack, como conseguir e o que vale ativar agora.
 ### 4. <a href="./docs/catalogo-github-pack.md"><strong>Catálogo do GitHub Pack</strong></a>
 Para consultar o resto dos benefícios com calma, sem sair ativando tudo de uma vez.
 
-### 5. <a href="./docs/bonus.md"><strong>Bônus prático: documentações, APIs e sites úteis</strong></a>
+### 5. <a href="./docs/bonus.md"><strong>Bônus Secreto...</strong></a>
 Para guardar coisas que ajudam de verdade enquanto você estiver construindo projeto, pesquisando API, consultando documentação e tentando não se perder.
 
 ---
