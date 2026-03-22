@@ -1,4 +1,4 @@
-# 🧭 Comece por aqui se você está perdidasso na programação
+# 🧭 Guia Para Iniciantes Fiap
 
 [Voltar ao hub](../README.md)
 
