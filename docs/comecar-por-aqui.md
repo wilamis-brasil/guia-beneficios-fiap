@@ -1,4 +1,4 @@
-# 🧭 Guia Para Iniciantes Fiap
+# 📍 Guia Para Iniciantes Fiap
 
 [Voltar ao hub](../README.md)
 
