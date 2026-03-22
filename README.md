@@ -47,7 +47,7 @@ Entenda o GitHub Developers Pack, um "vale-tudo" GRATUITO de ferramentas premium
 Veja isso quando se sentir perdido quanto aos benefícios do Github Developers Pack.
 
 ### 5. <a href="./docs/bonus.md"><strong>Bônus Secreto...</strong></a>
-Um Compilado de Links e Script MUITO Úteis na Jornada de Programação.
+Um Compilado de Script e Links MUITO Úteis na Jornada de Programação.
 
 ---
 
