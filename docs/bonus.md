@@ -46,8 +46,8 @@ Link:
 
 
 
-1. Abra o arquivo [Leitor em voz para páginas da FIAP](./tts-bookmarklet-refatorado.js).
-2. Copie tudo.
+1. Abra o arquivo [LINK](./tts-bookmarklet-refatorado.js).
+2. Copie o código.
 3. No navegador, crie um favorito novo.
 4. No campo do link desse favorito, cole o conteúdo copiado.
 5. Salve com um nome simples, tipo `🔊 Ouvir FIAP`.
