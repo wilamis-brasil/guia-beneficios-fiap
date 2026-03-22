@@ -34,20 +34,20 @@
 
 ## 📚 Ordem certa para ler
 
-### 1. <a href="./docs/comecar-por-aqui.md"><strong>Começar por aqui</strong></a>
-Para quem está perdido, ansioso, com base fraca ou sem saber por onde seguir.
+### 1. <a href="./docs/comecar-por-aqui.md"><strong>📍 Guia Para Iniciantes Fiap</strong></a>
+Veja isso se você está perdido, ansioso, com problemas ou base fraca, sem saber por onde seguir.
 
-### 2. <a href="./docs/beneficios-fiap.md"><strong>Benefícios FIAP</strong></a>
-Para entender o que a faculdade já te entrega e o que realmente ajuda no começo.
+### 2. <a href="./docs/beneficios-fiap.md"><strong>🏷️ Benefícios da Faculdade FIAP</strong></a>
+Veja isso para entender o que a faculdade já te entrega e o que realmente ajuda no começo.
 
-### 3. <a href="./docs/github-pack.md"><strong>GitHub Pack</strong></a>
-Para entender o que é o Pack, como conseguir e o que vale ativar agora.
+### 3. <a href="./docs/github-pack.md"><strong>GitHub Developers Pack for Students</strong></a>
+Entenda o GitHub Developers Pack, um "vale-tudo" GRATUITO de ferramentas premium de programação, saiba como conseguir, e muito mais.
 
 ### 4. <a href="./docs/catalogo-github-pack.md"><strong>Catálogo do GitHub Pack</strong></a>
-Para consultar o resto dos benefícios com calma, sem sair ativando tudo de uma vez.
+Veja isso quando se sentir perdido quanto aos benefícios do Github Developers Pack.
 
 ### 5. <a href="./docs/bonus.md"><strong>Bônus Secreto...</strong></a>
-Para guardar coisas que ajudam de verdade enquanto você estiver construindo projeto, pesquisando API, consultando documentação e tentando não se perder.
+Um Compilado de Links MUITO Úteis na Jornada de Programação.
 
 ---
 
