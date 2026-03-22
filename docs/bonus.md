@@ -1,4 +1,4 @@
-# 🎁 Bônus: links úteis na jornada de programação
+# 🎁 Bônus: Um Compilado de Links Úteis na Jornada de Programação
 
 [Voltar ao hub](../README.md)
 
