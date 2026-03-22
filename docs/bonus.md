@@ -77,6 +77,17 @@ O navegador passa a ler o conteúdo para você.
 
 ---
 
+<a id="beneficios-extras"></a>
+## 🔥 Benefícios Extras
+
+Como todos já sabem, estudantes universitários tem uma séria de beneficios e descontos absurdos, e isso não se limita apenas ao github pack como menciondo antes, irei citar alguns beneficios extras que não citei e que estão aqui como bonus, existem muitos outros beneficios extras, como pagar meia pra ir no cinema, pagar meia no canvas, spotify, youtube, etc... mas só vou citar aqui os que estão de graça
+
+[Figma](https://www.figma.com/pt-br/education/)
+
+
+
+---
+
 <a id="roadmap-da-area"></a>
 ## 🗺️ Roadmap da área
 
