@@ -51,7 +51,7 @@ O Pack aproxima você de **ferramentas e créditos** que, fora desse contexto, m
 
 Não é dinheiro caindo na conta — é **economia potencial** e acesso a infraestrutura séria para estudo e portfólio.
 
-O GitHub não publica um valor único oficial somando tudo. Em materiais de referência aparecem **milhares de reais** em valor agregado; em alguns casos fala-se em **até da ordem de R$ 100 mil** ao longo de **anos**, **se** você usar de verdade. Trate sempre como **estimativa ilustrativa**.
+O GitHub não publica um valor único oficial somando tudo. Em materiais de referência aparecem **milhares de reais** em valor agregado; em alguns casos fala-se em **até da ordem de R$ 200 mil** ao longo de **anos**, **se** você usar de verdade. Trate sempre como **estimativa ilustrativa**.
 
 ### 🚀 O que muda na prática
 
