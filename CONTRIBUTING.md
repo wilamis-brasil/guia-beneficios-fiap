@@ -1,6 +1,6 @@
 # ❤️ Contribuindo
 
-Valeu por querer contribuir com este guia.
+Muito obrigado por querer contribuir com este guia.
 
 Se você encontrou um link quebrado, viu alguma informação desatualizada ou quer melhorar um trecho do texto, pode abrir uma issue ou enviar um pull request. Qualquer ajuda já faz diferença. 🚀
 
