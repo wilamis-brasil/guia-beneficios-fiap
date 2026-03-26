@@ -16,7 +16,7 @@ Este repositório é um **pacote organizado**: contexto do GitHub Education, pas
 | 📂 | [**Catálogo**](docs/02-pack-catalog.md) | Explore com mais atenção o catálogo de benefícios completo |
 | 🎁 | [**BÔNUS - Recursos + bookmarklet**](docs/03-bonus-resources.md) | Livros, YouTube, roadmap e leitor em voz (`scripts/tts-bookmarklet.js`) |
 
-📑 **Índice da pasta** `docs/`: [ver `docs/README.md`](docs/README.md).
+> 📑 **Índice da pasta** `docs/`: [ver `docs/README.md`](docs/README.md).
 
 ## Antes de ativar um monte de coisa
 
