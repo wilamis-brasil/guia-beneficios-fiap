@@ -3,6 +3,7 @@
 🧭 Este repositório é um **pacote organizado**: contexto do GitHub Education, passo a passo de solicitação, sugestões do que ativar no começo, **catálogo** para consulta quando precisar e **extras** (links, canais, roadmap + bookmarklet de leitura em voz).
 
 > ⭐ Ei! Ajude o coleguinha, de uma estrela / like
+
 > 📅 **Última atualização:** 26/03/2026
 
 ---
