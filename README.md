@@ -12,9 +12,9 @@ Este repositório é um **pacote organizado**: contexto do GitHub Education, pas
 
 | | Documento | Em poucas palavras |
 |---|-----------|-------------------|
-| 📘 | [**Guia principal**](docs/01-github-student-pack.md) | O que é o Github Pack, requisitos, solicitação e o que faz sentido ativar primeiro |
-| 📂 | [**Catálogo**](docs/02-pack-catalog.md) | Explore com mais atenção o catálogo de benefícios completo |
-| 🎁 | [**BÔNUS - Recursos + bookmarklet**](docs/03-bonus-resources.md) | Livros, YouTube, roadmap e leitor em voz (`scripts/tts-bookmarklet.js`) |
+| 📘 1. | [**Guia principal**](docs/01-github-student-pack.md) | O que é o Github Pack, requisitos, solicitação e o que faz sentido ativar primeiro |
+| 📂 2. | [**Catálogo**](docs/02-pack-catalog.md) | Explore com mais atenção o catálogo de benefícios completo |
+| 🎁 3. | [**BÔNUS - Recursos + bookmarklet**](docs/03-bonus-resources.md) | Livros, YouTube, roadmap e leitor em voz (`scripts/tts-bookmarklet.js`) |
 
 > 📑 **Índice da pasta** `docs/`: [ver `docs/README.md`](docs/README.md).
 
