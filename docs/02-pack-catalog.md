@@ -7,8 +7,6 @@
 
 Este arquivo continua sendo uma **mesa de consulta**, mas agora com um filtro mais útil: cada oferta abaixo explica **o que o Pack realmente entrega**, **qual problema resolve** e **quando vale ativar**.
 
-`Observação:` ofertas que eu não consegui localizar na página oficial nessa revisão foram removidas para evitar informação velha. Nomes e benefícios que mudaram no catálogo oficial também foram corrigidos, como `GitHub Certification Voucher`, `.TECH` e `Cryptolens`.
-
 ---
 
 ## Sumário
