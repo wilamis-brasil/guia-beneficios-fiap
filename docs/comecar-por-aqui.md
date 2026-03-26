@@ -132,9 +132,9 @@ Depois do vídeo anterior, esse aqui entra bem porque explica:
 
 Esse vídeo ajuda a organizar a cabeça antes de você mergulhar em sintaxe.
 
-### 3. Depois disso: veja o guia prático de algoritmos em C
+### 3. Depois disso: Aprenda a programar na prática.
 
-👉 [Abrir vídeo local](video-guia-basico-algoritmos.mp4)
+👉 [Abrir vídeo]([video-guia-basico-algoritmos.mp4](https://drive.google.com/file/d/1LezWCNusZDoyCY4usMGLaP6o1YWS2X_-/view?usp=sharing))
 
 Esse material entra na hora certa porque faz a transição da teoria para a prática.
 
