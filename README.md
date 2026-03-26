@@ -1,10 +1,8 @@
-# GitHub Student Developer Pack — Guia em português
-
-**Curadoria:** **Wilamis Brasil** · Material para quem estuda programação e quer **usar o Pack com método**, não só saber que ele existe.
+# 🎁 FIAP ON + GitHub Student Developer Pack: Garanta Mais de $100 MIL Reais em Benefícios Exclusivos
 
 Este repositório é um **pacote organizado**: contexto do GitHub Education, passo a passo de solicitação, sugestões do que ativar no começo, **catálogo** para consulta quando precisar e **extras** (links, canais, roadmap + bookmarklet de leitura em voz).
 
-📅 **Última atualização:** 22/03/2026
+> 📅 **Última atualização:** 26/03/2026
 
 ---
 
