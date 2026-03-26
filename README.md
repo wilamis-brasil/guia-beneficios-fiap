@@ -13,7 +13,7 @@
 |---|-----------|-------------------|
 | 📌 | [**1. Guia principal**](docs/01-github-student-pack.md) | O que é o Github Pack, requisitos, solicitação e o que faz sentido ativar primeiro |
 | 📂 | [**2. Catálogo**](docs/02-pack-catalog.md) | Explore com mais atenção o catálogo de benefícios completo |
-| 🎁 | [**3. Bônus**](docs/03-bonus-resources.md) | Conteúdo Extra DE GRAÇA, Livros, Canais YouTube, Links e Script |
+| 🎁 | [**3. Bônus**](docs/03-bonus-resources.md) | Conteúdo Extra DE GRAÇA, Livros, Canais YouTube, Links e Script Exclusivo |
 
 > 📑 **Índice da pasta** `docs/`: [ver `docs/README.md`](docs/README.md).
 
