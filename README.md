@@ -2,17 +2,8 @@
 
 Este repositório é um **pacote organizado**: contexto do GitHub Education, passo a passo de solicitação, sugestões do que ativar no começo, **catálogo** para consulta quando precisar e **extras** (links, canais, roadmap + bookmarklet de leitura em voz).
 
+> ⭐ Ei! Ajude o coleguinha, de uma estrela / like
 > 📅 **Última atualização:** 26/03/2026
-
----
-
-## Por que não é “só mais um README”
-
-Muita gente descobre o Pack e se perde em **lista infinita de ferramenta** ou ativa tudo e não usa nada direito. Aqui o foco é outro: **prioridade**, **ordem de leitura** e **honestidade** sobre valores (sempre como *estimativa*, nunca promessa).
-
-> 📌 **Regra de ouro:** o que vale é o que você **realmente integra** na sua rotina — o resto pode esperar.
-
-Fonte oficial para regras, prazos e elegibilidade: [**GitHub Education**](https://education.github.com/).
 
 ---
 
@@ -20,21 +11,11 @@ Fonte oficial para regras, prazos e elegibilidade: [**GitHub Education**](https:
 
 | | Documento | Em poucas palavras |
 |---|-----------|-------------------|
-| 📘 | [**Guia principal**](docs/01-github-student-pack.md) | O que é o Pack, requisitos, solicitação e o que faz sentido ativar primeiro |
-| 📂 | [**Catálogo**](docs/02-pack-catalog.md) | Ofertas por categoria, com “quando usar” e cuidados |
-| 🎁 | [**Recursos + bookmarklet**](docs/03-bonus-resources.md) | Livros, YouTube, roadmap e leitor em voz (`scripts/tts-bookmarklet.js`) |
+| 📘 | [**Guia principal**](docs/01-github-student-pack.md) | O que é o Github Pack, requisitos, solicitação e o que faz sentido ativar primeiro |
+| 📂 | [**Catálogo**](docs/02-pack-catalog.md) | Explore com mais atenção o catálogo de benefícios completo |
+| 🎁 | [**BÔNUS - Recursos + bookmarklet**](docs/03-bonus-resources.md) | Livros, YouTube, roadmap e leitor em voz (`scripts/tts-bookmarklet.js`) |
 
 📑 **Índice da pasta** `docs/`: [ver `docs/README.md`](docs/README.md).
-
----
-
-## Rota sugerida (na ordem)
-
-1. 📘 [Guia principal](docs/01-github-student-pack.md) — base e processo  
-2. 📂 [Catálogo](docs/02-pack-catalog.md) — consulta quando for explorar ou comparar  
-3. 🎁 [Recursos complementares](docs/03-bonus-resources.md) — extras e instalação do bookmarklet  
-
----
 
 ## Antes de ativar um monte de coisa
 
