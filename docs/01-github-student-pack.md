@@ -131,10 +131,6 @@ Não precisa ativar o catálogo inteiro. O Pack é grande — use o [catálogo](
 
 Para quem se distrai fácil: combina foco em blocos e, na configuração adequada, ajuda a manter o estudo no ambiente da instituição até acabar o tempo.
 
-### 🐙 GitHub Pro
-
-Base para **presença técnica** séria: repositórios, histórico, issues, PRs, perfil. É o que mais conecta estudo → portfólio → oportunidade.
-
 ### 🎮 Codédex
 
 Aprender programação **jogando**, com desafios e trilhas — bom para alternar teoria e prática, principalmente se você aprende fazendo.
