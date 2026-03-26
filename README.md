@@ -40,13 +40,13 @@ Veja isso se você está perdido, ansioso, com problemas ou base fraca, sem sabe
 ### 2. <a href="./docs/beneficios-fiap.md"><strong>🏷️ Benefícios da Faculdade FIAP</strong></a>
 Veja isso para entender o que a faculdade já te entrega e o que realmente ajuda no começo.
 
-### 3. <a href="./docs/github-pack.md"><strong>GitHub Developers Pack for Students</strong></a>
+### 3. <a href="./docs/github-pack.md"><strong>🕵️‍♂️ GitHub Developers Pack for Students</strong></a>
 Entenda o GitHub Developers Pack, um "vale-tudo" GRATUITO de ferramentas premium de programação, saiba como conseguir, e muito mais.
 
-### 4. <a href="./docs/catalogo-github-pack.md"><strong>Catálogo do GitHub Pack</strong></a>
+### 4. <a href="./docs/catalogo-github-pack.md"><strong>📂 Catálogo do GitHub Pack</strong></a>
 Veja isso quando se sentir perdido quanto aos benefícios do Github Developers Pack.
 
-### 5. <a href="./docs/bonus.md"><strong>Bônus Secreto...</strong></a>
+### 5. <a href="./docs/bonus.md"><strong>🎁 Bônus Secreto...</strong></a>
 Um Compilado de Script e Links MUITO Úteis na Jornada de Programação.
 
 ---
