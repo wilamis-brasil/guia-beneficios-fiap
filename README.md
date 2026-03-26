@@ -8,7 +8,7 @@ Este repositório é um **pacote organizado**: contexto do GitHub Education, pas
 
 ---
 
-## O que tem neste repositório
+## 🧐 O que tem neste repositório
 
 | | Documento | Em poucas palavras |
 |---|-----------|-------------------|
@@ -18,7 +18,7 @@ Este repositório é um **pacote organizado**: contexto do GitHub Education, pas
 
 > 📑 **Índice da pasta** `docs/`: [ver `docs/README.md`](docs/README.md).
 
-## Antes de ativar um monte de coisa
+## 🖐️ Antes de ativar um monte de coisa
 
 - Leia o **guia principal** antes de sair clicando em tudo.  
 - Ative **só** o que conversa com o que você estuda ou está construindo **agora**.  
@@ -26,7 +26,7 @@ Este repositório é um **pacote organizado**: contexto do GitHub Education, pas
 
 ---
 
-## Contribuir
+## ❤️ Contribuir
 
 Se quiser apoiar financeiramente o trabalho por trás deste e de outros projetos open source, existe a página no **GitHub Sponsors**: [github.com/sponsors/wilamis-brasil](https://github.com/sponsors/wilamis-brasil).
 
@@ -34,7 +34,7 @@ Issues e PRs são bem-vindos para correções e melhorias. Veja [**CONTRIBUTING.
 
 ---
 
-## Licença
+## ⚖️ Licença
 
 Conteúdo sob [**CC BY 4.0**](LICENSE) (Creative Commons **Atribuição** 4.0) · © 2026 Wilamis Brasil.
 
