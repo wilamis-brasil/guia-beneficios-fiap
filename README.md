@@ -1,4 +1,4 @@
-# 🎁 FIAP + GitHub Student Developer Pack: +R$ 100 mil em benefícios grátis para quem está começando programação
+# 🎁 FIAP ON + GitHub Student Developer Pack: +R$ 100 mil em benefícios grátis para quem está começando programação
 
 > 🕜 Atualizado 22/03/2026
 
@@ -37,7 +37,7 @@
 ### 1. <a href="./docs/comecar-por-aqui.md"><strong>📍 Guia Para Iniciantes Fiap</strong></a>
 Veja isso se você está perdido, ansioso, com problemas ou base fraca, sem saber por onde seguir.
 
-### 2. <a href="./docs/beneficios-fiap.md"><strong>🏷️ Benefícios da Faculdade FIAP</strong></a>
+### 2. <a href="./docs/beneficios-fiap.md"><strong>🏷️ Benefícios da Faculdade FIAP ON</strong></a>
 Veja isso para entender o que a faculdade já te entrega e o que realmente ajuda no começo.
 
 ### 3. <a href="./docs/github-pack.md"><strong>🕵️‍♂️ GitHub Developers Pack for Students</strong></a>
