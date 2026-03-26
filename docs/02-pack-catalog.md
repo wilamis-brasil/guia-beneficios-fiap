@@ -1,4 +1,4 @@
-# Catálogo do GitHub Student Developer Pack
+﻿# Catálogo do GitHub Student Developer Pack
 
 🏠 [← Voltar ao README principal](../README.md)
 
@@ -7,6 +7,11 @@
 
 Este arquivo continua sendo uma **mesa de consulta**, mas agora com um filtro mais útil: cada oferta abaixo explica **o que o Pack realmente entrega**, **qual problema resolve** e **quando vale ativar**.
 
+🧭 **Leitura rápida deste catálogo**
+
+- `💎 Valor real para você`: por que essa oferta realmente vale atenção.
+- `🕒 Quando faz sentido`: a fase em que o benefício costuma render mais.
+- `⚠️ Cuidado`: quando ativar cedo demais vira distração ou complexidade desnecessária.
 ---
 
 ## Sumário
@@ -21,9 +26,9 @@ Este arquivo continua sendo uma **mesa de consulta**, mas agora com um filtro ma
 <a id="o-que-olhar-primeiro-se-voce-esta-comecando"></a>
 ## Por onde começar?
 
-Comece por estas partes:
+🎯 Comece por estas partes:
 
-| Se você quer... | Olhe primeiro |
+| 🎯 Se você quer... | 👉 Olhe primeiro |
 |---|---|
 | aprender melhor e parar de pular de curso em curso | `Aprender e praticar` |
 | codar com menos atrito e mais produtividade | `Ferramentas de desenvolvimento` |
@@ -33,12 +38,12 @@ Comece por estas partes:
 
 Se você ainda está no começo, o grosso do valor real do Pack costuma estar em:
 
-- `GitHub Copilot`
-- `GitHub Codespaces`
-- `GitHub Pages`
-- `JetBrains`
-- `Notion`
-- `1Password`
+- `🤖 GitHub Copilot`
+- `☁️ GitHub Codespaces`
+- `🌐 GitHub Pages`
+- `🧠 JetBrains`
+- `📝 Notion`
+- `🔐 1Password`
 
 Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware existem, mas normalmente rendem mais **depois que você já tem projeto, rotina ou problema real para resolver**.
 
@@ -47,18 +52,18 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
 <a id="beneficios-que-mais-valem-entender"></a>
 ## Benefícios que mais valem entender
 
-| Benefício | O Pack entrega hoje | Por que isso vale de verdade |
+| 🎁 Benefício | 📦 O Pack entrega hoje | 💎 Por que isso vale de verdade |
 |---|---|---|
-| GitHub Copilot | Acesso gratuito ao GitHub Copilot para estudante verificado. | É um ganho real de velocidade para boilerplate, testes, documentação e exploração de código, desde que você revise tudo criticamente. |
-| GitHub Codespaces | Acesso de nível Pro ao Codespaces. | Resolve setup, ambiente quebrado e máquina fraca. Para workshop, aula, onboarding e projeto curto, isso economiza horas. |
-| GitHub Pages | 1 site por conta e organização, além de sites ilimitados por projeto. | É uma das formas mais rápidas de publicar portfólio, landing page e documentação sem pagar hospedagem. |
-| GitHub Certification Voucher | 1 voucher para certificação GitHub Foundations ou Copilot, com cupons atuais expirando em `30/06/2026`, enquanto durar estoque. | É um dos poucos benefícios que vira credencial formal no currículo, mas só faz sentido se você já usa GitHub de verdade. |
-| DigitalOcean | `$200` de crédito por 1 ano. | Dá fôlego real para subir MVP, API, laboratório e banco sem abrir a carteira no começo. |
-| Appwrite | Education plan enquanto você continuar no Pack, com recursos equivalentes ao plano Pro. | Acelera MVP com auth, banco, storage e hosting sem você montar tudo do zero. |
-| MongoDB | `$50` em Atlas, Compass, MongoDB University e certificação gratuita avaliada em `$150`. | É pacote de infra + tooling + formação. Ajuda tanto quem quer banco gerenciado quanto quem quer aprender a stack. |
-| 1Password | 1 ano grátis com Developer Tools. | É um dos benefícios mais subestimados do Pack porque resolve um problema real de estudante e dev: parar de espalhar senha, token e chave em lugar errado. |
-| Notion | Education plan com respostas adicionais de IA. | Vai além de nota de aula: serve para centralizar projeto, sprint, documentação, pesquisa e rotina. |
-| Sentry | 50 mil erros, 100 mil transações, 1 GB de anexos, 500 replays e recursos de equipe por 1 ano renovável. | Em projeto público, demo ou portfólio com uso real, isso reduz o tempo entre “deu bug” e “entendi exatamente o que quebrou”. |
+| 🤖 GitHub Copilot | Acesso gratuito ao GitHub Copilot para estudante verificado. | É um ganho real de velocidade para boilerplate, testes, documentação e exploração de código, desde que você revise tudo criticamente. |
+| ☁️ GitHub Codespaces | Acesso de nível Pro ao Codespaces. | Resolve setup, ambiente quebrado e máquina fraca. Para workshop, aula, onboarding e projeto curto, isso economiza horas. |
+| 🌐 GitHub Pages | 1 site por conta e organização, além de sites ilimitados por projeto. | É uma das formas mais rápidas de publicar portfólio, landing page e documentação sem pagar hospedagem. |
+| 🏅 GitHub Certification Voucher | 1 voucher para certificação GitHub Foundations ou Copilot, com cupons atuais expirando em `30/06/2026`, enquanto durar estoque. | É um dos poucos benefícios que vira credencial formal no currículo, mas só faz sentido se você já usa GitHub de verdade. |
+| 💵 DigitalOcean | `$200` de crédito por 1 ano. | Dá fôlego real para subir MVP, API, laboratório e banco sem abrir a carteira no começo. |
+| 🧱 Appwrite | Education plan enquanto você continuar no Pack, com recursos equivalentes ao plano Pro. | Acelera MVP com auth, banco, storage e hosting sem você montar tudo do zero. |
+| 🍃 MongoDB | `$50` em Atlas, Compass, MongoDB University e certificação gratuita avaliada em `$150`. | É pacote de infra + tooling + formação. Ajuda tanto quem quer banco gerenciado quanto quem quer aprender a stack. |
+| 🔐 1Password | 1 ano grátis com Developer Tools. | É um dos benefícios mais subestimados do Pack porque resolve um problema real de estudante e dev: parar de espalhar senha, token e chave em lugar errado. |
+| 📝 Notion | Education plan com respostas adicionais de IA. | Vai além de nota de aula: serve para centralizar projeto, sprint, documentação, pesquisa e rotina. |
+| 🚨 Sentry | 50 mil erros, 100 mil transações, 1 GB de anexos, 500 replays e recursos de equipe por 1 ano renovável. | Em projeto público, demo ou portfólio com uso real, isso reduz o tempo entre “deu bug” e “entendi exatamente o que quebrou”. |
 
 ---
 
@@ -74,7 +79,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   O valor dela não está em "ter curso grátis", mas em usar cada benefício no momento certo.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | AlgoExpert | O Pack não libera a plataforma inteira: entrega `20` questões de entrevista e `10%` de desconto. O valor real é testar esse tipo de treino antes de pagar por algo mais profundo. | Quando você já está mirando estágio ou vaga e quer medir preparo para entrevista técnica. | Se você ainda sofre com o básico, isso vai parecer punição, não progresso. |
 | Codedex | Dá `6 meses` de Codédex Club. O valor real é ganhar ritmo com cursos mais leves e práticos de Python, HTML, CSS, JavaScript, React, Git e linha de comando. | Quando você precisa praticar com regularidade e quer uma porta de entrada menos pesada. | Não abra cinco trilhas ao mesmo tempo e chame isso de estudo. |
@@ -99,7 +104,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   A diferença entre "legal de ter" e "realmente valiosa" é simples: ela precisa economizar tempo, erro ou setup.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | GitHub Copilot | O Pack dá acesso gratuito ao GitHub Copilot para estudante verificado. O valor real está em acelerar boilerplate, testes, refatorações pequenas e documentação. | Quando você já consegue revisar criticamente o que foi gerado. | Se virar piloto automático, atrapalha mais do que ajuda. |
 | GitHub Pro | O Pack libera GitHub Pro enquanto você for estudante. O valor real é usar o GitHub como base séria de portfólio, estudos e projetos privados sem custo. | Quando você quer centralizar projeto, histórico e presença profissional. | Plano premium não compensa repositório vazio. |
@@ -129,7 +134,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   O valor aparece de verdade quando você já tem algo para publicar, testar ou operar.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | Appwrite | Dá acesso ao Education plan enquanto você continuar no Pack, com limites equivalentes ao plano Pro. O valor real é juntar auth, banco, storage e hosting para acelerar um MVP. | Quando você quer velocidade para validar produto. | Se usar cedo demais, pode esconder fundamentos de backend. |
 | DigitalOcean | Dá `$200` de crédito por `1 ano`. O valor real é hospedar app, API, laboratório e side project sem custo imediato. | Quando você já sabe que vai colocar algo no ar. | Crédito some rápido se você deixar recurso rodando sem controle. |
@@ -150,7 +155,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   Sem isso, quase tudo aqui vira distração.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | Appfigures | Dá `1 ano` de analytics e performance reports. O valor real é medir app publicado sem pagar stack separada. | Quando você já lançou app e precisa entender desempenho e loja. | Sem app publicado, não serve para quase nada. |
 | Blockchair | Dá `100.000` requisições gratuitas. O valor real é prototipar integração com dados de blockchain sem custo inicial. | Quando blockchain é parte central do projeto. | Fora disso, não vale energia nem foco. |
@@ -177,7 +182,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   Essa categoria começa a valer muito quando você sai do exercício isolado e passa a lidar com credencial, deploy, usuário e erro real.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | 1Password | Dá `1 ano` grátis com 1Password Developer Tools. O valor real é organizar senha, chave, token e login do jeito certo. | Quando você já lida com várias contas, APIs e segredos. | Escolha um gerenciador e use direito, em vez de acumular vários. |
 | AstraSecurity | Dá `6 meses` de firewall e malware scanner. O valor real é colocar uma primeira camada de proteção em site público sem montar essa stack na unha. | Quando o site já está no ar. | Antes de publicar, não existe alvo real. |
@@ -198,7 +203,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   Aqui entram benefícios que ajudam menos no "codar agora" e mais no "sustentar projeto, estudo e comunicação".
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | Camber | Dá o Student plan com `200` CPU hours, `75 GB` de storage e `200` mensagens de LLM por mês. O valor real é ter compute para pesquisa, simulação e análise sem montar infra. | Quando seu trabalho é computacional ou acadêmico. | Benefício forte, mas bem nichado. |
 | DailyBot | Dá o Business plan para até `10` usuários por `6 meses`. O valor real é automatizar standup, follow-up e retrospectiva em projeto de equipe. | Quando trabalho em grupo já tem rotina e fricção de alinhamento. | Em uso solo, o valor cai bastante. |
@@ -221,7 +226,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   Mas ela faz diferença quando você já tem algo funcional e precisa comunicar melhor.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | Bootstrap Studio | Dá licença gratuita enquanto você for estudante. O valor real é montar landing page, site e protótipo responsivo com mais velocidade. | Quando você quer colocar uma interface simples e apresentável no ar rápido. | Não substitui entender HTML e CSS. |
 | Icons8 | Dá `3 meses` de acesso a ícones, ilustrações, fotos e músicas. O valor real é parar de usar asset aleatório e dar coesão visual a demo e apresentação. | Quando seu projeto já pede qualidade visual mínima. | Biblioteca boa não compensa layout ruim. |
@@ -240,7 +245,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   Quase sempre o domínio vale mais quando já existe conteúdo, projeto ou portfólio para colocar atrás dele.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | Name.com | Dá `1` domínio grátis em TLDs selecionados como `.live`, `.studio`, `.software`, `.app` e `.dev`. O valor real é publicar projeto ou portfólio com endereço profissional sem custo inicial. | Quando você já tem algo para publicar. | Domínio sem site continua sendo só intenção. |
 | Namecheap | Dá `1 ano` de domínio `.me` e `1` certificado SSL por `1 ano`. O valor real é uma rota simples para site pessoal com HTTPS desde o começo. | Quando portfólio ou página pessoal está pronto para ir ao ar. | Branding antes de conteúdo quase sempre é ansiedade disfarçada. |
@@ -257,7 +262,7 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
   Para quem está começando em programação geral, normalmente não é prioridade agora.
 </p>
 
-| Oferta | Valor real para você | Quando faz sentido | Cuidado |
+| 🎁 Oferta | 💎 Valor real para você | 🕒 Quando faz sentido | ⚠️ Cuidado |
 |---|---|---|---|
 | Adafruit | Dá `1 ano` de Adafruit IO+ e descontos em hardware selecionado. O valor real é combinar nuvem + componentes para IoT sem pagar tudo do bolso. | Quando sensor, placa e automação fazem parte do projeto. | Se seu foco ainda é software básico, espere. |
 | Arduino | Dá `6 meses` de Arduino Cloud e descontos em hardware. O valor real é prototipar IoT com menos atrito de infra. | Quando eletrônica ou maker já faz parte da jornada. | Sem necessidade de hardware, não é prioridade. |
@@ -275,3 +280,4 @@ Cloud mais pesada, analytics, scraping, geodados, feature flags e hardware exist
 - 🏠 **[README do repositório](../README.md)** — página inicial  
 
 **Fluxo que costuma funcionar:** guia principal → entender os benefícios subestimados → usar este catálogo só quando surgir uma necessidade concreta → ativar o que combina com a sua fase atual.
+

@@ -1,16 +1,15 @@
 # 🎁 FIAP ON + GitHub Student Developer Pack: Garanta Mais de $100 MIL Reais em Benefícios Exclusivos
 
-Este repositório é um **pacote organizado**: contexto do GitHub Education, passo a passo de solicitação, sugestões do que ativar no começo, **catálogo** para consulta quando precisar e **extras** (links, canais, roadmap + bookmarklet de leitura em voz).
+🧭 Este repositório é um **pacote organizado**: contexto do GitHub Education, passo a passo de solicitação, sugestões do que ativar no começo, **catálogo** para consulta quando precisar e **extras** (links, canais, roadmap + bookmarklet de leitura em voz).
 
 > ⭐ Ei! Ajude o coleguinha, de uma estrela / like
-
 > 📅 **Última atualização:** 26/03/2026
 
 ---
 
 ## 🧐 O que tem neste repositório
 
-| | Documento | Em poucas palavras |
+| 🎯 | 📄 Documento | 💬 Em poucas palavras |
 |---|-----------|-------------------|
 | 📌 1. | [**Guia principal**](docs/01-github-student-pack.md) | O que é o Github Pack, requisitos, solicitação e o que faz sentido ativar primeiro |
 | 📂 2. | [**Catálogo**](docs/02-pack-catalog.md) | Explore com mais atenção o catálogo de benefícios completo |
