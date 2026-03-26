@@ -1,4 +1,4 @@
-# 🎓 Benefícios FIAP para quem está começando programação
+# 🎓 Benefícios FIAP ON para quem está começando programação
 
 [Voltar ao hub](../README.md)
 
