@@ -14,14 +14,6 @@
 
 ---
 
-## 🧩 Rotas rápidas por objetivo
-
-- ⚡ **Quero começar agora:** vá direto para o [**Guia principal**](01-github-student-pack.md).
-- 🔎 **Quero decidir o que ativar:** use o [**Catálogo**](02-pack-catalog.md) como tabela de consulta.
-- 🎁 **Quero recursos extras:** veja os [**Bônus**](03-bonus-resources.md).
-
----
-
 ## 🛠️ Script disponível
 
 - 🔊 [**Bookmarklet de leitura em voz**](../scripts/tts-bookmarklet.js): ferramenta para ler trechos em voz alta no navegador.
