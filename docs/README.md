@@ -1,7 +1,5 @@
 # 🗂️ Documentação
 
-🧭 Esta pasta organiza o conteúdo em uma sequência simples: **entender o contexto**, **consultar o catálogo** e **aproveitar bônus**.
-
 > 📅 Referência de atualização geral: veja a data no [README principal](../README.md).
 
 ---
