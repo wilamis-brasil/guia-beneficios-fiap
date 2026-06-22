@@ -1,0 +1,23 @@
+name: links
+
+on:
+  push:
+    paths: ["**/*.md"]
+  pull_request:
+    paths: ["**/*.md"]
+  schedule:
+    # Todo dia 1º às 06:00 UTC: pega links que quebraram com o tempo.
+    - cron: "0 6 1 * *"
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: "--no-progress --verbose --max-concurrency 4 './**/*.md'"
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

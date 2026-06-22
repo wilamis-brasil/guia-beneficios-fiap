@@ -1,0 +1,44 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Student Developer Pack — Guia prático">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1b2333"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3fb950"/>
+      <stop offset="1" stop-color="#238636"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+
+  <!-- concentric rings, top-right -->
+  <g fill="none" stroke="#2da44e" stroke-opacity="0.13" stroke-width="2">
+    <circle cx="1140" cy="150" r="60"/>
+    <circle cx="1140" cy="150" r="115"/>
+    <circle cx="1140" cy="150" r="170"/>
+    <circle cx="1140" cy="150" r="225"/>
+  </g>
+  <circle cx="1140" cy="150" r="13" fill="#3fb950" fill-opacity="0.9"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="12" height="320" fill="url(#accent)"/>
+
+  <text x="64" y="76" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#3fb950">GITHUB EDUCATION</text>
+  <text x="62" y="142" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="53" font-weight="800" fill="#ffffff">GitHub Student Developer Pack</text>
+  <text x="64" y="184" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="25" font-weight="600" fill="#c9d1d9">Guia prático — o que ativar, quando e por quê</text>
+  <text x="64" y="218" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="17" fill="#8b949e">Catálogo verificado dos benefícios · reunido para a comunidade FIAP</text>
+
+  <g font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="16" font-weight="600">
+    <rect x="64" y="250" width="118" height="34" rx="17" fill="#21262d" stroke="#30363d"/>
+    <text x="123" y="272" text-anchor="middle" fill="#c9d1d9">Copilot</text>
+    <rect x="194" y="250" width="148" height="34" rx="17" fill="#21262d" stroke="#30363d"/>
+    <text x="268" y="272" text-anchor="middle" fill="#c9d1d9">Codespaces</text>
+    <rect x="354" y="250" width="104" height="34" rx="17" fill="#21262d" stroke="#30363d"/>
+    <text x="406" y="272" text-anchor="middle" fill="#c9d1d9">Pages</text>
+    <rect x="470" y="250" width="128" height="34" rx="17" fill="#21262d" stroke="#30363d"/>
+    <text x="534" y="272" text-anchor="middle" fill="#c9d1d9">JetBrains</text>
+    <rect x="610" y="250" width="140" height="34" rx="17" fill="#21262d" stroke="#30363d"/>
+    <text x="680" y="272" text-anchor="middle" fill="#c9d1d9">1Password</text>
+  </g>
+</svg>

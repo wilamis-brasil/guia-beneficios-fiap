@@ -1,0 +1,78 @@
+<svg width="1200" height="740" viewBox="0 0 1200 740" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Benefícios do GitHub Student Developer Pack que mais valem entender">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="740" fill="url(#bg2)"/>
+
+  <text x="48" y="52" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#3fb950">CATÁLOGO DO PACK</text>
+  <text x="46" y="92" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff">Benefícios que mais valem entender</text>
+
+  <!-- cards -->
+  <g font-family="Segoe UI, system-ui, Arial, sans-serif">
+    <!-- Row 1 -->
+    <g transform="translate(48,120)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#3fb950"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">GitHub Copilot</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">Acelera boilerplate, testes e documentação.</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">Novos cadastros temporariamente pausados.</text>
+    </g>
+    <g transform="translate(612,120)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#58a6ff"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">GitHub Codespaces</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">Ambiente Pro pronto no navegador,</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">sem perder horas de setup local.</text>
+    </g>
+    <!-- Row 2 -->
+    <g transform="translate(48,266)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#bc8cff"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">GitHub Pages</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">Publica portfólio, docs e landing page</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">com atrito quase zero, sem hospedagem.</text>
+    </g>
+    <g transform="translate(612,266)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#f778ba"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">JetBrains</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">IDEs profissionais (IntelliJ, PyCharm…),</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">com assinatura renovável todo ano.</text>
+    </g>
+    <!-- Row 3 -->
+    <g transform="translate(48,412)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#39c5cf"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">DigitalOcean</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">US$ 200 de crédito por 1 ano para subir</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">MVP, API e laboratório sem custo inicial.</text>
+    </g>
+    <g transform="translate(612,412)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#e3b341"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">1Password</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">Senha, token e chave no lugar certo.</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">1 ano grátis com Developer Tools.</text>
+    </g>
+    <!-- Row 4 -->
+    <g transform="translate(48,558)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#ffffff"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">Notion</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">Centraliza estudo, projeto e rotina</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">num lugar só, com respostas de IA.</text>
+    </g>
+    <g transform="translate(612,558)">
+      <rect width="540" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="30" cy="34" r="7" fill="#db6d28"/>
+      <text x="50" y="41" font-size="21" font-weight="700" fill="#ffffff">Sentry</text>
+      <text x="28" y="74" font-size="15" fill="#8b949e">Acha e reproduz bug real rápido.</text>
+      <text x="28" y="98" font-size="15" fill="#8b949e">50 mil erros por ano, renovável.</text>
+    </g>
+  </g>
+
+  <text x="600" y="716" text-anchor="middle" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="14" fill="#6e7681">Estimativas ilustrativas · confira sempre em education.github.com/pack · verificado em 22/06/2026</text>
+</svg>
