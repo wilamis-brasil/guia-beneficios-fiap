@@ -9,7 +9,7 @@ Obrigado pelo interesse em contribuir com este guia. Correções de links quebra
 Abra uma issue ao encontrar:
 
 - link quebrado;
-- informação desatualizada em relação ao [GitHub Education](https://education.github.com/);
+- informação desatualizada em relação ao [GitHub Education](https://education.github.com/pack);
 - erro de escrita;
 - trecho confuso ou que pode melhorar.
 
