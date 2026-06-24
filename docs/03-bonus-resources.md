@@ -82,11 +82,8 @@ Curadoria pessoal — sem ordem de "melhor para pior":
 - [Curso em Vídeo](https://www.youtube.com/cursoemvideo)
 - [Dev Aprender](https://www.youtube.com/@devaprender)
 - [Código Fonte TV](https://www.youtube.com/@codigofontetv)
-- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Dev em Dobro](https://www.youtube.com/c/DevemDobro)
 - [Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
-- [Programação Dinâmica](https://www.youtube.com/@programacaodinamica)
-- [Joviano Silveira](https://www.youtube.com/@jovianosilveira)
 
 ---
 
